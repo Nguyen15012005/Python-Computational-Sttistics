@@ -1,0 +1,1000 @@
+﻿Mã đơn hàng,Ngày đặt hàng,Khu vực,Thành phố,Kênh bán hàng,Nhóm sản phẩm,Tên sản phẩm,Đơn giá (VNĐ),Số lượng,Doanh thu (VNĐ),Giảm giá (%),Thành tiền (VNĐ),Phí vận chuyển (VNĐ),Phương thức thanh toán,Giới tính KH,Tuổi KH,Đánh giá (sao),Trạng thái,Mã nhân viên
+DH000001,2024-10-16,Miền Trung,Huế,Đại lý,Thực phẩm,Gạo ST25,64000.0,5,320000.0,0.0,320000.0,44000.0,Tiền mặt,Nữ,22.0,2.0,Hoàn thành,NV039
+DH000002,2023-04-25,Tây Nguyên,Lâm Đồng,Siêu thị,Gia dụng,Nồi cơm điện,534000.0,6,3204000.0,0.0,3204000.0,0.0,Chuyển khoản,Nam,36.0,5.0,Hoàn thành,NV035
+DH000003,2023-01-26,Miền Nam,TP.HCM,Siêu thị,Thực phẩm,Bánh tráng,34000.0,3,102000.0,20.0,82000.0,71000.0,Ví điện tử,Nam,36.0,3.0,Hoàn thành,NV041
+DH000004,2023-10-09,Miền Nam,TP.HCM,Online,Điện tử,Máy tính bảng,2010000.0,4,8040000.0,5.0,7638000.0,0.0,Chuyển khoản,Nữ,32.0,4.0,Hoàn thành,NV040
+DH000005,2023-09-08,Miền Bắc,Quảng Ninh,Cửa hàng,Điện tử,Máy tính bảng,849000.0,4,3396000.0,10.0,3056000.0,0.0,Tiền mặt,Nam,42.0,5.0,Đã hủy,NV025
+DH000006,2023-08-17,Miền Bắc,Bắc Ninh,Siêu thị,Thời trang,Túi xách,161000.0,3,483000.0,0.0,483000.0,55000.0,Thẻ tín dụng,Nam,26.0,3.0,Hoàn thành,NV033
+DH000007,2023-05-23,Miền Bắc,Hải Phòng,Online,Thời trang,Túi xách,229000.0,5,1145000.0,5.0,1088000.0,79000.0,COD,Nữ,36.0,2.0,Đang giao,NV028
+DH000008,2023-04-15,Miền Nam,Bình Dương,Đại lý,Thực phẩm,Gạo ST25,47000.0,4,188000.0,0.0,188000.0,43000.0,Tiền mặt,Nữ,26.0,,Hoàn thành,NV050
+DH000009,2024-11-23,Miền Nam,Cần Thơ,Đại lý,Thực phẩm,Gạo ST25,51000.0,2,102000.0,20.0,82000.0,,Tiền mặt,Nữ,25.0,3.0,Đã hủy,NV019
+DH000010,2024-07-12,Miền Nam,TP.HCM,Đại lý,Thời trang,Áo thun,624000.0,1,624000.0,0.0,624000.0,34000.0,Chuyển khoản,Nữ,41.0,4.0,Hoàn thành,NV001
+DH000011,2023-03-31,Miền Bắc,Quảng Ninh,Đại lý,Điện tử,Loa bluetooth,1100000.0,4,4400000.0,0.0,4400000.0,0.0,Thẻ tín dụng,Nam,35.0,5.0,Đang giao,NV032
+DH000012,2024-08-27,Tây Nguyên,Gia Lai,Online,Điện tử,Loa bluetooth,2533000.0,5,12665000.0,5.0,12032000.0,0.0,Thẻ tín dụng,Nữ,50.0,5.0,Hoàn thành,NV016
+DH000013,2024-03-08,Miền Nam,Bình Dương,Cửa hàng,Văn phòng phẩm,Bìa hồ sơ,16000.0,5,80000.0,20.0,64000.0,120000.0,Tiền mặt,Nam,20.0,5.0,Hoàn thành,NV025
+DH000014,2023-02-02,Miền Bắc,Hải Phòng,Online,Thực phẩm,Nước mắm,35000.0,2,70000.0,5.0,66000.0,122000.0,Tiền mặt,Nam,21.0,3.0,Hoàn thành,NV049
+DH000015,2023-01-31,Miền Bắc,Hà Nội,Cửa hàng,Mỹ phẩm,Nước hoa,214000.0,5,1070000.0,10.0,963000.0,43000.0,COD,Nữ,47.0,4.0,Hoàn thành,NV014
+DH000016,2023-04-06,Miền Bắc,Hà Nội,Đại lý,Mỹ phẩm,Kem chống nắng,493000.0,2,986000.0,10.0,887000.0,112000.0,Tiền mặt,Nam,28.0,4.0,Hoàn thành,NV037
+DH000017,2023-08-12,Miền Trung,Nghệ An,Siêu thị,Thực phẩm,Gạo ST25,56000.0,8,448000.0,25.0,336000.0,69000.0,Chuyển khoản,Nam,36.0,4.0,Hoàn thành,NV050
+DH000018,2023-08-27,Miền Nam,Cần Thơ,Siêu thị,Gia dụng,Ấm siêu tốc,586000.0,1,586000.0,20.0,469000.0,103000.0,Thẻ tín dụng,Nữ,38.0,5.0,Hoàn thành,NV038
+DH000019,2024-06-01,Miền Trung,Nghệ An,Siêu thị,Điện tử,Điện thoại,858000.0,4,3432000.0,0.0,3432000.0,0.0,Chuyển khoản,Nữ,31.0,5.0,Hoàn thành,NV004
+DH000020,2024-09-08,Miền Bắc,Bắc Ninh,Cửa hàng,Gia dụng,Bàn ủi,1984000.0,7,13888000.0,50.0,6944000.0,0.0,Chuyển khoản,Nữ,32.0,5.0,Hoàn thành,NV002
+DH000021,2023-01-28,Miền Nam,TP.HCM,Đại lý,Thời trang,Quần jean,179000.0,5,895000.0,0.0,895000.0,95000.0,Chuyển khoản,Nữ,36.0,5.0,Hoàn thành,NV009
+DH000022,2024-07-28,Miền Bắc,Hà Nội,Online,Mỹ phẩm,Son môi,45000.0,8,360000.0,10.0,324000.0,117000.0,Chuyển khoản,Nam,26.0,5.0,Hoàn thành,NV010
+DH000023,2023-07-23,Miền Bắc,Quảng Ninh,Siêu thị,Điện tử,Máy tính bảng,5615000.0,5,28075000.0,0.0,28075000.0,0.0,Chuyển khoản,Nữ,32.0,4.0,Trả hàng,NV012
+DH000024,2024-10-27,Miền Trung,Nghệ An,Cửa hàng,Gia dụng,Nồi cơm điện,461000.0,4,1844000.0,10.0,1660000.0,130000.0,Tiền mặt,Nữ,44.0,5.0,Hoàn thành,NV045
+DH000025,2024-12-19,Miền Trung,Nghệ An,Siêu thị,Điện tử,Tai nghe,1390000.0,1,1390000.0,0.0,1390000.0,67000.0,Ví điện tử,Nam,33.0,5.0,Đang giao,NV030
+DH000026,2024-07-12,Miền Nam,TP.HCM,Online,Mỹ phẩm,Kem chống nắng,122000.0,4,488000.0,0.0,488000.0,54000.0,Ví điện tử,Nam,23.0,5.0,Hoàn thành,NV005
+DH000027,2024-03-05,Miền Bắc,Hà Nội,Đại lý,Thời trang,Quần jean,1341000.0,2,2682000.0,0.0,2682000.0,0.0,Tiền mặt,Nữ,41.0,4.0,Hoàn thành,NV042
+DH000028,2023-08-14,Miền Nam,TP.HCM,Online,Gia dụng,Ấm siêu tốc,641000.0,6,3846000.0,25.0,2884000.0,0.0,Ví điện tử,Nữ,41.0,4.0,Đang giao,NV031
+DH000029,2024-04-04,Miền Nam,Đồng Nai,Đại lý,Thực phẩm,Trà xanh,70000.0,3,210000.0,0.0,210000.0,62000.0,Ví điện tử,Nữ,30.0,4.0,Trả hàng,NV002
+DH000030,2024-08-26,Miền Bắc,Quảng Ninh,Đại lý,Thời trang,Giày thể thao,342000.0,4,1368000.0,0.0,1368000.0,91000.0,COD,Nam,18.0,4.0,Hoàn thành,NV021
+DH000031,2023-10-12,Miền Nam,TP.HCM,Đại lý,Gia dụng,Máy xay sinh tố,604000.0,6,3624000.0,0.0,3624000.0,0.0,Thẻ tín dụng,Nữ,37.0,3.0,Đã hủy,NV047
+DH000032,2023-01-07,Miền Bắc,Bắc Ninh,Siêu thị,Văn phòng phẩm,Bút bi,30000.0,5,150000.0,10.0,135000.0,85000.0,Ví điện tử,Nữ,57.0,4.0,Hoàn thành,NV003
+DH000033,2023-06-13,Miền Bắc,Quảng Ninh,Online,Điện tử,Loa bluetooth,1480000.0,3,4440000.0,0.0,4440000.0,0.0,Ví điện tử,Nam,,4.0,Hoàn thành,NV001
+DH000034,2024-12-15,Tây Nguyên,Đắk Lắk,Siêu thị,Văn phòng phẩm,Bìa hồ sơ,7000.0,3,21000.0,0.0,21000.0,86000.0,Tiền mặt,Nữ,27.0,3.0,Hoàn thành,NV019
+DH000035,2024-03-08,Tây Nguyên,Gia Lai,Online,Thực phẩm,Gạo ST25,84000.0,3,252000.0,0.0,252000.0,81000.0,Ví điện tử,Nam,18.0,4.0,Hoàn thành,NV044
+DH000036,2023-12-15,Miền Nam,Cần Thơ,Cửa hàng,Mỹ phẩm,Nước hoa,313000.0,3,939000.0,0.0,939000.0,109000.0,Thẻ tín dụng,Nữ,27.0,5.0,Hoàn thành,NV010
+DH000037,2023-10-12,Miền Trung,Nghệ An,Cửa hàng,Thực phẩm,Trà xanh,53000.0,3,159000.0,0.0,159000.0,128000.0,Thẻ tín dụng,Nữ,,3.0,Trả hàng,NV017
+DH000038,2023-06-09,Miền Bắc,Quảng Ninh,Online,Thực phẩm,Nước mắm,66000.0,4,264000.0,0.0,264000.0,99000.0,Ví điện tử,Nam,31.0,4.0,Hoàn thành,NV040
+DH000039,2023-08-09,Miền Nam,Bình Dương,Online,Mỹ phẩm,Serum,143000.0,3,429000.0,15.0,365000.0,58000.0,Tiền mặt,Nữ,45.0,2.0,Hoàn thành,NV047
+DH000040,2023-12-11,Miền Trung,Huế,Online,Thực phẩm,Cà phê,51000.0,3,153000.0,0.0,153000.0,124000.0,Tiền mặt,Nam,24.0,5.0,Hoàn thành,NV050
+DH000041,2023-04-15,Miền Bắc,Bắc Ninh,Online,Thực phẩm,Cà phê,46000.0,5,230000.0,0.0,230000.0,29000.0,Thẻ tín dụng,Nữ,24.0,4.0,Hoàn thành,NV002
+DH000042,2023-04-05,Miền Trung,Huế,Đại lý,Điện tử,Tai nghe,983000.0,3,2949000.0,0.0,2949000.0,0.0,Chuyển khoản,Nam,26.0,3.0,Hoàn thành,NV033
+DH000043,2024-01-25,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Tai nghe,8332000.0,3,24996000.0,15.0,21247000.0,0.0,Chuyển khoản,Nữ,41.0,4.0,Hoàn thành,NV044
+DH000044,2023-04-10,Tây Nguyên,Lâm Đồng,Đại lý,Gia dụng,Quạt điện,186000.0,1,186000.0,0.0,186000.0,112000.0,Chuyển khoản,Nam,33.0,5.0,Hoàn thành,NV018
+DH000045,2024-01-03,Miền Bắc,Hải Phòng,Siêu thị,Gia dụng,Ấm siêu tốc,2610000.0,3,7830000.0,0.0,7830000.0,0.0,Ví điện tử,Nam,29.0,4.0,Hoàn thành,NV018
+DH000046,2023-12-19,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Trà xanh,85000.0,8,680000.0,0.0,680000.0,66000.0,Tiền mặt,Nữ,42.0,,Hoàn thành,NV043
+DH000047,2024-09-10,Miền Trung,Khánh Hòa,Siêu thị,Điện tử,Điện thoại,237000.0,3,711000.0,10.0,640000.0,101000.0,Chuyển khoản,Nữ,47.0,4.0,Hoàn thành,NV001
+DH000048,2023-09-28,Miền Nam,TP.HCM,Đại lý,Thực phẩm,Gạo ST25,44000.0,2,88000.0,25.0,66000.0,122000.0,Chuyển khoản,Nữ,18.0,5.0,Hoàn thành,NV005
+DH000049,2023-02-14,Miền Nam,Cần Thơ,Online,Thời trang,Áo thun,262000.0,4,1048000.0,10.0,943000.0,84000.0,Thẻ tín dụng,Nữ,45.0,5.0,Hoàn thành,NV005
+DH000050,2024-04-15,Miền Bắc,Bắc Ninh,Đại lý,Thực phẩm,Cà phê,63000.0,3,189000.0,0.0,189000.0,55000.0,Tiền mặt,Nữ,32.0,5.0,Hoàn thành,NV011
+DH000051,2024-07-03,Tây Nguyên,Lâm Đồng,Đại lý,Mỹ phẩm,Kem chống nắng,82000.0,7,574000.0,0.0,574000.0,31000.0,Thẻ tín dụng,Nam,46.0,3.0,Đang giao,NV033
+DH000052,2023-05-08,Miền Nam,TP.HCM,Siêu thị,Gia dụng,Quạt điện,511000.0,2,1022000.0,5.0,971000.0,45000.0,Tiền mặt,Nam,36.0,4.0,Hoàn thành,NV037
+DH000053,2024-01-23,Tây Nguyên,Đắk Lắk,Cửa hàng,Điện tử,Máy tính bảng,1729000.0,3,5187000.0,0.0,5187000.0,0.0,Chuyển khoản,Nam,43.0,3.0,Trả hàng,NV048
+DH000054,2023-03-22,Miền Nam,TP.HCM,Cửa hàng,Mỹ phẩm,Sữa rửa mặt,103000.0,4,412000.0,0.0,412000.0,51000.0,Chuyển khoản,Nam,23.0,3.0,Hoàn thành,NV008
+DH000055,2024-07-19,Miền Nam,Đồng Nai,Đại lý,Thực phẩm,Gạo ST25,30000.0,4,120000.0,0.0,120000.0,31000.0,Chuyển khoản,Nữ,25.0,5.0,Hoàn thành,NV002
+DH000056,2023-10-28,Tây Nguyên,Đắk Lắk,Siêu thị,Gia dụng,Bàn ủi,951000.0,3,2853000.0,0.0,2853000.0,0.0,Ví điện tử,Nữ,33.0,3.0,Đã hủy,NV017
+DH000057,2024-10-05,Miền Bắc,Bắc Ninh,Đại lý,Điện tử,Tai nghe,261000.0,4,1044000.0,5.0,992000.0,65000.0,COD,Nam,19.0,5.0,Hoàn thành,NV047
+DH000058,2024-09-25,Miền Bắc,Hải Phòng,Đại lý,Gia dụng,Bàn ủi,699000.0,5,3495000.0,0.0,3495000.0,0.0,Chuyển khoản,Nữ,23.0,4.0,Trả hàng,NV023
+DH000059,2024-01-06,Miền Bắc,Bắc Ninh,Online,Thời trang,Đồng hồ,568000.0,4,2272000.0,0.0,2272000.0,0.0,Thẻ tín dụng,Nam,45.0,4.0,Hoàn thành,NV019
+DH000060,2024-08-14,Miền Trung,Đà Nẵng,Siêu thị,Thực phẩm,Nước mắm,44000.0,2,88000.0,0.0,88000.0,126000.0,Tiền mặt,Nam,20.0,5.0,Hoàn thành,NV048
+DH000061,2023-07-16,Miền Trung,Nghệ An,Cửa hàng,Điện tử,Máy tính bảng,2130000.0,5,10650000.0,10.0,9585000.0,0.0,Thẻ tín dụng,Nam,25.0,5.0,Hoàn thành,NV019
+DH000062,2024-12-22,Miền Bắc,Bắc Ninh,Cửa hàng,Điện tử,Điện thoại,8080000.0,5,40400000.0,15.0,34340000.0,0.0,Tiền mặt,Nữ,32.0,3.0,Hoàn thành,NV035
+DH000063,2023-03-13,Miền Nam,Đồng Nai,Cửa hàng,Điện tử,Tai nghe,858000.0,5,4290000.0,0.0,4290000.0,0.0,Ví điện tử,Nam,35.0,5.0,Hoàn thành,NV005
+DH000064,2023-02-16,Miền Trung,Nghệ An,Đại lý,Thời trang,Áo thun,185000.0,3,555000.0,0.0,555000.0,97000.0,Chuyển khoản,Nữ,20.0,5.0,Hoàn thành,NV044
+DH000065,2024-11-08,Miền Bắc,Bắc Ninh,Siêu thị,Điện tử,Điện thoại,1104000.0,7,7728000.0,10.0,6955000.0,0.0,Chuyển khoản,Nam,29.0,4.0,Hoàn thành,NV039
+DH000066,2023-08-22,Miền Nam,Đồng Nai,Online,Gia dụng,Quạt điện,1130000.0,4,4520000.0,0.0,4520000.0,0.0,Chuyển khoản,Nam,35.0,3.0,Trả hàng,NV022
+DH000067,2023-10-24,Miền Bắc,Bắc Ninh,Cửa hàng,Điện tử,Máy tính bảng,9430000.0,1,9430000.0,0.0,9430000.0,0.0,COD,Nữ,39.0,5.0,Hoàn thành,NV009
+DH000068,2023-03-23,Miền Nam,Đồng Nai,Siêu thị,Thực phẩm,Nước mắm,22000.0,5,110000.0,0.0,110000.0,93000.0,Ví điện tử,Nam,,5.0,Hoàn thành,NV012
+DH000069,2023-08-27,Miền Bắc,Bắc Ninh,Cửa hàng,Điện tử,Máy tính bảng,6690000.0,173,1157370000.0,0.0,1157370000.0,0.0,Tiền mặt,Nữ,21.0,5.0,Hoàn thành,NV046
+DH000070,2023-04-14,Tây Nguyên,Đắk Lắk,Online,Văn phòng phẩm,Kẹp giấy,23000.0,2,46000.0,10.0,41000.0,84000.0,Ví điện tử,Nam,22.0,4.0,Đang giao,NV043
+DH000071,2024-01-25,Miền Nam,Cần Thơ,Siêu thị,Văn phòng phẩm,Bút bi,33000.0,1,33000.0,0.0,33000.0,141000.0,Chuyển khoản,Nữ,33.0,2.0,Đang giao,NV014
+DH000072,2023-10-12,Miền Bắc,Hải Phòng,Đại lý,Thời trang,Áo thun,408000.0,3,1224000.0,0.0,1224000.0,80000.0,Chuyển khoản,Nữ,29.0,4.0,Hoàn thành,NV043
+DH000073,2024-04-09,Miền Bắc,Bắc Ninh,Đại lý,Thực phẩm,Gạo ST25,49000.0,4,196000.0,0.0,196000.0,124000.0,Ví điện tử,Nữ,33.0,4.0,Trả hàng,NV043
+DH000074,2024-10-12,Miền Nam,Đồng Nai,Cửa hàng,Điện tử,Máy tính bảng,7904000.0,2,15808000.0,15.0,13437000.0,0.0,Chuyển khoản,Nam,32.0,4.0,Hoàn thành,NV045
+DH000075,2024-01-09,Miền Nam,Cần Thơ,Cửa hàng,Văn phòng phẩm,Kẹp giấy,21000.0,2,42000.0,0.0,42000.0,118000.0,Tiền mặt,Nam,31.0,4.0,Hoàn thành,NV049
+DH000076,2023-06-16,Miền Nam,TP.HCM,Siêu thị,Thực phẩm,Trà xanh,192000.0,5,960000.0,0.0,960000.0,126000.0,Tiền mặt,Nam,32.0,,Hoàn thành,NV049
+DH000077,2024-01-15,Miền Nam,Cần Thơ,Online,Điện tử,Điện thoại,6319000.0,3,18957000.0,0.0,18957000.0,0.0,Ví điện tử,Nam,38.0,5.0,Đang giao,NV013
+DH000078,2023-12-30,Miền Bắc,Bắc Ninh,Cửa hàng,Thời trang,Áo thun,339000.0,1,339000.0,0.0,339000.0,31000.0,Thẻ tín dụng,Nam,45.0,5.0,Đã hủy,NV036
+DH000079,2023-08-03,Miền Trung,Khánh Hòa,Siêu thị,Điện tử,Laptop,489000.0,4,1956000.0,0.0,1956000.0,134000.0,Ví điện tử,Nữ,36.0,2.0,Hoàn thành,NV009
+DH000080,2024-11-17,Miền Bắc,Hà Nội,Online,Thực phẩm,Trà xanh,35000.0,5,175000.0,0.0,175000.0,80000.0,Chuyển khoản,Nữ,39.0,5.0,Hoàn thành,NV050
+DH000081,2023-10-01,Miền Nam,Cần Thơ,Cửa hàng,Gia dụng,Nồi cơm điện,183000.0,2,366000.0,0.0,366000.0,116000.0,Thẻ tín dụng,Nam,23.0,1.0,Đang giao,NV025
+DH000082,2024-12-19,Miền Nam,Bình Dương,Cửa hàng,Thực phẩm,Nước mắm,44000.0,3,132000.0,0.0,132000.0,98000.0,Ví điện tử,Nam,49.0,5.0,Đang giao,NV040
+DH000083,2024-11-30,Miền Trung,Đà Nẵng,Siêu thị,Thực phẩm,Bánh tráng,87000.0,5,435000.0,0.0,435000.0,94000.0,Tiền mặt,Nữ,40.0,3.0,Hoàn thành,NV045
+DH000084,2024-10-25,Miền Bắc,Bắc Ninh,Cửa hàng,Điện tử,Tai nghe,1991000.0,1,1991000.0,50.0,996000.0,31000.0,Tiền mặt,Nữ,50.0,4.0,Hoàn thành,NV043
+DH000085,2023-03-15,Miền Trung,Đà Nẵng,Đại lý,Thời trang,Áo thun,679000.0,6,4074000.0,0.0,4074000.0,0.0,Thẻ tín dụng,Nam,32.0,4.0,Hoàn thành,NV017
+DH000086,2024-09-15,Miền Trung,Đà Nẵng,Online,Điện tử,Máy tính bảng,2999000.0,5,14995000.0,5.0,14245000.0,0.0,Thẻ tín dụng,Nữ,32.0,4.0,Hoàn thành,NV015
+DH000087,2024-10-12,Miền Nam,Bình Dương,Online,Mỹ phẩm,Serum,139000.0,2,278000.0,0.0,278000.0,148000.0,Tiền mặt,Nữ,21.0,4.0,Hoàn thành,NV008
+DH000088,2023-06-25,Miền Nam,Bình Dương,Đại lý,Điện tử,Loa bluetooth,2222000.0,4,8888000.0,10.0,7999000.0,0.0,Chuyển khoản,Nữ,43.0,2.0,Hoàn thành,NV002
+DH000089,2024-06-30,Miền Nam,TP.HCM,Siêu thị,Thực phẩm,Trà xanh,66000.0,4,264000.0,10.0,238000.0,114000.0,Thẻ tín dụng,Nữ,21.0,5.0,Hoàn thành,NV005
+DH000090,2023-09-08,Miền Trung,Huế,Đại lý,Thời trang,Đồng hồ,335000.0,3,1005000.0,10.0,904000.0,23000.0,Tiền mặt,Nữ,36.0,4.0,Hoàn thành,NV048
+DH000091,2023-06-17,Miền Bắc,Hà Nội,Đại lý,Thời trang,Túi xách,338000.0,2,676000.0,0.0,676000.0,137000.0,Tiền mặt,Nữ,45.0,3.0,Hoàn thành,NV002
+DH000092,2024-04-18,Miền Nam,Bình Dương,Online,Gia dụng,Nồi cơm điện,292000.0,76,22192000.0,0.0,22192000.0,0.0,Ví điện tử,Nam,32.0,4.0,Đang giao,NV001
+DH000093,2024-01-24,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Bánh tráng,39000.0,2,78000.0,0.0,78000.0,113000.0,COD,Nam,33.0,3.0,Hoàn thành,NV019
+DH000094,2023-10-04,Miền Nam,Bình Dương,Cửa hàng,Thực phẩm,Bánh tráng,194000.0,4,776000.0,10.0,698000.0,132000.0,Chuyển khoản,Nữ,54.0,4.0,Trả hàng,NV011
+DH000095,2024-10-17,Miền Nam,Bình Dương,Đại lý,Thực phẩm,Gạo ST25,104000.0,6,624000.0,0.0,624000.0,105000.0,Tiền mặt,Nam,18.0,4.0,Hoàn thành,NV013
+DH000096,2024-12-05,Miền Trung,Nghệ An,Đại lý,Thực phẩm,Trà xanh,21000.0,5,105000.0,0.0,105000.0,33000.0,Chuyển khoản,Nam,,,Hoàn thành,NV043
+DH000097,2024-07-24,Miền Nam,Đồng Nai,Siêu thị,Thời trang,Đồng hồ,45000.0,7,315000.0,20.0,252000.0,92000.0,Chuyển khoản,Nữ,,,Hoàn thành,NV012
+DH000098,2023-08-13,Miền Trung,Đà Nẵng,Đại lý,Thực phẩm,Cà phê,52000.0,3,156000.0,0.0,156000.0,39000.0,Chuyển khoản,Nam,40.0,,Hoàn thành,NV042
+DH000099,2024-12-02,Miền Bắc,Hải Phòng,Siêu thị,Gia dụng,Quạt điện,935000.0,3,2805000.0,0.0,2805000.0,0.0,Tiền mặt,Nữ,47.0,5.0,Hoàn thành,NV047
+DH000100,2023-11-29,Miền Bắc,Hải Phòng,Cửa hàng,Điện tử,Máy tính bảng,1072000.0,2,2144000.0,0.0,2144000.0,0.0,Ví điện tử,Nam,23.0,4.0,Hoàn thành,NV048
+DH000101,2023-02-27,Miền Bắc,Bắc Ninh,Siêu thị,Thực phẩm,Bánh tráng,92000.0,3,276000.0,0.0,276000.0,29000.0,Tiền mặt,Nam,40.0,4.0,Đang giao,NV014
+DH000102,2023-08-23,Miền Nam,TP.HCM,Cửa hàng,Điện tử,Laptop,2148000.0,4,8592000.0,0.0,8592000.0,0.0,Chuyển khoản,Nam,38.0,5.0,Hoàn thành,NV032
+DH000103,2023-02-02,Miền Trung,Nghệ An,Siêu thị,Điện tử,Tai nghe,1645000.0,5,8225000.0,0.0,8225000.0,0.0,Thẻ tín dụng,,43.0,3.0,Hoàn thành,NV035
+DH000104,2023-11-20,Miền Nam,Bình Dương,Đại lý,Thực phẩm,Bánh tráng,79000.0,4,316000.0,10.0,284000.0,142000.0,Thẻ tín dụng,Nữ,30.0,4.0,Hoàn thành,NV028
+DH000105,2024-02-15,Tây Nguyên,Đắk Lắk,Cửa hàng,Mỹ phẩm,Sữa rửa mặt,124000.0,6,744000.0,0.0,744000.0,27000.0,Chuyển khoản,Nữ,46.0,2.0,Hoàn thành,NV013
+DH000106,2023-10-02,Miền Bắc,Hải Phòng,Đại lý,Mỹ phẩm,Nước hoa,155000.0,3,465000.0,0.0,465000.0,48000.0,Chuyển khoản,Nam,,5.0,Đã hủy,NV043
+DH000107,2023-03-09,Miền Trung,Khánh Hòa,Cửa hàng,Điện tử,Loa bluetooth,4470000.0,4,17880000.0,0.0,17880000.0,0.0,Chuyển khoản,Nữ,34.0,3.0,Trả hàng,NV027
+DH000108,2023-08-05,Miền Nam,TP.HCM,Siêu thị,Thực phẩm,Bánh tráng,49000.0,1,49000.0,0.0,49000.0,51000.0,Tiền mặt,Nữ,33.0,5.0,Hoàn thành,NV044
+DH000109,2024-08-03,Miền Bắc,Hà Nội,Siêu thị,Thực phẩm,Bánh tráng,157000.0,4,628000.0,15.0,534000.0,140000.0,Chuyển khoản,Nam,,5.0,Đang giao,NV033
+DH000110,2023-11-19,Miền Bắc,Quảng Ninh,Siêu thị,Điện tử,Loa bluetooth,4599000.0,3,13797000.0,0.0,13797000.0,0.0,Tiền mặt,Nam,40.0,4.0,Hoàn thành,NV033
+DH000111,2023-08-06,Miền Bắc,Hà Nội,Online,Gia dụng,Quạt điện,776000.0,3,2328000.0,0.0,2328000.0,0.0,Tiền mặt,Nữ,31.0,4.0,Trả hàng,NV041
+DH000112,2024-11-02,Miền Bắc,Hà Nội,Online,Gia dụng,Máy xay sinh tố,483000.0,5,2415000.0,0.0,2415000.0,0.0,Tiền mặt,Nữ,18.0,4.0,Hoàn thành,NV038
+DH000113,2024-05-26,Tây Nguyên,Lâm Đồng,Cửa hàng,Văn phòng phẩm,Giấy A4,23000.0,5,115000.0,0.0,115000.0,51000.0,Chuyển khoản,Nữ,18.0,4.0,Hoàn thành,NV009
+DH000114,2024-02-10,Miền Nam,Đồng Nai,Online,Điện tử,Loa bluetooth,1358000.0,3,4074000.0,10.0,3667000.0,0.0,Ví điện tử,Nam,46.0,4.0,Trả hàng,NV026
+DH000115,2024-10-20,Miền Nam,Bình Dương,Siêu thị,Thời trang,Túi xách,376000.0,4,1504000.0,0.0,1504000.0,66000.0,COD,Nữ,27.0,5.0,Hoàn thành,NV005
+DH000116,2024-04-14,Miền Nam,Đồng Nai,Online,Mỹ phẩm,Kem chống nắng,88000.0,7,616000.0,0.0,616000.0,138000.0,Thẻ tín dụng,Nam,23.0,5.0,Đã hủy,NV034
+DH000117,2023-05-27,Miền Nam,Bình Dương,Online,Gia dụng,Ấm siêu tốc,1035000.0,1,1035000.0,0.0,1035000.0,143000.0,Chuyển khoản,Nam,34.0,5.0,Đang giao,NV003
+DH000118,2023-09-29,Miền Bắc,Bắc Ninh,Đại lý,Mỹ phẩm,Sữa rửa mặt,260000.0,3,780000.0,0.0,780000.0,150000.0,Tiền mặt,Nam,37.0,5.0,Hoàn thành,NV029
+DH000119,2023-05-23,Miền Nam,Đồng Nai,Cửa hàng,Điện tử,Loa bluetooth,21589000.0,1,21589000.0,0.0,21589000.0,0.0,Thẻ tín dụng,Nam,27.0,4.0,Hoàn thành,NV018
+DH000120,2023-09-10,Miền Nam,Cần Thơ,Cửa hàng,Thực phẩm,Nước mắm,210000.0,5,1050000.0,0.0,1050000.0,140000.0,Tiền mặt,Nam,18.0,4.0,Hoàn thành,NV030
+DH000121,2024-07-28,Miền Nam,Cần Thơ,Cửa hàng,Thực phẩm,Bánh tráng,79000.0,2,158000.0,0.0,158000.0,101000.0,Chuyển khoản,Nữ,31.0,4.0,Hoàn thành,NV015
+DH000122,2024-07-05,Miền Nam,Đồng Nai,Online,Điện tử,Loa bluetooth,2171000.0,2,4342000.0,10.0,3908000.0,0.0,Thẻ tín dụng,Nam,23.0,2.0,Hoàn thành,NV014
+DH000123,2023-09-27,Miền Trung,Khánh Hòa,Siêu thị,Thực phẩm,Bánh tráng,28000.0,5,140000.0,0.0,140000.0,98000.0,Chuyển khoản,Nữ,22.0,4.0,Đã hủy,NV043
+DH000124,2024-08-21,Miền Bắc,Bắc Ninh,Đại lý,Thực phẩm,Bánh tráng,86000.0,2,172000.0,10.0,155000.0,129000.0,Chuyển khoản,Nữ,42.0,2.0,Hoàn thành,NV040
+DH000125,2024-03-14,Miền Bắc,Hải Phòng,Cửa hàng,Điện tử,Điện thoại,2574000.0,3,7722000.0,0.0,7722000.0,0.0,COD,Nam,21.0,3.0,Hoàn thành,NV004
+DH000126,2024-08-20,Miền Trung,Nghệ An,Online,Thời trang,Túi xách,461000.0,2,922000.0,0.0,922000.0,26000.0,Chuyển khoản,Nữ,41.0,4.0,Trả hàng,NV025
+DH000127,2024-02-13,Miền Nam,TP.HCM,Siêu thị,Gia dụng,Ấm siêu tốc,1678000.0,7,11746000.0,0.0,11746000.0,0.0,Thẻ tín dụng,Nam,40.0,5.0,Đang giao,NV020
+DH000128,2024-01-06,Miền Nam,Đồng Nai,Đại lý,Thực phẩm,Nước mắm,30000.0,9,270000.0,0.0,270000.0,69000.0,COD,Nữ,34.0,,Trả hàng,NV024
+DH000129,2023-08-13,Miền Bắc,Bắc Ninh,Đại lý,Mỹ phẩm,Serum,87000.0,5,435000.0,25.0,326000.0,52000.0,Thẻ tín dụng,Nam,47.0,3.0,Hoàn thành,NV023
+DH000130,2023-05-22,Miền Nam,Cần Thơ,Cửa hàng,Thời trang,Áo thun,248000.0,3,744000.0,10.0,670000.0,64000.0,Chuyển khoản,Nữ,44.0,2.0,Hoàn thành,NV045
+DH000131,2024-06-05,Miền Trung,Khánh Hòa,Cửa hàng,Thời trang,Giày thể thao,579000.0,2,1158000.0,0.0,1158000.0,62000.0,Chuyển khoản,Nữ,19.0,5.0,Hoàn thành,NV025
+DH000132,2024-05-20,Miền Bắc,Quảng Ninh,Siêu thị,Văn phòng phẩm,Bút bi,20000.0,4,80000.0,0.0,80000.0,39000.0,COD,Nam,35.0,4.0,Hoàn thành,NV020
+DH000133,2023-04-04,Miền Bắc,Hà Nội,Online,Văn phòng phẩm,Kẹp giấy,10000.0,3,30000.0,0.0,30000.0,84000.0,Chuyển khoản,Nam,33.0,5.0,Đang giao,NV014
+DH000134,2023-02-18,Miền Trung,Khánh Hòa,Siêu thị,Điện tử,Loa bluetooth,4958000.0,4,19832000.0,0.0,19832000.0,0.0,Tiền mặt,Nữ,47.0,1.0,Hoàn thành,NV034
+DH000135,2023-04-23,Tây Nguyên,Gia Lai,Cửa hàng,Gia dụng,Quạt điện,216000.0,6,1296000.0,30.0,907000.0,53000.0,COD,,18.0,4.0,Hoàn thành,NV033
+DH000136,2023-06-06,Miền Trung,Nghệ An,Siêu thị,Điện tử,Laptop,732000.0,3,2196000.0,10.0,1976000.0,43000.0,Chuyển khoản,Nữ,35.0,4.0,Hoàn thành,NV017
+DH000137,2024-10-04,Miền Nam,TP.HCM,Online,Điện tử,Tai nghe,1741000.0,3,5223000.0,10.0,4701000.0,0.0,Thẻ tín dụng,Nữ,36.0,4.0,Hoàn thành,NV046
+DH000138,2023-06-13,Miền Nam,Cần Thơ,Đại lý,Thời trang,Túi xách,193000.0,8,1544000.0,0.0,1544000.0,48000.0,Thẻ tín dụng,Nữ,46.0,5.0,Hoàn thành,NV023
+DH000139,2024-11-27,Miền Trung,Đà Nẵng,Đại lý,Thời trang,Áo thun,611000.0,6,3666000.0,15.0,3116000.0,,Chuyển khoản,Nam,37.0,5.0,Hoàn thành,NV016
+DH000140,2024-03-08,Tây Nguyên,Gia Lai,Đại lý,Mỹ phẩm,Serum,259000.0,6,1554000.0,0.0,1554000.0,99000.0,Chuyển khoản,Nam,38.0,5.0,Hoàn thành,NV050
+DH000141,2024-09-02,Tây Nguyên,Gia Lai,Đại lý,Gia dụng,Quạt điện,1721000.0,4,6884000.0,0.0,6884000.0,0.0,Tiền mặt,,51.0,5.0,Hoàn thành,NV030
+DH000142,2023-03-07,Miền Bắc,Quảng Ninh,Cửa hàng,Văn phòng phẩm,Giấy A4,13000.0,3,39000.0,0.0,39000.0,47000.0,Ví điện tử,Nữ,31.0,3.0,Hoàn thành,NV008
+DH000143,2024-01-30,Miền Trung,Đà Nẵng,Cửa hàng,Gia dụng,Nồi cơm điện,459000.0,4,1836000.0,0.0,1836000.0,131000.0,Thẻ tín dụng,Nam,35.0,4.0,Hoàn thành,NV037
+DH000144,2024-01-26,Miền Trung,Đà Nẵng,Online,Thực phẩm,Bánh tráng,103000.0,5,515000.0,15.0,438000.0,111000.0,Ví điện tử,Nữ,,3.0,Hoàn thành,NV002
+DH000145,2024-09-02,Miền Bắc,Hải Phòng,Online,Gia dụng,Máy xay sinh tố,469000.0,5,2345000.0,0.0,2345000.0,0.0,Chuyển khoản,Nam,24.0,5.0,Hoàn thành,NV004
+DH000146,2024-04-24,Miền Bắc,Hà Nội,Online,Văn phòng phẩm,Sổ tay,32000.0,2,64000.0,0.0,64000.0,55000.0,Thẻ tín dụng,Nữ,20.0,4.0,Hoàn thành,NV022
+DH000147,2024-06-25,Miền Nam,Cần Thơ,Online,Gia dụng,Nồi cơm điện,730000.0,3,2190000.0,0.0,2190000.0,0.0,Tiền mặt,Nam,38.0,4.0,Hoàn thành,NV003
+DH000148,2023-09-15,Miền Nam,Đồng Nai,Siêu thị,Gia dụng,Nồi cơm điện,96000.0,6,576000.0,0.0,576000.0,75000.0,Chuyển khoản,Nữ,35.0,5.0,Hoàn thành,NV028
+DH000149,2024-07-20,Miền Bắc,Hà Nội,Online,Văn phòng phẩm,Sổ tay,27000.0,2,54000.0,0.0,54000.0,61000.0,Chuyển khoản,Nữ,53.0,4.0,Đã hủy,NV046
+DH000150,2023-01-12,Miền Bắc,Hà Nội,Đại lý,Điện tử,Máy tính bảng,5980000.0,5,29900000.0,0.0,29900000.0,0.0,Chuyển khoản,Nữ,32.0,4.0,Hoàn thành,NV012
+DH000151,2024-11-27,Tây Nguyên,Gia Lai,Đại lý,Gia dụng,Bàn ủi,973000.0,5,4865000.0,0.0,4865000.0,0.0,Thẻ tín dụng,Nữ,39.0,5.0,Hoàn thành,NV015
+DH000152,2023-04-28,Miền Bắc,Hải Phòng,Đại lý,Mỹ phẩm,Nước hoa,36000.0,4,144000.0,0.0,144000.0,,Tiền mặt,Nam,23.0,2.0,Hoàn thành,NV028
+DH000153,2024-11-29,Miền Bắc,Hà Nội,Siêu thị,Văn phòng phẩm,Bìa hồ sơ,11000.0,6,66000.0,10.0,59000.0,123000.0,Tiền mặt,Nam,29.0,4.0,Hoàn thành,NV029
+DH000154,2024-07-03,Miền Trung,Nghệ An,Online,Thời trang,Đồng hồ,187000.0,4,748000.0,0.0,748000.0,75000.0,Ví điện tử,Nam,50.0,3.0,Đang giao,NV033
+DH000155,2023-10-01,Tây Nguyên,Đắk Lắk,Đại lý,Thực phẩm,Bánh tráng,30000.0,7,210000.0,10.0,189000.0,85000.0,Chuyển khoản,Nữ,,5.0,Hoàn thành,NV037
+DH000156,2024-10-18,Miền Bắc,Hải Phòng,Đại lý,Gia dụng,Máy xay sinh tố,1692000.0,3,5076000.0,0.0,5076000.0,0.0,Chuyển khoản,Nữ,41.0,3.0,Hoàn thành,NV037
+DH000157,2023-12-15,Miền Nam,Đồng Nai,Đại lý,Thời trang,Túi xách,297000.0,5,1485000.0,15.0,1262000.0,46000.0,Tiền mặt,Nữ,47.0,5.0,Hoàn thành,NV001
+DH000158,2023-04-25,Miền Nam,TP.HCM,Đại lý,Thực phẩm,Gạo ST25,49000.0,5,245000.0,15.0,208000.0,61000.0,Tiền mặt,Nam,33.0,4.0,Hoàn thành,NV050
+DH000159,2023-10-28,Miền Bắc,Quảng Ninh,Cửa hàng,Thời trang,Giày thể thao,467000.0,5,2335000.0,0.0,2335000.0,0.0,Chuyển khoản,Nam,24.0,4.0,Hoàn thành,NV022
+DH000160,2024-03-21,Miền Nam,Đồng Nai,Online,Thời trang,Áo thun,473000.0,4,1892000.0,0.0,1892000.0,102000.0,Chuyển khoản,Nữ,46.0,3.0,Hoàn thành,NV010
+DH000161,2023-06-11,Miền Trung,Đà Nẵng,Online,Thực phẩm,Bánh tráng,7000.0,1,7000.0,0.0,7000.0,131000.0,Chuyển khoản,,44.0,5.0,Hoàn thành,NV024
+DH000162,2024-04-09,Miền Nam,Đồng Nai,Siêu thị,Thực phẩm,Gạo ST25,34000.0,1,34000.0,0.0,34000.0,70000.0,Thẻ tín dụng,Nữ,34.0,3.0,Hoàn thành,NV022
+DH000163,2023-01-04,Miền Nam,TP.HCM,Cửa hàng,Thực phẩm,Bánh tráng,21000.0,4,84000.0,20.0,67000.0,40000.0,Ví điện tử,Nữ,40.0,4.0,Hoàn thành,NV031
+DH000164,2023-09-27,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Trà xanh,64000.0,2,128000.0,0.0,128000.0,117000.0,Thẻ tín dụng,Nữ,28.0,5.0,Đã hủy,NV018
+DH000165,2024-05-27,Miền Bắc,Bắc Ninh,Đại lý,Thời trang,Quần jean,238000.0,7,1666000.0,25.0,1250000.0,150000.0,Ví điện tử,Nữ,28.0,4.0,Đã hủy,NV013
+DH000166,2023-07-02,Miền Nam,Cần Thơ,Siêu thị,Điện tử,Điện thoại,2037000.0,5,10185000.0,5.0,9676000.0,0.0,Thẻ tín dụng,Nữ,35.0,4.0,Hoàn thành,NV031
+DH000167,2024-06-03,Miền Trung,Khánh Hòa,Đại lý,Điện tử,Máy tính bảng,165000.0,7,1155000.0,15.0,982000.0,46000.0,Tiền mặt,Nữ,34.0,5.0,Hoàn thành,NV036
+DH000168,2023-04-19,Miền Bắc,Hà Nội,Đại lý,Điện tử,Tai nghe,1379000.0,2,2758000.0,5.0,2620000.0,0.0,Tiền mặt,Nữ,21.0,5.0,Hoàn thành,NV005
+DH000169,2024-10-02,Miền Bắc,Quảng Ninh,Online,Thực phẩm,Trà xanh,98000.0,6,588000.0,0.0,588000.0,64000.0,Chuyển khoản,Nữ,28.0,5.0,Hoàn thành,NV042
+DH000170,2023-11-02,Miền Nam,Đồng Nai,Online,Mỹ phẩm,Serum,711000.0,5,3555000.0,0.0,3555000.0,0.0,Chuyển khoản,Nữ,22.0,1.0,Hoàn thành,NV020
+DH000171,2024-10-16,Miền Nam,Bình Dương,Online,Điện tử,Tai nghe,4739000.0,5,23695000.0,0.0,23695000.0,0.0,Thẻ tín dụng,Nữ,43.0,5.0,Đang giao,NV039
+DH000172,2024-06-03,Miền Bắc,Hà Nội,Online,Điện tử,Điện thoại,403000.0,3,1209000.0,0.0,1209000.0,116000.0,Thẻ tín dụng,Nữ,39.0,5.0,Hoàn thành,NV007
+DH000173,2024-09-15,Miền Nam,TP.HCM,Online,Gia dụng,Quạt điện,1207000.0,3,3621000.0,0.0,3621000.0,0.0,Chuyển khoản,Nữ,39.0,4.0,Hoàn thành,NV008
+DH000174,2023-07-23,Miền Bắc,Hà Nội,Cửa hàng,Thời trang,Túi xách,535000.0,5,2675000.0,0.0,2675000.0,0.0,Thẻ tín dụng,Nữ,18.0,,Hoàn thành,NV008
+DH000175,2023-06-06,Miền Nam,Cần Thơ,Online,Văn phòng phẩm,Giấy A4,14000.0,4,56000.0,0.0,56000.0,124000.0,COD,Nam,23.0,4.0,Hoàn thành,NV047
+DH000176,2024-01-18,Miền Bắc,Quảng Ninh,Siêu thị,Gia dụng,Bàn ủi,121000.0,7,847000.0,0.0,847000.0,25000.0,Chuyển khoản,Nữ,38.0,4.0,Đã hủy,NV036
+DH000177,2023-06-15,Miền Nam,Cần Thơ,Đại lý,Thời trang,Áo thun,643000.0,3,1929000.0,0.0,1929000.0,106000.0,Chuyển khoản,Nữ,47.0,4.0,Hoàn thành,NV023
+DH000178,2024-07-06,Miền Trung,Huế,Online,Thời trang,Quần jean,187000.0,6,1122000.0,0.0,1122000.0,74000.0,Chuyển khoản,Nữ,38.0,5.0,Trả hàng,NV015
+DH000179,2024-06-27,Tây Nguyên,Lâm Đồng,Cửa hàng,Thực phẩm,Nước mắm,62000.0,3,186000.0,10.0,167000.0,116000.0,Tiền mặt,Nam,41.0,5.0,Hoàn thành,NV032
+DH000180,2023-01-01,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Tai nghe,2171000.0,2,4342000.0,5.0,4125000.0,0.0,Tiền mặt,Nữ,40.0,5.0,Đang giao,NV017
+DH000181,2024-09-05,Miền Trung,Huế,Siêu thị,Điện tử,Máy tính bảng,12670000.0,3,38010000.0,5.0,36110000.0,0.0,Chuyển khoản,Nam,39.0,3.0,Hoàn thành,NV013
+DH000182,2023-11-28,Miền Bắc,Quảng Ninh,Đại lý,Điện tử,Loa bluetooth,1721000.0,6,10326000.0,0.0,10326000.0,0.0,COD,Nữ,34.0,5.0,Đã hủy,NV037
+DH000183,2024-05-15,Tây Nguyên,Lâm Đồng,Siêu thị,Gia dụng,Máy xay sinh tố,495000.0,4,1980000.0,0.0,1980000.0,97000.0,Ví điện tử,Nữ,25.0,4.0,Hoàn thành,NV041
+DH000184,2023-01-20,Miền Nam,Cần Thơ,Siêu thị,Thực phẩm,Gạo ST25,129000.0,10,1290000.0,20.0,1032000.0,33000.0,Thẻ tín dụng,Nữ,43.0,3.0,Đang giao,NV039
+DH000185,2023-04-25,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Điện thoại,908000.0,2,1816000.0,0.0,1816000.0,38000.0,Ví điện tử,Nam,41.0,4.0,Đang giao,NV047
+DH000186,2024-01-07,Miền Nam,Bình Dương,Siêu thị,Gia dụng,Ấm siêu tốc,884000.0,4,3536000.0,5.0,3359000.0,0.0,Ví điện tử,Nam,39.0,5.0,Hoàn thành,NV027
+DH000187,2023-11-11,Miền Nam,Cần Thơ,Cửa hàng,Thực phẩm,Bánh tráng,44000.0,5,220000.0,15.0,187000.0,34000.0,COD,Nam,37.0,4.0,Đang giao,NV027
+DH000188,2023-09-03,Miền Nam,TP.HCM,Đại lý,Thực phẩm,Cà phê,27000.0,2,54000.0,0.0,54000.0,97000.0,Thẻ tín dụng,Nữ,28.0,5.0,Hoàn thành,NV017
+DH000189,2023-03-01,Miền Nam,TP.HCM,Online,Thời trang,Giày thể thao,300000.0,4,1200000.0,10.0,1080000.0,122000.0,Chuyển khoản,Nam,46.0,5.0,Hoàn thành,NV023
+DH000190,2023-09-04,Miền Bắc,Quảng Ninh,Siêu thị,Thực phẩm,Gạo ST25,76000.0,3,228000.0,10.0,205000.0,81000.0,Tiền mặt,Nữ,18.0,5.0,Hoàn thành,NV032
+DH000191,2024-08-03,Miền Bắc,Bắc Ninh,Cửa hàng,Văn phòng phẩm,Bìa hồ sơ,30000.0,2,60000.0,0.0,60000.0,113000.0,Tiền mặt,Nữ,32.0,2.0,Hoàn thành,NV034
+DH000192,2023-03-22,Miền Nam,TP.HCM,Đại lý,Điện tử,Loa bluetooth,11737000.0,4,46948000.0,0.0,46948000.0,0.0,Thẻ tín dụng,Nữ,46.0,,Đã hủy,NV045
+DH000193,2023-03-29,Tây Nguyên,Lâm Đồng,Online,Thời trang,Túi xách,237000.0,5,1185000.0,30.0,830000.0,150000.0,Chuyển khoản,Nữ,33.0,5.0,Hoàn thành,NV030
+DH000194,2024-05-12,Miền Nam,Cần Thơ,Đại lý,Thời trang,Quần jean,136000.0,3,408000.0,0.0,408000.0,26000.0,Tiền mặt,Nữ,34.0,4.0,Hoàn thành,NV017
+DH000195,2023-03-12,Miền Trung,Khánh Hòa,Cửa hàng,Thời trang,Túi xách,232000.0,2,464000.0,0.0,464000.0,46000.0,Chuyển khoản,Nam,27.0,2.0,Hoàn thành,NV022
+DH000196,2024-06-29,Miền Trung,Nghệ An,Cửa hàng,Thời trang,Giày thể thao,117000.0,3,351000.0,10.0,316000.0,92000.0,Chuyển khoản,Nữ,52.0,4.0,Hoàn thành,NV019
+DH000197,2023-05-09,Miền Nam,Bình Dương,Cửa hàng,Mỹ phẩm,Sữa rửa mặt,164000.0,6,984000.0,0.0,984000.0,84000.0,Ví điện tử,Nam,,5.0,Hoàn thành,NV041
+DH000198,2023-05-12,Miền Nam,Đồng Nai,Siêu thị,Văn phòng phẩm,Sổ tay,13000.0,3,39000.0,5.0,37000.0,28000.0,Chuyển khoản,Nữ,55.0,5.0,Hoàn thành,NV043
+DH000199,2024-11-06,Miền Nam,TP.HCM,Cửa hàng,Thời trang,Quần jean,537000.0,148,79476000.0,5.0,75502000.0,0.0,Thẻ tín dụng,Nam,32.0,4.0,Đang giao,NV035
+DH000200,2024-05-01,Miền Nam,TP.HCM,Online,Thực phẩm,Bánh tráng,13000.0,1,13000.0,0.0,13000.0,30000.0,Tiền mặt,Nữ,23.0,5.0,Trả hàng,NV004
+DH000201,2024-07-16,Miền Nam,Cần Thơ,Siêu thị,Gia dụng,Quạt điện,299000.0,2,598000.0,0.0,598000.0,108000.0,COD,Nam,18.0,5.0,Hoàn thành,NV044
+DH000202,2023-06-19,Miền Bắc,Hải Phòng,Đại lý,Thực phẩm,Trà xanh,32000.0,133,4256000.0,0.0,4256000.0,0.0,COD,Nữ,47.0,5.0,Hoàn thành,NV032
+DH000203,2023-09-29,Miền Bắc,Hải Phòng,Online,Thực phẩm,Bánh tráng,102000.0,1,102000.0,0.0,102000.0,24000.0,Chuyển khoản,Nữ,37.0,4.0,Đang giao,NV012
+DH000204,2024-06-24,Miền Nam,Đồng Nai,Siêu thị,Điện tử,Loa bluetooth,525000.0,5,2625000.0,0.0,2625000.0,0.0,Thẻ tín dụng,Nam,34.0,5.0,Hoàn thành,NV045
+DH000205,2024-09-13,Miền Nam,Đồng Nai,Cửa hàng,Thực phẩm,Gạo ST25,57000.0,2,114000.0,15.0,97000.0,111000.0,Ví điện tử,Nam,26.0,5.0,Hoàn thành,NV024
+DH000206,2024-03-09,Miền Bắc,Hà Nội,Đại lý,Thực phẩm,Nước mắm,46000.0,7,322000.0,25.0,242000.0,123000.0,COD,Nữ,,5.0,Trả hàng,NV024
+DH000207,2023-08-05,Miền Bắc,Quảng Ninh,Cửa hàng,Mỹ phẩm,Kem chống nắng,511000.0,2,1022000.0,0.0,1022000.0,20000.0,Chuyển khoản,Nữ,34.0,4.0,Hoàn thành,NV001
+DH000208,2024-07-06,Miền Nam,TP.HCM,Online,Gia dụng,Bàn ủi,759000.0,3,2277000.0,0.0,2277000.0,0.0,Ví điện tử,Nữ,35.0,5.0,Hoàn thành,NV049
+DH000209,2024-12-07,Miền Bắc,Quảng Ninh,Online,Điện tử,Tai nghe,2313000.0,4,9252000.0,0.0,9252000.0,0.0,Tiền mặt,Nam,18.0,5.0,Đã hủy,NV038
+DH000210,2023-07-25,Miền Bắc,Bắc Ninh,Siêu thị,Điện tử,Tai nghe,1028000.0,5,5140000.0,0.0,5140000.0,0.0,Tiền mặt,Nữ,47.0,3.0,Hoàn thành,NV011
+DH000211,2024-12-31,Miền Nam,Đồng Nai,Online,Văn phòng phẩm,Sổ tay,6000.0,1,6000.0,5.0,6000.0,,Ví điện tử,Nam,32.0,4.0,Đang giao,NV014
+DH000212,2023-11-16,Miền Nam,TP.HCM,Đại lý,Thực phẩm,Gạo ST25,58000.0,6,348000.0,20.0,278000.0,55000.0,COD,Nữ,32.0,5.0,Hoàn thành,NV004
+DH000213,2024-02-13,Miền Nam,Đồng Nai,Siêu thị,Mỹ phẩm,Serum,322000.0,7,2254000.0,25.0,1690000.0,22000.0,Thẻ tín dụng,Nam,35.0,5.0,Đang giao,NV007
+DH000214,2024-11-18,Miền Bắc,Hà Nội,Đại lý,Điện tử,Tai nghe,302000.0,2,604000.0,5.0,574000.0,137000.0,Chuyển khoản,Nữ,41.0,4.0,Hoàn thành,NV029
+DH000215,2024-10-27,Miền Nam,Đồng Nai,Cửa hàng,Thực phẩm,Trà xanh,24000.0,3,72000.0,15.0,61000.0,100000.0,Thẻ tín dụng,Nữ,34.0,4.0,Hoàn thành,NV023
+DH000216,2024-01-18,Miền Bắc,Hải Phòng,Đại lý,Thực phẩm,Trà xanh,58000.0,2,116000.0,0.0,116000.0,86000.0,Ví điện tử,Nam,38.0,5.0,Hoàn thành,NV017
+DH000217,2024-03-24,Miền Trung,Đà Nẵng,Đại lý,Mỹ phẩm,Nước hoa,271000.0,198,53658000.0,15.0,45609000.0,0.0,Ví điện tử,Nam,19.0,4.0,Hoàn thành,NV037
+DH000218,2024-06-13,Miền Nam,Bình Dương,Online,Điện tử,Điện thoại,609000.0,5,3045000.0,5.0,2893000.0,0.0,Ví điện tử,Nam,33.0,3.0,Đang giao,NV009
+DH000219,2024-04-07,Miền Nam,TP.HCM,Cửa hàng,Thời trang,Giày thể thao,190000.0,5,950000.0,0.0,950000.0,132000.0,Tiền mặt,Nam,36.0,5.0,Hoàn thành,NV001
+DH000220,2023-05-04,Miền Nam,Cần Thơ,Online,Thực phẩm,Nước mắm,17000.0,5,85000.0,10.0,76000.0,97000.0,Ví điện tử,Nam,32.0,3.0,Đang giao,NV031
+DH000221,2023-09-11,Miền Nam,Cần Thơ,Cửa hàng,Mỹ phẩm,Serum,691000.0,8,5528000.0,10.0,4975000.0,0.0,Ví điện tử,Nam,48.0,2.0,Đã hủy,NV022
+DH000222,2023-08-19,Miền Nam,Bình Dương,Cửa hàng,Văn phòng phẩm,Sổ tay,8000.0,5,40000.0,0.0,40000.0,99000.0,Tiền mặt,Nữ,30.0,5.0,Đã hủy,NV003
+DH000223,2023-03-07,Miền Bắc,Bắc Ninh,Đại lý,Văn phòng phẩm,Bút bi,20000.0,4,80000.0,0.0,80000.0,126000.0,Chuyển khoản,Nữ,42.0,5.0,Đã hủy,NV030
+DH000224,2023-12-13,Miền Trung,Khánh Hòa,Online,Văn phòng phẩm,Bìa hồ sơ,15000.0,9,135000.0,0.0,135000.0,122000.0,Tiền mặt,Nữ,34.0,5.0,Hoàn thành,NV008
+DH000225,2023-01-22,Miền Bắc,Hà Nội,Đại lý,Điện tử,Laptop,9400000.0,6,56400000.0,0.0,56400000.0,0.0,Chuyển khoản,Nam,41.0,1.0,Đang giao,NV041
+DH000226,2024-08-25,Miền Bắc,Hải Phòng,Đại lý,Điện tử,Laptop,773000.0,5,3865000.0,0.0,3865000.0,0.0,Thẻ tín dụng,Nữ,46.0,,Hoàn thành,NV046
+DH000227,2024-07-21,Tây Nguyên,Đắk Lắk,Đại lý,Điện tử,Tai nghe,2153000.0,7,15071000.0,15.0,12810000.0,0.0,Tiền mặt,Nam,41.0,5.0,Đang giao,NV016
+DH000228,2023-08-24,Miền Trung,Nghệ An,Cửa hàng,Thời trang,Túi xách,77000.0,4,308000.0,0.0,308000.0,83000.0,Tiền mặt,Nam,25.0,5.0,Hoàn thành,NV010
+DH000229,2024-08-25,Miền Nam,Cần Thơ,Online,Mỹ phẩm,Kem chống nắng,35000.0,4,140000.0,0.0,140000.0,28000.0,Thẻ tín dụng,Nữ,40.0,4.0,Hoàn thành,NV018
+DH000230,2023-08-14,Miền Nam,Cần Thơ,Online,Mỹ phẩm,Serum,342000.0,2,684000.0,10.0,616000.0,132000.0,Ví điện tử,Nữ,41.0,,Hoàn thành,NV016
+DH000231,2023-01-08,Miền Nam,Đồng Nai,Đại lý,Điện tử,Điện thoại,235000.0,4,940000.0,25.0,705000.0,,Tiền mặt,Nam,35.0,5.0,Hoàn thành,NV043
+DH000232,2023-03-14,Miền Nam,Đồng Nai,Cửa hàng,Thực phẩm,Gạo ST25,44000.0,4,176000.0,0.0,176000.0,126000.0,COD,Nam,33.0,5.0,Hoàn thành,NV005
+DH000233,2024-12-25,Miền Nam,TP.HCM,Online,Văn phòng phẩm,Bút bi,25000.0,5,125000.0,0.0,125000.0,119000.0,Ví điện tử,Nữ,44.0,5.0,Hoàn thành,NV004
+DH000234,2024-10-08,Miền Trung,Đà Nẵng,Siêu thị,Thực phẩm,Nước mắm,78000.0,2,156000.0,0.0,156000.0,26000.0,Thẻ tín dụng,Nam,27.0,5.0,Đang giao,NV010
+DH000235,2023-03-02,Miền Bắc,Bắc Ninh,Online,Điện tử,Laptop,901000.0,5,4505000.0,0.0,4505000.0,0.0,Tiền mặt,Nam,30.0,,Hoàn thành,NV035
+DH000236,2023-08-23,Miền Nam,Bình Dương,Đại lý,Thực phẩm,Trà xanh,19000.0,3,57000.0,0.0,57000.0,127000.0,COD,Nữ,38.0,4.0,Đang giao,NV025
+DH000237,2023-03-11,Miền Bắc,Hải Phòng,Siêu thị,Thời trang,Túi xách,451000.0,3,1353000.0,0.0,1353000.0,94000.0,Chuyển khoản,Nữ,41.0,4.0,Đang giao,NV012
+DH000238,2023-02-02,Miền Bắc,Hà Nội,Cửa hàng,Thực phẩm,Trà xanh,112000.0,6,672000.0,0.0,672000.0,59000.0,Chuyển khoản,Nữ,32.0,2.0,Đã hủy,NV008
+DH000239,2023-12-05,Miền Nam,TP.HCM,Siêu thị,Thực phẩm,Gạo ST25,34000.0,2,68000.0,0.0,68000.0,36000.0,Chuyển khoản,Nữ,48.0,5.0,Hoàn thành,NV034
+DH000240,2023-03-14,Miền Bắc,Bắc Ninh,Siêu thị,Điện tử,Máy tính bảng,763000.0,2,1526000.0,10.0,1373000.0,73000.0,Chuyển khoản,Nữ,18.0,4.0,Hoàn thành,NV001
+DH000241,2024-06-10,Tây Nguyên,Lâm Đồng,Đại lý,Văn phòng phẩm,Sổ tay,12000.0,1,12000.0,15.0,10000.0,100000.0,Ví điện tử,Nữ,29.0,5.0,Hoàn thành,NV017
+DH000242,2023-09-01,Tây Nguyên,Gia Lai,Online,Thực phẩm,Cà phê,70000.0,3,210000.0,50.0,105000.0,63000.0,Tiền mặt,Nữ,30.0,,Hoàn thành,NV017
+DH000243,2023-10-13,Tây Nguyên,Lâm Đồng,Cửa hàng,Thực phẩm,Cà phê,104000.0,6,624000.0,15.0,530000.0,96000.0,Chuyển khoản,Nam,34.0,4.0,Hoàn thành,NV044
+DH000244,2024-11-16,Miền Trung,Khánh Hòa,Siêu thị,Văn phòng phẩm,Kẹp giấy,8000.0,3,24000.0,10.0,22000.0,125000.0,Thẻ tín dụng,Nữ,35.0,4.0,Đã hủy,NV037
+DH000245,2024-05-12,Miền Bắc,Quảng Ninh,Đại lý,Điện tử,Máy tính bảng,331000.0,3,993000.0,10.0,894000.0,52000.0,Tiền mặt,Nữ,51.0,3.0,Hoàn thành,NV004
+DH000246,2023-08-08,Tây Nguyên,Gia Lai,Online,Điện tử,Laptop,33153000.0,2,66306000.0,15.0,56360000.0,0.0,Thẻ tín dụng,Nữ,18.0,3.0,Hoàn thành,NV008
+DH000247,2024-07-06,Miền Trung,Huế,Siêu thị,Mỹ phẩm,Serum,170000.0,3,510000.0,0.0,510000.0,39000.0,Chuyển khoản,Nữ,39.0,2.0,Hoàn thành,NV010
+DH000248,2023-05-16,Tây Nguyên,Gia Lai,Đại lý,Thời trang,Quần jean,367000.0,3,1101000.0,0.0,1101000.0,47000.0,Tiền mặt,Nam,44.0,5.0,Trả hàng,NV025
+DH000249,2024-08-07,Tây Nguyên,Gia Lai,Đại lý,Mỹ phẩm,Serum,107000.0,5,535000.0,15.0,455000.0,32000.0,Chuyển khoản,Nam,41.0,4.0,Hoàn thành,NV026
+DH000250,2024-08-13,Miền Nam,Bình Dương,Đại lý,Thời trang,Đồng hồ,444000.0,4,1776000.0,0.0,1776000.0,70000.0,Tiền mặt,Nam,26.0,5.0,Trả hàng,NV037
+DH000251,2024-04-29,Miền Bắc,Hà Nội,Cửa hàng,Điện tử,Tai nghe,6329000.0,2,12658000.0,50.0,6329000.0,0.0,Ví điện tử,Nữ,36.0,5.0,Hoàn thành,NV016
+DH000252,2023-09-06,Miền Trung,Huế,Online,Thực phẩm,Trà xanh,60000.0,2,120000.0,5.0,114000.0,67000.0,Tiền mặt,Nữ,35.0,4.0,Đang giao,NV012
+DH000253,2024-04-29,Miền Nam,TP.HCM,Siêu thị,Điện tử,Điện thoại,16154000.0,3,48462000.0,0.0,48462000.0,0.0,Ví điện tử,Nữ,32.0,4.0,Hoàn thành,NV035
+DH000254,2024-02-21,Miền Trung,Nghệ An,Online,Gia dụng,Nồi cơm điện,398000.0,7,2786000.0,0.0,2786000.0,0.0,Ví điện tử,Nữ,44.0,4.0,Hoàn thành,NV037
+DH000255,2023-07-14,Miền Bắc,Hà Nội,Online,Gia dụng,Nồi cơm điện,416000.0,6,2496000.0,15.0,2122000.0,0.0,Tiền mặt,Nữ,53.0,2.0,Hoàn thành,NV012
+DH000256,2023-04-07,Miền Nam,Đồng Nai,Siêu thị,Văn phòng phẩm,Giấy A4,17000.0,2,34000.0,0.0,34000.0,48000.0,Chuyển khoản,Nữ,30.0,2.0,Hoàn thành,NV035
+DH000257,2023-04-10,Tây Nguyên,Gia Lai,Online,Mỹ phẩm,Serum,304000.0,2,608000.0,0.0,608000.0,,Tiền mặt,Nữ,,4.0,Hoàn thành,NV005
+DH000258,2024-11-05,Miền Nam,TP.HCM,Cửa hàng,Điện tử,Loa bluetooth,2629000.0,5,13145000.0,10.0,11830000.0,0.0,Chuyển khoản,Nữ,22.0,,Đang giao,NV017
+DH000259,2024-03-17,Miền Nam,Cần Thơ,Siêu thị,Mỹ phẩm,Sữa rửa mặt,63000.0,3,189000.0,15.0,161000.0,144000.0,COD,Nữ,33.0,5.0,Hoàn thành,NV026
+DH000260,2023-12-29,Miền Bắc,Quảng Ninh,Siêu thị,Gia dụng,Máy xay sinh tố,622000.0,2,1244000.0,0.0,1244000.0,41000.0,Tiền mặt,Nữ,28.0,4.0,Hoàn thành,NV027
+DH000261,2024-03-09,Miền Nam,Đồng Nai,Đại lý,Gia dụng,Bàn ủi,385000.0,3,1155000.0,30.0,808000.0,27000.0,Tiền mặt,Nữ,49.0,5.0,Đã hủy,NV009
+DH000262,2024-02-25,Tây Nguyên,Đắk Lắk,Online,Mỹ phẩm,Nước hoa,119000.0,5,595000.0,50.0,298000.0,57000.0,Thẻ tín dụng,,49.0,4.0,Hoàn thành,NV004
+DH000263,2024-04-23,Miền Bắc,Quảng Ninh,Siêu thị,Thực phẩm,Cà phê,51000.0,1,51000.0,0.0,51000.0,59000.0,Ví điện tử,Nam,27.0,4.0,Hoàn thành,NV026
+DH000264,2023-02-25,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Gạo ST25,28000.0,5,140000.0,0.0,140000.0,124000.0,Ví điện tử,Nữ,32.0,5.0,Hoàn thành,NV034
+DH000265,2024-11-20,Miền Nam,Bình Dương,Cửa hàng,Gia dụng,Máy xay sinh tố,226000.0,2,452000.0,0.0,452000.0,119000.0,Chuyển khoản,Nữ,28.0,3.0,Đã hủy,NV034
+DH000266,2024-10-31,Miền Nam,Đồng Nai,Đại lý,Thời trang,Túi xách,37000.0,4,148000.0,0.0,148000.0,40000.0,Ví điện tử,Nam,37.0,3.0,Hoàn thành,NV031
+DH000267,2024-10-23,Miền Nam,Bình Dương,Siêu thị,Điện tử,Điện thoại,16278000.0,7,113946000.0,0.0,113946000.0,0.0,Thẻ tín dụng,Nữ,41.0,4.0,Hoàn thành,NV015
+DH000268,2023-04-11,Miền Nam,Cần Thơ,Cửa hàng,Thực phẩm,Nước mắm,70000.0,7,490000.0,0.0,490000.0,63000.0,Ví điện tử,Nữ,28.0,5.0,Hoàn thành,NV016
+DH000269,2023-03-04,Miền Trung,Nghệ An,Siêu thị,Thời trang,Đồng hồ,273000.0,4,1092000.0,0.0,1092000.0,148000.0,Thẻ tín dụng,Nữ,30.0,4.0,Đang giao,NV031
+DH000270,2024-02-17,Miền Bắc,Quảng Ninh,Siêu thị,Điện tử,Tai nghe,898000.0,5,4490000.0,0.0,4490000.0,0.0,Tiền mặt,Nữ,49.0,4.0,Đã hủy,NV048
+DH000271,2023-12-14,Miền Nam,Cần Thơ,Siêu thị,Điện tử,Điện thoại,63000.0,5,315000.0,0.0,315000.0,52000.0,Chuyển khoản,Nam,,4.0,Hoàn thành,NV044
+DH000272,2023-04-22,Miền Nam,Đồng Nai,Cửa hàng,Thực phẩm,Nước mắm,32000.0,5,160000.0,5.0,152000.0,76000.0,Ví điện tử,Nữ,25.0,5.0,Hoàn thành,NV033
+DH000273,2023-09-12,Miền Nam,Bình Dương,Online,Thời trang,Áo thun,532000.0,3,1596000.0,0.0,1596000.0,129000.0,Ví điện tử,Nữ,39.0,5.0,Hoàn thành,NV032
+DH000274,2023-07-16,Tây Nguyên,Đắk Lắk,Siêu thị,Gia dụng,Nồi cơm điện,967000.0,8,7736000.0,0.0,7736000.0,0.0,Tiền mặt,Nam,27.0,5.0,Hoàn thành,NV045
+DH000275,2023-07-14,Miền Nam,Cần Thơ,Siêu thị,Thời trang,Giày thể thao,502000.0,3,1506000.0,0.0,1506000.0,76000.0,Chuyển khoản,Nữ,31.0,4.0,Đã hủy,NV010
+DH000276,2024-07-03,Miền Nam,TP.HCM,Online,Thực phẩm,Bánh tráng,55000.0,5,275000.0,0.0,275000.0,41000.0,Ví điện tử,Nữ,34.0,4.0,Hoàn thành,NV029
+DH000277,2024-04-04,Miền Nam,Đồng Nai,Siêu thị,Thực phẩm,Gạo ST25,109000.0,3,327000.0,25.0,245000.0,82000.0,Ví điện tử,Nữ,30.0,5.0,Hoàn thành,NV050
+DH000278,2023-05-24,Miền Nam,TP.HCM,Đại lý,Gia dụng,Nồi cơm điện,397000.0,6,2382000.0,0.0,2382000.0,0.0,Thẻ tín dụng,Nam,45.0,5.0,Hoàn thành,NV002
+DH000279,2024-03-08,Miền Nam,TP.HCM,Siêu thị,Thời trang,Áo thun,715000.0,3,2145000.0,0.0,2145000.0,0.0,Tiền mặt,Nam,43.0,,Hoàn thành,NV024
+DH000280,2023-07-07,Miền Nam,Cần Thơ,Đại lý,Văn phòng phẩm,Bìa hồ sơ,12000.0,5,60000.0,10.0,54000.0,108000.0,Chuyển khoản,Nam,38.0,3.0,Hoàn thành,NV024
+DH000281,2023-10-13,Miền Nam,Đồng Nai,Online,Văn phòng phẩm,Kẹp giấy,10000.0,4,40000.0,0.0,40000.0,63000.0,Thẻ tín dụng,Nữ,30.0,5.0,Đang giao,NV009
+DH000282,2024-04-18,Miền Trung,Khánh Hòa,Cửa hàng,Mỹ phẩm,Kem chống nắng,81000.0,3,243000.0,15.0,207000.0,87000.0,Ví điện tử,Nam,29.0,2.0,Hoàn thành,NV038
+DH000283,2023-09-13,Miền Trung,Khánh Hòa,Online,Văn phòng phẩm,Bìa hồ sơ,9000.0,5,45000.0,5.0,43000.0,90000.0,Thẻ tín dụng,Nam,40.0,5.0,Hoàn thành,NV033
+DH000284,2023-03-19,Miền Bắc,Hà Nội,Siêu thị,Thực phẩm,Cà phê,74000.0,4,296000.0,0.0,296000.0,,Chuyển khoản,Nam,35.0,4.0,Hoàn thành,NV005
+DH000285,2024-03-29,Miền Nam,TP.HCM,Đại lý,Thực phẩm,Nước mắm,32000.0,1,32000.0,0.0,32000.0,119000.0,Thẻ tín dụng,Nam,46.0,5.0,Hoàn thành,NV011
+DH000286,2024-07-17,Miền Bắc,Hà Nội,Cửa hàng,Gia dụng,Nồi cơm điện,243000.0,4,972000.0,0.0,972000.0,112000.0,Tiền mặt,Nữ,,3.0,Đang giao,NV011
+DH000287,2023-04-11,Miền Trung,Khánh Hòa,Siêu thị,Gia dụng,Nồi cơm điện,824000.0,5,4120000.0,0.0,4120000.0,0.0,Ví điện tử,Nữ,36.0,5.0,Hoàn thành,NV045
+DH000288,2023-02-21,Miền Nam,TP.HCM,Cửa hàng,Mỹ phẩm,Son môi,269000.0,5,1345000.0,5.0,1278000.0,125000.0,Ví điện tử,Nữ,33.0,5.0,Hoàn thành,NV038
+DH000289,2024-10-29,Miền Bắc,Quảng Ninh,Cửa hàng,Gia dụng,Máy xay sinh tố,981000.0,3,2943000.0,15.0,2502000.0,0.0,Tiền mặt,Nữ,,4.0,Đang giao,NV045
+DH000290,2024-07-07,Miền Nam,Đồng Nai,Siêu thị,Văn phòng phẩm,Giấy A4,19000.0,5,95000.0,15.0,81000.0,122000.0,Chuyển khoản,Nam,35.0,4.0,Hoàn thành,NV041
+DH000291,2023-01-16,Miền Bắc,Quảng Ninh,Online,Thời trang,Áo thun,164000.0,7,1148000.0,20.0,918000.0,63000.0,Ví điện tử,Nam,37.0,5.0,Hoàn thành,NV013
+DH000292,2023-04-06,Miền Bắc,Bắc Ninh,Siêu thị,Mỹ phẩm,Kem chống nắng,214000.0,5,1070000.0,0.0,1070000.0,71000.0,Thẻ tín dụng,Nữ,29.0,4.0,Đã hủy,NV033
+DH000293,2023-08-31,Miền Nam,Cần Thơ,Siêu thị,Gia dụng,Bàn ủi,546000.0,3,1638000.0,10.0,1474000.0,137000.0,Chuyển khoản,Nam,24.0,5.0,Đã hủy,NV004
+DH000294,2023-06-20,Miền Trung,Đà Nẵng,Online,Gia dụng,Máy xay sinh tố,263000.0,6,1578000.0,15.0,1341000.0,106000.0,Tiền mặt,Nữ,26.0,4.0,Đang giao,NV035
+DH000295,2024-02-21,Miền Bắc,Hà Nội,Đại lý,Thời trang,Túi xách,124000.0,4,496000.0,0.0,496000.0,49000.0,Ví điện tử,Nữ,45.0,4.0,Hoàn thành,NV006
+DH000296,2024-05-12,Miền Nam,Đồng Nai,Siêu thị,Mỹ phẩm,Kem chống nắng,108000.0,5,540000.0,0.0,540000.0,105000.0,Thẻ tín dụng,Nữ,33.0,5.0,Đang giao,NV002
+DH000297,2024-05-07,Miền Nam,Bình Dương,Cửa hàng,Văn phòng phẩm,Bìa hồ sơ,42000.0,4,168000.0,0.0,168000.0,36000.0,Thẻ tín dụng,Nam,30.0,3.0,Đã hủy,NV041
+DH000298,2023-08-07,Miền Bắc,Hải Phòng,Siêu thị,Thời trang,Quần jean,216000.0,5,1080000.0,10.0,972000.0,50000.0,Tiền mặt,Nam,42.0,4.0,Đã hủy,NV003
+DH000299,2024-02-15,Miền Nam,Đồng Nai,Siêu thị,Thực phẩm,Cà phê,105000.0,2,210000.0,0.0,210000.0,23000.0,Thẻ tín dụng,Nữ,30.0,5.0,Hoàn thành,NV012
+DH000300,2023-03-02,Miền Bắc,Hà Nội,Cửa hàng,Thực phẩm,Gạo ST25,38000.0,6,228000.0,10.0,205000.0,107000.0,Tiền mặt,Nam,33.0,4.0,Hoàn thành,NV045
+DH000301,2023-06-18,Miền Bắc,Hải Phòng,Online,Văn phòng phẩm,Bút bi,23000.0,9,207000.0,0.0,207000.0,143000.0,Ví điện tử,Nam,27.0,5.0,Hoàn thành,NV002
+DH000302,2024-01-24,Miền Nam,TP.HCM,Đại lý,Thực phẩm,Nước mắm,86000.0,3,258000.0,0.0,258000.0,141000.0,Ví điện tử,Nam,40.0,4.0,Hoàn thành,NV028
+DH000303,2023-01-03,Miền Nam,Bình Dương,Đại lý,Thời trang,Áo thun,643000.0,5,3215000.0,10.0,2894000.0,0.0,Chuyển khoản,Nam,27.0,4.0,Hoàn thành,NV044
+DH000304,2024-02-04,Miền Nam,Bình Dương,Cửa hàng,Thực phẩm,Nước mắm,63000.0,5,315000.0,0.0,315000.0,,Ví điện tử,Nữ,19.0,5.0,Hoàn thành,NV005
+DH000305,2023-09-29,Miền Nam,Cần Thơ,Online,Gia dụng,Ấm siêu tốc,1311000.0,5,6555000.0,0.0,6555000.0,0.0,Chuyển khoản,Nữ,47.0,5.0,Hoàn thành,NV009
+DH000306,2024-04-10,Tây Nguyên,Đắk Lắk,Siêu thị,Điện tử,Tai nghe,3149000.0,5,15745000.0,5.0,14958000.0,,Chuyển khoản,Nữ,30.0,4.0,Hoàn thành,NV022
+DH000307,2023-10-20,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Gạo ST25,140000.0,4,560000.0,0.0,560000.0,139000.0,Chuyển khoản,Nam,28.0,3.0,Hoàn thành,NV012
+DH000308,2024-03-09,Miền Trung,Huế,Siêu thị,Văn phòng phẩm,Bút bi,7000.0,5,35000.0,20.0,28000.0,110000.0,Thẻ tín dụng,Nam,34.0,5.0,Hoàn thành,NV003
+DH000309,2024-12-14,Miền Nam,Cần Thơ,Siêu thị,Mỹ phẩm,Nước hoa,274000.0,4,1096000.0,0.0,1096000.0,39000.0,Ví điện tử,Nữ,18.0,3.0,Đang giao,NV005
+DH000310,2024-07-23,Miền Bắc,Bắc Ninh,Siêu thị,Điện tử,Tai nghe,2810000.0,3,8430000.0,10.0,7587000.0,0.0,Thẻ tín dụng,Nữ,43.0,3.0,Hoàn thành,NV049
+DH000311,2024-11-08,Miền Trung,Nghệ An,Cửa hàng,Văn phòng phẩm,Bút bi,9000.0,2,18000.0,0.0,18000.0,100000.0,Ví điện tử,Nữ,23.0,4.0,Hoàn thành,NV013
+DH000312,2024-05-13,Miền Bắc,Hà Nội,Siêu thị,Gia dụng,Ấm siêu tốc,750000.0,1,750000.0,10.0,675000.0,51000.0,COD,Nữ,28.0,5.0,Hoàn thành,NV031
+DH000313,2023-06-08,Miền Bắc,Quảng Ninh,Siêu thị,Điện tử,Loa bluetooth,335000.0,3,1005000.0,0.0,1005000.0,130000.0,Chuyển khoản,Nam,31.0,5.0,Hoàn thành,NV003
+DH000314,2023-07-14,Tây Nguyên,Lâm Đồng,,Điện tử,Tai nghe,912000.0,5,4560000.0,15.0,3876000.0,0.0,Ví điện tử,Nam,30.0,5.0,Hoàn thành,NV018
+DH000315,2023-10-31,Miền Nam,Cần Thơ,Siêu thị,Điện tử,Loa bluetooth,182000.0,2,364000.0,10.0,328000.0,91000.0,Chuyển khoản,Nữ,32.0,5.0,Trả hàng,NV016
+DH000316,2023-08-11,Miền Nam,TP.HCM,Đại lý,Mỹ phẩm,Son môi,813000.0,2,1626000.0,0.0,1626000.0,135000.0,COD,Nữ,42.0,4.0,Đang giao,NV002
+DH000317,2023-03-01,Miền Trung,Huế,Cửa hàng,Điện tử,Tai nghe,1515000.0,2,3030000.0,0.0,3030000.0,0.0,Tiền mặt,Nữ,47.0,5.0,Hoàn thành,NV011
+DH000318,2024-08-16,Miền Bắc,Bắc Ninh,Cửa hàng,Thời trang,Quần jean,1698000.0,4,6792000.0,10.0,6113000.0,0.0,Ví điện tử,Nữ,50.0,5.0,Hoàn thành,NV024
+DH000319,2024-07-09,Miền Bắc,Hà Nội,Cửa hàng,Gia dụng,Máy xay sinh tố,877000.0,2,1754000.0,0.0,1754000.0,32000.0,Chuyển khoản,Nữ,31.0,5.0,Hoàn thành,NV029
+DH000320,2023-03-04,Miền Bắc,Quảng Ninh,Đại lý,Thực phẩm,Bánh tráng,65000.0,6,390000.0,5.0,370000.0,88000.0,Tiền mặt,Nam,31.0,4.0,Hoàn thành,NV046
+DH000321,2023-11-18,Miền Nam,Đồng Nai,Siêu thị,Mỹ phẩm,Serum,118000.0,2,236000.0,20.0,189000.0,138000.0,Ví điện tử,Nam,28.0,4.0,Đã hủy,NV042
+DH000322,2023-02-28,Miền Nam,Cần Thơ,,Gia dụng,Quạt điện,240000.0,3,720000.0,10.0,648000.0,97000.0,Chuyển khoản,Nữ,26.0,,Hoàn thành,NV042
+DH000323,2023-02-21,Miền Nam,Cần Thơ,Đại lý,Điện tử,Máy tính bảng,3746000.0,5,18730000.0,0.0,18730000.0,0.0,Chuyển khoản,Nữ,27.0,4.0,Hoàn thành,NV007
+DH000324,2024-08-21,Miền Bắc,Hải Phòng,Online,Mỹ phẩm,Serum,188000.0,1,188000.0,5.0,179000.0,127000.0,Ví điện tử,Nữ,,5.0,Hoàn thành,NV048
+DH000325,2024-05-03,Tây Nguyên,Đắk Lắk,Siêu thị,Thời trang,Đồng hồ,103000.0,6,618000.0,10.0,556000.0,74000.0,Chuyển khoản,Nữ,46.0,4.0,Đã hủy,NV019
+DH000326,2024-05-29,Miền Nam,Cần Thơ,Đại lý,Thực phẩm,Bánh tráng,20000.0,3,60000.0,0.0,60000.0,,Chuyển khoản,Nam,18.0,5.0,Hoàn thành,NV017
+DH000327,2024-06-27,Miền Nam,TP.HCM,Siêu thị,Gia dụng,Máy xay sinh tố,256000.0,3,768000.0,0.0,768000.0,80000.0,Chuyển khoản,Nữ,48.0,4.0,Đang giao,NV007
+DH000328,2023-06-11,Miền Nam,Cần Thơ,,Điện tử,Máy tính bảng,17784000.0,7,124488000.0,10.0,112039000.0,0.0,Ví điện tử,Nam,33.0,5.0,Đã hủy,NV003
+DH000329,2023-02-28,Miền Trung,Nghệ An,Đại lý,Văn phòng phẩm,Kẹp giấy,45000.0,5,225000.0,30.0,158000.0,139000.0,COD,Nam,25.0,4.0,Hoàn thành,NV034
+DH000330,2024-06-04,Miền Bắc,Hải Phòng,Siêu thị,Thực phẩm,Cà phê,57000.0,4,228000.0,10.0,205000.0,105000.0,Chuyển khoản,Nam,18.0,5.0,Hoàn thành,NV034
+DH000331,2023-03-24,Miền Trung,Nghệ An,Đại lý,Điện tử,Loa bluetooth,2391000.0,2,4782000.0,10.0,4304000.0,0.0,Thẻ tín dụng,Nữ,39.0,5.0,Hoàn thành,NV033
+DH000332,2023-07-10,Miền Nam,Cần Thơ,Cửa hàng,Văn phòng phẩm,Kẹp giấy,13000.0,4,52000.0,0.0,52000.0,116000.0,Chuyển khoản,Nam,18.0,5.0,Hoàn thành,NV032
+DH000333,2023-03-12,Miền Bắc,Hà Nội,Siêu thị,Thực phẩm,Trà xanh,29000.0,3,87000.0,0.0,87000.0,40000.0,Ví điện tử,Nữ,28.0,5.0,Hoàn thành,NV024
+DH000334,2024-09-01,Miền Bắc,Quảng Ninh,Đại lý,Gia dụng,Quạt điện,1309000.0,6,7854000.0,0.0,7854000.0,,COD,Nam,43.0,5.0,Hoàn thành,NV047
+DH000335,2023-03-11,Miền Bắc,Bắc Ninh,Cửa hàng,Thực phẩm,Gạo ST25,154000.0,2,308000.0,0.0,308000.0,23000.0,Tiền mặt,Nữ,32.0,1.0,Hoàn thành,NV021
+DH000336,2024-11-22,Miền Bắc,Hà Nội,Online,Mỹ phẩm,Nước hoa,90000.0,4,360000.0,20.0,288000.0,52000.0,Thẻ tín dụng,Nữ,29.0,4.0,Hoàn thành,NV032
+DH000337,2023-08-29,Miền Nam,Đồng Nai,Siêu thị,Điện tử,Điện thoại,1811000.0,5,9055000.0,15.0,7697000.0,0.0,COD,Nữ,34.0,,Hoàn thành,NV027
+DH000338,2024-02-18,Miền Nam,TP.HCM,Siêu thị,Thời trang,Đồng hồ,209000.0,4,836000.0,0.0,836000.0,33000.0,Chuyển khoản,Nam,45.0,2.0,Hoàn thành,NV022
+DH000339,2023-05-03,Miền Trung,Nghệ An,Online,Thực phẩm,Bánh tráng,39000.0,4,156000.0,5.0,148000.0,92000.0,Chuyển khoản,Nữ,30.0,4.0,Đang giao,NV014
+DH000340,2024-08-06,Miền Bắc,Bắc Ninh,Cửa hàng,Điện tử,Laptop,8300000.0,3,24900000.0,0.0,24900000.0,0.0,COD,Nam,36.0,5.0,Hoàn thành,NV014
+DH000341,2023-09-10,Miền Trung,Khánh Hòa,Online,Gia dụng,Quạt điện,200000.0,4,800000.0,5.0,760000.0,108000.0,Chuyển khoản,,42.0,4.0,Trả hàng,NV045
+DH000342,2024-08-15,Miền Trung,Nghệ An,Siêu thị,Thực phẩm,Cà phê,66000.0,7,462000.0,0.0,462000.0,37000.0,Tiền mặt,Nam,28.0,5.0,Hoàn thành,NV043
+DH000343,2024-08-31,Miền Bắc,Hà Nội,Đại lý,Thời trang,Giày thể thao,537000.0,4,2148000.0,0.0,2148000.0,0.0,Ví điện tử,Nam,28.0,5.0,Đang giao,NV011
+DH000344,2023-02-10,Miền Trung,Khánh Hòa,Cửa hàng,Điện tử,Loa bluetooth,1686000.0,4,6744000.0,0.0,6744000.0,0.0,Thẻ tín dụng,Nữ,38.0,3.0,Hoàn thành,NV026
+DH000345,2024-09-26,Miền Trung,Khánh Hòa,Cửa hàng,Gia dụng,Nồi cơm điện,934000.0,7,6538000.0,20.0,5230000.0,0.0,Tiền mặt,Nam,36.0,5.0,Hoàn thành,NV027
+DH000346,2023-03-25,Miền Nam,Bình Dương,Cửa hàng,Mỹ phẩm,Sữa rửa mặt,228000.0,7,1596000.0,0.0,1596000.0,127000.0,Thẻ tín dụng,Nam,48.0,4.0,Đang giao,NV020
+DH000347,2024-03-05,Miền Nam,TP.HCM,Online,Thực phẩm,Gạo ST25,104000.0,4,416000.0,0.0,416000.0,30000.0,Ví điện tử,Nam,28.0,,Hoàn thành,NV003
+DH000348,2024-11-04,Miền Bắc,Hải Phòng,,Thực phẩm,Gạo ST25,20000.0,4,80000.0,0.0,80000.0,69000.0,Tiền mặt,Nữ,30.0,3.0,Hoàn thành,NV030
+DH000349,2024-08-20,Miền Trung,Đà Nẵng,Đại lý,Thời trang,Giày thể thao,227000.0,5,1135000.0,10.0,1022000.0,17000.0,Chuyển khoản,Nam,31.0,4.0,Hoàn thành,NV017
+DH000350,2024-08-01,Miền Nam,Bình Dương,Đại lý,Thực phẩm,Trà xanh,48000.0,5,240000.0,5.0,228000.0,118000.0,Thẻ tín dụng,Nam,22.0,5.0,Hoàn thành,NV011
+DH000351,2024-06-19,Miền Nam,Đồng Nai,Cửa hàng,Điện tử,Điện thoại,81000.0,3,243000.0,0.0,243000.0,144000.0,Tiền mặt,Nam,31.0,1.0,Hoàn thành,NV006
+DH000352,2023-11-20,Miền Nam,Đồng Nai,Đại lý,Thực phẩm,Cà phê,26000.0,1,26000.0,0.0,26000.0,55000.0,COD,Nữ,43.0,5.0,Hoàn thành,NV001
+DH000353,2023-09-25,Miền Nam,Bình Dương,Online,Gia dụng,Bàn ủi,283000.0,2,566000.0,0.0,566000.0,56000.0,Thẻ tín dụng,Nữ,25.0,2.0,Hoàn thành,NV012
+DH000354,2023-07-29,Miền Bắc,Hà Nội,Đại lý,Văn phòng phẩm,Bìa hồ sơ,24000.0,6,144000.0,0.0,144000.0,92000.0,Thẻ tín dụng,Nữ,38.0,5.0,Hoàn thành,NV049
+DH000355,2024-11-16,Miền Bắc,Bắc Ninh,Online,Thực phẩm,Bánh tráng,33000.0,2,66000.0,5.0,63000.0,33000.0,Tiền mặt,Nữ,33.0,2.0,Hoàn thành,NV032
+DH000356,2023-11-18,Miền Nam,Cần Thơ,Đại lý,Gia dụng,Quạt điện,282000.0,6,1692000.0,0.0,1692000.0,96000.0,Chuyển khoản,Nam,28.0,4.0,Hoàn thành,NV011
+DH000357,2023-09-02,Miền Bắc,Quảng Ninh,Siêu thị,Thực phẩm,Cà phê,82000.0,4,328000.0,0.0,328000.0,89000.0,Tiền mặt,Nam,30.0,5.0,Hoàn thành,NV005
+DH000358,2023-09-29,Miền Nam,TP.HCM,Online,Văn phòng phẩm,Sổ tay,7000.0,5,35000.0,0.0,35000.0,69000.0,Ví điện tử,Nữ,30.0,5.0,Hoàn thành,NV038
+DH000359,2024-02-10,Tây Nguyên,Gia Lai,Siêu thị,Thực phẩm,Gạo ST25,14000.0,3,42000.0,0.0,42000.0,110000.0,Chuyển khoản,Nữ,33.0,2.0,Hoàn thành,NV008
+DH000360,2023-05-15,Miền Nam,TP.HCM,Online,Thời trang,Túi xách,225000.0,5,1125000.0,0.0,1125000.0,88000.0,Chuyển khoản,Nam,34.0,5.0,Hoàn thành,NV019
+DH000361,2024-11-18,Miền Trung,Huế,Đại lý,Mỹ phẩm,Son môi,54000.0,9,486000.0,15.0,413000.0,129000.0,Thẻ tín dụng,Nữ,36.0,,Hoàn thành,NV022
+DH000362,2024-10-22,Miền Nam,Đồng Nai,Siêu thị,Điện tử,Laptop,368000.0,1,368000.0,0.0,368000.0,113000.0,Ví điện tử,Nữ,48.0,5.0,Đang giao,NV045
+DH000363,2023-11-04,Miền Trung,Đà Nẵng,Đại lý,Điện tử,Tai nghe,3980000.0,6,23880000.0,10.0,21492000.0,0.0,Ví điện tử,Nam,18.0,4.0,Hoàn thành,NV035
+DH000364,2024-04-13,Miền Nam,Cần Thơ,Online,Điện tử,Máy tính bảng,5722000.0,1,5722000.0,15.0,4864000.0,0.0,Tiền mặt,Nữ,25.0,5.0,Hoàn thành,NV033
+DH000365,2023-11-20,Tây Nguyên,Đắk Lắk,Siêu thị,Mỹ phẩm,Son môi,407000.0,5,2035000.0,50.0,1018000.0,19000.0,Chuyển khoản,Nữ,42.0,2.0,Hoàn thành,NV025
+DH000366,2023-03-16,Miền Trung,Huế,Cửa hàng,Điện tử,Loa bluetooth,7566000.0,3,22698000.0,0.0,22698000.0,0.0,Tiền mặt,Nữ,43.0,4.0,Trả hàng,NV020
+DH000367,2023-01-10,Tây Nguyên,Lâm Đồng,Đại lý,Mỹ phẩm,Sữa rửa mặt,611000.0,6,3666000.0,10.0,3299000.0,0.0,Ví điện tử,Nữ,35.0,4.0,Đã hủy,NV037
+DH000368,2024-04-14,Tây Nguyên,Lâm Đồng,Online,Thực phẩm,Trà xanh,14000.0,2,28000.0,0.0,28000.0,135000.0,Chuyển khoản,Nữ,27.0,4.0,Hoàn thành,NV020
+DH000369,2024-09-28,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Laptop,3434000.0,2,6868000.0,0.0,6868000.0,0.0,Tiền mặt,Nam,18.0,5.0,Hoàn thành,NV004
+DH000370,2024-07-30,Miền Bắc,Hà Nội,Đại lý,Thực phẩm,Nước mắm,36000.0,3,108000.0,0.0,108000.0,65000.0,Chuyển khoản,Nữ,37.0,2.0,Hoàn thành,NV009
+DH000371,2023-04-13,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Loa bluetooth,816000.0,5,4080000.0,0.0,4080000.0,0.0,Tiền mặt,Nữ,46.0,2.0,Hoàn thành,NV022
+DH000372,2023-03-17,Miền Bắc,Bắc Ninh,Đại lý,Thực phẩm,Gạo ST25,70000.0,2,140000.0,0.0,140000.0,142000.0,Ví điện tử,Nữ,48.0,2.0,Hoàn thành,NV012
+DH000373,2024-07-04,Miền Bắc,Bắc Ninh,Đại lý,Gia dụng,Quạt điện,149000.0,3,447000.0,0.0,447000.0,107000.0,Chuyển khoản,Nam,29.0,1.0,Đã hủy,NV019
+DH000374,2023-08-07,Miền Nam,TP.HCM,Đại lý,Thực phẩm,Trà xanh,17000.0,6,102000.0,10.0,92000.0,80000.0,Chuyển khoản,Nữ,37.0,4.0,Đã hủy,NV028
+DH000375,2024-06-02,Miền Bắc,Quảng Ninh,Siêu thị,Điện tử,Loa bluetooth,4278000.0,6,25668000.0,0.0,25668000.0,,COD,Nữ,35.0,5.0,Đang giao,NV024
+DH000376,2023-09-29,Miền Trung,Nghệ An,Siêu thị,Gia dụng,Quạt điện,703000.0,5,3515000.0,0.0,3515000.0,0.0,Tiền mặt,Nam,20.0,5.0,Hoàn thành,NV046
+DH000377,2023-05-16,Miền Nam,Cần Thơ,Đại lý,Mỹ phẩm,Kem chống nắng,226000.0,2,452000.0,0.0,452000.0,27000.0,Tiền mặt,Nữ,37.0,4.0,Hoàn thành,NV036
+DH000378,2023-12-24,Miền Bắc,Hà Nội,Cửa hàng,Gia dụng,Quạt điện,270000.0,4,1080000.0,0.0,1080000.0,110000.0,Thẻ tín dụng,Nữ,18.0,3.0,Hoàn thành,NV023
+DH000379,2023-03-12,Miền Nam,Đồng Nai,Cửa hàng,Mỹ phẩm,Nước hoa,391000.0,5,1955000.0,0.0,1955000.0,24000.0,COD,Nam,32.0,5.0,Hoàn thành,NV032
+DH000380,2023-09-08,Miền Bắc,Hải Phòng,Cửa hàng,Thời trang,Quần jean,517000.0,3,1551000.0,0.0,1551000.0,22000.0,COD,Nữ,43.0,5.0,Đang giao,NV045
+DH000381,2024-01-14,Miền Bắc,Quảng Ninh,Online,Mỹ phẩm,Serum,216000.0,3,648000.0,5.0,616000.0,112000.0,Thẻ tín dụng,Nam,45.0,5.0,Hoàn thành,NV037
+DH000382,2023-10-19,Miền Nam,TP.HCM,Cửa hàng,Thời trang,Đồng hồ,117000.0,3,351000.0,0.0,351000.0,115000.0,Ví điện tử,Nam,33.0,5.0,Hoàn thành,NV012
+DH000383,2023-06-11,Miền Nam,Bình Dương,Siêu thị,Điện tử,Laptop,1201000.0,3,3603000.0,0.0,3603000.0,0.0,Chuyển khoản,Nữ,54.0,5.0,Hoàn thành,NV019
+DH000384,2024-03-24,Miền Nam,Cần Thơ,Cửa hàng,Mỹ phẩm,Son môi,425000.0,3,1275000.0,0.0,1275000.0,68000.0,Chuyển khoản,Nữ,30.0,4.0,Hoàn thành,NV046
+DH000385,2024-07-10,Miền Nam,TP.HCM,Siêu thị,Văn phòng phẩm,Kẹp giấy,29000.0,5,145000.0,0.0,145000.0,75000.0,Chuyển khoản,Nam,21.0,5.0,Hoàn thành,NV023
+DH000386,2024-12-21,Miền Nam,Đồng Nai,Online,Gia dụng,Ấm siêu tốc,398000.0,2,796000.0,0.0,796000.0,65000.0,Chuyển khoản,Nữ,43.0,3.0,Hoàn thành,NV021
+DH000387,2023-11-06,Miền Bắc,Hà Nội,Siêu thị,Thời trang,Đồng hồ,246000.0,3,738000.0,0.0,738000.0,75000.0,Ví điện tử,Nam,36.0,5.0,Hoàn thành,NV044
+DH000388,2024-09-18,Miền Bắc,Bắc Ninh,Siêu thị,Thời trang,Quần jean,264000.0,6,1584000.0,0.0,1584000.0,40000.0,Ví điện tử,Nam,23.0,2.0,Hoàn thành,NV003
+DH000389,2024-10-31,Miền Nam,TP.HCM,Siêu thị,Thực phẩm,Bánh tráng,59000.0,6,354000.0,5.0,336000.0,94000.0,Thẻ tín dụng,Nữ,34.0,4.0,Đã hủy,NV039
+DH000390,2024-06-25,Miền Nam,TP.HCM,Cửa hàng,Mỹ phẩm,Son môi,119000.0,4,476000.0,15.0,405000.0,85000.0,Ví điện tử,Nữ,31.0,2.0,Đang giao,NV002
+DH000391,2023-01-09,Tây Nguyên,Đắk Lắk,Đại lý,Điện tử,Laptop,62000.0,2,124000.0,5.0,118000.0,105000.0,Thẻ tín dụng,Nữ,49.0,5.0,Đang giao,NV014
+DH000392,2024-11-14,Miền Trung,Đà Nẵng,Siêu thị,Mỹ phẩm,Son môi,585000.0,4,2340000.0,10.0,2106000.0,0.0,Ví điện tử,Nữ,42.0,3.0,Hoàn thành,NV020
+DH000393,2024-07-21,Miền Trung,Khánh Hòa,Cửa hàng,Thời trang,Quần jean,1261000.0,3,3783000.0,0.0,3783000.0,0.0,Thẻ tín dụng,Nữ,27.0,4.0,Hoàn thành,NV022
+DH000394,2023-11-03,Miền Nam,Bình Dương,Cửa hàng,Mỹ phẩm,Nước hoa,115000.0,2,230000.0,0.0,230000.0,124000.0,Ví điện tử,Nam,35.0,4.0,Trả hàng,NV034
+DH000395,2024-11-10,Miền Trung,Đà Nẵng,Cửa hàng,Văn phòng phẩm,Kẹp giấy,9000.0,4,36000.0,0.0,36000.0,,Tiền mặt,Nam,29.0,4.0,Hoàn thành,NV008
+DH000396,2023-04-17,Tây Nguyên,Đắk Lắk,Đại lý,Thực phẩm,Nước mắm,46000.0,8,368000.0,15.0,313000.0,38000.0,Ví điện tử,Nam,48.0,4.0,Hoàn thành,NV028
+DH000397,2023-05-18,Miền Nam,TP.HCM,,Thời trang,Quần jean,258000.0,4,1032000.0,0.0,1032000.0,71000.0,Ví điện tử,Nam,29.0,4.0,Đang giao,NV015
+DH000398,2023-09-28,Miền Trung,Khánh Hòa,Đại lý,Mỹ phẩm,Serum,490000.0,4,1960000.0,0.0,1960000.0,113000.0,Ví điện tử,Nữ,27.0,4.0,Hoàn thành,NV006
+DH000399,2023-04-29,Miền Nam,TP.HCM,Đại lý,Thực phẩm,Gạo ST25,52000.0,6,312000.0,0.0,312000.0,86000.0,Ví điện tử,Nam,24.0,4.0,Hoàn thành,NV027
+DH000400,2023-04-20,Miền Nam,Bình Dương,Online,Gia dụng,Bàn ủi,287000.0,4,1148000.0,0.0,1148000.0,92000.0,Ví điện tử,Nam,40.0,5.0,Đã hủy,NV049
+DH000401,2024-07-20,Miền Bắc,Bắc Ninh,Đại lý,Thực phẩm,Trà xanh,23000.0,2,46000.0,15.0,39000.0,61000.0,Tiền mặt,Nam,37.0,4.0,Đang giao,NV043
+DH000402,2023-06-09,Tây Nguyên,Đắk Lắk,Đại lý,Điện tử,Điện thoại,5651000.0,6,33906000.0,5.0,32211000.0,0.0,Tiền mặt,Nữ,27.0,4.0,Hoàn thành,NV025
+DH000403,2023-10-06,Miền Nam,TP.HCM,Đại lý,Mỹ phẩm,Nước hoa,343000.0,3,1029000.0,0.0,1029000.0,145000.0,Chuyển khoản,Nữ,27.0,4.0,Hoàn thành,NV009
+DH000404,2023-10-16,Miền Nam,TP.HCM,,Điện tử,Máy tính bảng,7141000.0,2,14282000.0,0.0,14282000.0,0.0,Chuyển khoản,Nữ,55.0,,Hoàn thành,NV029
+DH000405,2024-09-11,Miền Trung,Đà Nẵng,Siêu thị,Văn phòng phẩm,Kẹp giấy,9000.0,5,45000.0,5.0,43000.0,58000.0,Chuyển khoản,Nữ,47.0,5.0,Hoàn thành,NV026
+DH000406,2023-08-04,Miền Nam,Bình Dương,Đại lý,Thời trang,Áo thun,1306000.0,4,5224000.0,0.0,5224000.0,0.0,Ví điện tử,Nữ,35.0,4.0,Hoàn thành,NV037
+DH000407,2023-12-18,Miền Trung,Khánh Hòa,Online,Gia dụng,Quạt điện,148000.0,3,444000.0,0.0,444000.0,68000.0,COD,Nữ,43.0,5.0,Hoàn thành,NV037
+DH000408,2023-07-28,Miền Bắc,Bắc Ninh,Siêu thị,Thời trang,Giày thể thao,529000.0,5,2645000.0,10.0,2380000.0,0.0,Ví điện tử,Nữ,31.0,4.0,Hoàn thành,NV047
+DH000409,2024-12-04,Tây Nguyên,Đắk Lắk,Cửa hàng,Thời trang,Túi xách,65000.0,1,65000.0,5.0,62000.0,107000.0,Chuyển khoản,Nam,35.0,5.0,Đã hủy,NV036
+DH000410,2024-10-11,Miền Bắc,Bắc Ninh,Siêu thị,Thời trang,Đồng hồ,159000.0,3,477000.0,15.0,405000.0,70000.0,Tiền mặt,Nữ,45.0,4.0,Hoàn thành,NV008
+DH000411,2023-09-28,Miền Trung,Huế,Cửa hàng,Gia dụng,Bàn ủi,1491000.0,4,5964000.0,0.0,5964000.0,0.0,Ví điện tử,Nữ,35.0,5.0,Hoàn thành,NV040
+DH000412,2024-06-01,Tây Nguyên,Gia Lai,Siêu thị,Thực phẩm,Trà xanh,82000.0,4,328000.0,5.0,312000.0,60000.0,Ví điện tử,Nữ,23.0,2.0,Hoàn thành,NV023
+DH000413,2024-05-15,Tây Nguyên,Gia Lai,Đại lý,Mỹ phẩm,Kem chống nắng,122000.0,3,366000.0,0.0,366000.0,68000.0,Tiền mặt,Nam,28.0,1.0,Đã hủy,NV042
+DH000414,2023-09-15,Miền Nam,TP.HCM,Siêu thị,Thời trang,Giày thể thao,198000.0,4,792000.0,0.0,792000.0,67000.0,Tiền mặt,Nam,37.0,3.0,Hoàn thành,NV049
+DH000415,2023-02-22,Miền Nam,Đồng Nai,Đại lý,Gia dụng,Quạt điện,536000.0,4,2144000.0,0.0,2144000.0,0.0,Ví điện tử,Nam,41.0,2.0,Hoàn thành,NV035
+DH000416,2023-04-05,Miền Trung,Khánh Hòa,Đại lý,Gia dụng,Máy xay sinh tố,717000.0,4,2868000.0,0.0,2868000.0,0.0,Ví điện tử,Nam,49.0,4.0,Hoàn thành,NV049
+DH000417,2024-10-11,Miền Bắc,Bắc Ninh,Siêu thị,Điện tử,Laptop,8980000.0,3,26940000.0,0.0,26940000.0,0.0,COD,Nữ,25.0,4.0,Hoàn thành,NV001
+DH000418,2024-03-09,Miền Trung,Khánh Hòa,Cửa hàng,Thực phẩm,Bánh tráng,38000.0,2,76000.0,0.0,76000.0,99000.0,Chuyển khoản,Nữ,39.0,5.0,Hoàn thành,NV024
+DH000419,2023-10-11,Miền Nam,TP.HCM,Cửa hàng,Thực phẩm,Cà phê,19000.0,7,133000.0,10.0,120000.0,86000.0,Thẻ tín dụng,Nam,25.0,3.0,Đang giao,NV029
+DH000420,2023-02-15,Miền Nam,Bình Dương,Siêu thị,Thời trang,Áo thun,340000.0,4,1360000.0,0.0,1360000.0,118000.0,Ví điện tử,Nam,24.0,,Trả hàng,NV016
+DH000421,2023-01-04,Miền Nam,TP.HCM,Đại lý,Thời trang,Đồng hồ,208000.0,2,416000.0,0.0,416000.0,141000.0,Chuyển khoản,Nữ,37.0,4.0,Hoàn thành,NV005
+DH000422,2023-12-08,Miền Nam,Đồng Nai,Cửa hàng,Gia dụng,Nồi cơm điện,201000.0,4,804000.0,15.0,683000.0,45000.0,Chuyển khoản,Nữ,23.0,2.0,Hoàn thành,NV048
+DH000423,2023-05-14,Miền Bắc,Quảng Ninh,Online,Thời trang,Đồng hồ,381000.0,6,2286000.0,0.0,2286000.0,0.0,Chuyển khoản,Nam,33.0,3.0,Hoàn thành,NV001
+DH000424,2024-10-14,Miền Trung,Huế,Đại lý,Gia dụng,Bàn ủi,431000.0,1,431000.0,0.0,431000.0,73000.0,Tiền mặt,Nữ,32.0,5.0,Hoàn thành,NV033
+DH000425,2023-09-26,Miền Bắc,Hà Nội,Siêu thị,Văn phòng phẩm,Kẹp giấy,17000.0,4,68000.0,5.0,65000.0,92000.0,Ví điện tử,Nữ,27.0,4.0,Hoàn thành,NV002
+DH000426,2023-06-15,Miền Nam,TP.HCM,Đại lý,Thực phẩm,Gạo ST25,29000.0,6,174000.0,0.0,174000.0,126000.0,COD,Nữ,42.0,5.0,Hoàn thành,NV035
+DH000427,2024-03-28,Miền Trung,Đà Nẵng,Online,Thực phẩm,Gạo ST25,67000.0,3,201000.0,0.0,201000.0,90000.0,Chuyển khoản,Nam,31.0,4.0,Đang giao,NV017
+DH000428,2024-07-18,Miền Nam,TP.HCM,Online,Điện tử,Máy tính bảng,412000.0,6,2472000.0,0.0,2472000.0,0.0,Thẻ tín dụng,Nữ,31.0,5.0,Đã hủy,NV049
+DH000429,2024-12-23,Miền Trung,Huế,Cửa hàng,Mỹ phẩm,Son môi,95000.0,6,570000.0,0.0,570000.0,147000.0,Chuyển khoản,Nam,26.0,5.0,Hoàn thành,NV047
+DH000430,2024-03-13,Miền Bắc,Hải Phòng,Online,Thời trang,Áo thun,247000.0,2,494000.0,0.0,494000.0,129000.0,Chuyển khoản,Nữ,56.0,4.0,Hoàn thành,NV001
+DH000431,2024-07-28,Miền Bắc,Quảng Ninh,Đại lý,Thực phẩm,Bánh tráng,142000.0,4,568000.0,0.0,568000.0,29000.0,Tiền mặt,Nữ,28.0,5.0,Hoàn thành,NV050
+DH000432,2023-01-10,Miền Nam,Bình Dương,Cửa hàng,Văn phòng phẩm,Bút bi,22000.0,4,88000.0,5.0,84000.0,38000.0,Chuyển khoản,,28.0,2.0,Trả hàng,NV040
+DH000433,2023-04-25,Miền Nam,Đồng Nai,Online,Thực phẩm,Cà phê,95000.0,3,285000.0,5.0,271000.0,63000.0,Tiền mặt,,38.0,2.0,Hoàn thành,NV049
+DH000434,2023-03-19,Miền Bắc,Bắc Ninh,Cửa hàng,Gia dụng,Nồi cơm điện,1348000.0,8,10784000.0,5.0,10245000.0,0.0,Thẻ tín dụng,Nữ,36.0,4.0,Hoàn thành,NV013
+DH000435,2024-12-08,Miền Bắc,Bắc Ninh,Cửa hàng,Thực phẩm,Gạo ST25,434000.0,8,3472000.0,0.0,3472000.0,0.0,Chuyển khoản,Nữ,25.0,5.0,Hoàn thành,NV008
+DH000436,2023-06-02,Miền Nam,Cần Thơ,Siêu thị,Điện tử,Điện thoại,2102000.0,3,6306000.0,15.0,5360000.0,0.0,Thẻ tín dụng,Nữ,18.0,5.0,Trả hàng,NV012
+DH000437,2024-07-12,Miền Bắc,Hải Phòng,Cửa hàng,Mỹ phẩm,Nước hoa,718000.0,2,1436000.0,10.0,1292000.0,75000.0,Thẻ tín dụng,Nam,41.0,5.0,Hoàn thành,NV016
+DH000438,2023-02-06,Miền Nam,Cần Thơ,Cửa hàng,Điện tử,Loa bluetooth,6742000.0,4,26968000.0,0.0,26968000.0,0.0,Ví điện tử,Nữ,26.0,4.0,Hoàn thành,NV011
+DH000439,2024-01-14,Miền Nam,TP.HCM,Online,Gia dụng,Quạt điện,1004000.0,3,3012000.0,20.0,2410000.0,0.0,Tiền mặt,Nữ,40.0,5.0,Hoàn thành,NV038
+DH000440,2024-08-19,Miền Bắc,Hà Nội,Đại lý,Điện tử,Điện thoại,16814000.0,8,134512000.0,0.0,134512000.0,0.0,Ví điện tử,Nam,35.0,5.0,Hoàn thành,NV005
+DH000441,2024-07-19,Miền Bắc,Hải Phòng,Đại lý,Mỹ phẩm,Serum,137000.0,4,548000.0,5.0,521000.0,127000.0,COD,Nam,38.0,4.0,Hoàn thành,NV048
+DH000442,2023-06-01,Tây Nguyên,Lâm Đồng,Online,Điện tử,Điện thoại,1099000.0,4,4396000.0,0.0,4396000.0,0.0,Ví điện tử,Nữ,32.0,4.0,Hoàn thành,NV033
+DH000443,2024-03-16,Miền Trung,Khánh Hòa,Đại lý,Thực phẩm,Cà phê,61000.0,8,488000.0,0.0,488000.0,18000.0,Tiền mặt,Nam,42.0,,Trả hàng,NV033
+DH000444,2023-05-11,Miền Trung,Nghệ An,Cửa hàng,Thực phẩm,Trà xanh,45000.0,4,180000.0,0.0,180000.0,44000.0,Ví điện tử,Nữ,21.0,3.0,Hoàn thành,NV010
+DH000445,2023-02-12,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Trà xanh,61000.0,4,244000.0,50.0,122000.0,19000.0,Ví điện tử,Nam,,3.0,Hoàn thành,NV027
+DH000446,2023-11-12,Tây Nguyên,Gia Lai,Cửa hàng,Thời trang,Túi xách,1047000.0,7,7329000.0,15.0,6230000.0,0.0,Ví điện tử,Nam,20.0,5.0,Hoàn thành,NV020
+DH000447,2024-01-09,Tây Nguyên,Gia Lai,Cửa hàng,Thực phẩm,Nước mắm,38000.0,5,190000.0,0.0,190000.0,25000.0,Chuyển khoản,Nam,26.0,5.0,Hoàn thành,NV013
+DH000448,2023-02-10,Miền Nam,Cần Thơ,Siêu thị,Thời trang,Áo thun,235000.0,4,940000.0,0.0,940000.0,118000.0,Ví điện tử,Nam,24.0,3.0,Đang giao,NV014
+DH000449,2024-01-02,Miền Trung,Huế,Online,Thực phẩm,Cà phê,56000.0,5,280000.0,0.0,280000.0,63000.0,Tiền mặt,Nữ,38.0,4.0,Hoàn thành,NV014
+DH000450,2023-08-04,Miền Bắc,Bắc Ninh,Cửa hàng,Thời trang,Quần jean,250000.0,5,1250000.0,0.0,1250000.0,110000.0,Thẻ tín dụng,Nữ,18.0,5.0,Đang giao,NV036
+DH000451,2024-11-29,Miền Nam,Bình Dương,Cửa hàng,Thực phẩm,Gạo ST25,16000.0,2,32000.0,15.0,27000.0,88000.0,Thẻ tín dụng,Nam,37.0,4.0,Hoàn thành,NV041
+DH000452,2023-09-13,Miền Nam,Bình Dương,Online,Thời trang,Túi xách,189000.0,3,567000.0,0.0,567000.0,48000.0,Ví điện tử,Nam,49.0,5.0,Trả hàng,NV009
+DH000453,2024-11-13,Miền Trung,Nghệ An,Cửa hàng,Văn phòng phẩm,Bìa hồ sơ,21000.0,4,84000.0,5.0,80000.0,82000.0,Ví điện tử,Nam,42.0,5.0,Hoàn thành,NV025
+DH000454,2023-04-16,Tây Nguyên,Lâm Đồng,Cửa hàng,Thực phẩm,Trà xanh,118000.0,3,354000.0,0.0,354000.0,46000.0,Ví điện tử,Nữ,22.0,3.0,Hoàn thành,NV002
+DH000455,2023-12-29,Miền Bắc,Hà Nội,Đại lý,Điện tử,Laptop,500000.0,1,500000.0,10.0,450000.0,61000.0,Tiền mặt,Nữ,39.0,4.0,Hoàn thành,NV003
+DH000456,2024-07-27,Miền Trung,Huế,Online,Thực phẩm,Trà xanh,25000.0,2,50000.0,0.0,50000.0,134000.0,Ví điện tử,Nữ,45.0,,Hoàn thành,NV001
+DH000457,2024-02-21,Miền Bắc,Hà Nội,Cửa hàng,Mỹ phẩm,Son môi,206000.0,1,206000.0,0.0,206000.0,125000.0,Thẻ tín dụng,Nữ,32.0,5.0,Hoàn thành,NV022
+DH000458,2024-09-27,Miền Trung,Huế,Cửa hàng,Điện tử,Điện thoại,166000.0,4,664000.0,0.0,664000.0,74000.0,Ví điện tử,Nam,48.0,4.0,Hoàn thành,NV022
+DH000459,2023-06-08,Miền Bắc,Hà Nội,Siêu thị,Gia dụng,Máy xay sinh tố,366000.0,1,366000.0,0.0,366000.0,38000.0,COD,Nam,36.0,1.0,Hoàn thành,NV040
+DH000460,2023-08-31,Miền Bắc,Bắc Ninh,Siêu thị,Thực phẩm,Gạo ST25,18000.0,3,54000.0,0.0,54000.0,37000.0,Chuyển khoản,Nam,41.0,4.0,Hoàn thành,NV032
+DH000461,2023-06-16,Miền Bắc,Quảng Ninh,Siêu thị,Điện tử,Điện thoại,10340000.0,2,20680000.0,0.0,20680000.0,0.0,Ví điện tử,Nam,28.0,4.0,Hoàn thành,NV049
+DH000462,2023-07-01,Miền Nam,Cần Thơ,Cửa hàng,Mỹ phẩm,Sữa rửa mặt,100000.0,3,300000.0,0.0,300000.0,82000.0,COD,Nam,38.0,4.0,Hoàn thành,NV041
+DH000463,2024-02-27,Miền Nam,Cần Thơ,Cửa hàng,Thời trang,Quần jean,1126000.0,1,1126000.0,0.0,1126000.0,87000.0,Tiền mặt,Nam,32.0,4.0,Hoàn thành,NV045
+DH000464,2023-01-26,Miền Nam,Cần Thơ,Siêu thị,Thời trang,Túi xách,731000.0,8,5848000.0,0.0,5848000.0,0.0,Ví điện tử,Nam,35.0,5.0,Hoàn thành,NV041
+DH000465,2023-07-03,Tây Nguyên,Đắk Lắk,Đại lý,Mỹ phẩm,Son môi,112000.0,4,448000.0,5.0,426000.0,66000.0,Tiền mặt,Nam,40.0,4.0,Hoàn thành,NV019
+DH000466,2023-12-07,Miền Trung,Nghệ An,Đại lý,Gia dụng,Ấm siêu tốc,236000.0,3,708000.0,10.0,637000.0,65000.0,Tiền mặt,Nam,26.0,5.0,Đang giao,NV031
+DH000467,2024-02-26,Miền Bắc,Hải Phòng,Đại lý,Mỹ phẩm,Son môi,168000.0,5,840000.0,0.0,840000.0,51000.0,Ví điện tử,Nữ,34.0,3.0,Đang giao,NV031
+DH000468,2024-11-16,Miền Nam,Đồng Nai,Đại lý,Thực phẩm,Gạo ST25,47000.0,2,94000.0,10.0,85000.0,117000.0,COD,Nam,55.0,2.0,Hoàn thành,NV010
+DH000469,2023-09-12,Miền Bắc,Bắc Ninh,Online,Gia dụng,Nồi cơm điện,637000.0,5,3185000.0,0.0,3185000.0,0.0,Tiền mặt,Nam,45.0,3.0,Hoàn thành,NV046
+DH000470,2023-10-01,Tây Nguyên,Gia Lai,Siêu thị,Mỹ phẩm,Sữa rửa mặt,99000.0,6,594000.0,0.0,594000.0,121000.0,Ví điện tử,Nữ,40.0,2.0,Hoàn thành,NV032
+DH000471,2023-06-13,Miền Bắc,Quảng Ninh,Cửa hàng,Điện tử,Máy tính bảng,4898000.0,4,19592000.0,0.0,19592000.0,0.0,Thẻ tín dụng,Nam,36.0,3.0,Hoàn thành,NV014
+DH000472,2024-12-19,Tây Nguyên,Gia Lai,Siêu thị,Gia dụng,Nồi cơm điện,602000.0,3,1806000.0,0.0,1806000.0,36000.0,Thẻ tín dụng,Nữ,44.0,4.0,Hoàn thành,NV036
+DH000473,2023-04-21,Miền Bắc,Quảng Ninh,Đại lý,Thực phẩm,Gạo ST25,41000.0,1,41000.0,0.0,41000.0,86000.0,Chuyển khoản,Nữ,29.0,4.0,Hoàn thành,NV005
+DH000474,2024-01-27,Miền Nam,Bình Dương,Cửa hàng,Điện tử,Tai nghe,851000.0,1,851000.0,0.0,851000.0,93000.0,Chuyển khoản,Nữ,41.0,5.0,Hoàn thành,NV017
+DH000475,2023-02-09,Miền Nam,Đồng Nai,Online,Thực phẩm,Gạo ST25,45000.0,5,225000.0,0.0,225000.0,146000.0,Chuyển khoản,Nam,24.0,4.0,Hoàn thành,NV003
+DH000476,2024-04-26,Tây Nguyên,Lâm Đồng,Siêu thị,Điện tử,Tai nghe,750000.0,1,750000.0,0.0,750000.0,97000.0,Chuyển khoản,Nữ,28.0,4.0,Hoàn thành,NV042
+DH000477,2023-08-16,Miền Bắc,Hải Phòng,Cửa hàng,Gia dụng,Máy xay sinh tố,521000.0,5,2605000.0,15.0,2214000.0,0.0,COD,Nam,31.0,2.0,Hoàn thành,NV018
+DH000478,2023-07-24,Miền Nam,TP.HCM,Cửa hàng,Thực phẩm,Cà phê,53000.0,6,318000.0,0.0,318000.0,40000.0,Ví điện tử,Nữ,49.0,4.0,Đang giao,NV006
+DH000479,2024-04-16,Tây Nguyên,Lâm Đồng,Đại lý,Văn phòng phẩm,Kẹp giấy,17000.0,3,51000.0,0.0,51000.0,27000.0,Chuyển khoản,Nam,49.0,3.0,Hoàn thành,NV047
+DH000480,2023-12-25,Miền Nam,TP.HCM,Đại lý,Điện tử,Loa bluetooth,16654000.0,1,16654000.0,0.0,16654000.0,0.0,Ví điện tử,Nam,38.0,3.0,Hoàn thành,NV005
+DH000481,2023-11-09,Miền Nam,Đồng Nai,Siêu thị,Thực phẩm,Trà xanh,46000.0,2,92000.0,0.0,92000.0,119000.0,Thẻ tín dụng,Nữ,30.0,5.0,Hoàn thành,NV026
+DH000482,2023-08-22,Miền Nam,Cần Thơ,Online,Thời trang,Túi xách,670000.0,7,4690000.0,0.0,4690000.0,0.0,Ví điện tử,Nữ,30.0,4.0,Hoàn thành,NV043
+DH000483,2023-08-17,Miền Trung,Đà Nẵng,Cửa hàng,Thực phẩm,Bánh tráng,57000.0,2,114000.0,0.0,114000.0,26000.0,Tiền mặt,Nam,46.0,1.0,Hoàn thành,NV001
+DH000484,2023-01-25,Miền Nam,Cần Thơ,Đại lý,Gia dụng,Bàn ủi,423000.0,1,423000.0,0.0,423000.0,80000.0,Ví điện tử,Nam,34.0,4.0,Hoàn thành,NV020
+DH000485,2024-11-06,Miền Nam,Cần Thơ,Siêu thị,Gia dụng,Nồi cơm điện,460000.0,3,1380000.0,0.0,1380000.0,69000.0,Tiền mặt,Nam,41.0,5.0,Hoàn thành,NV028
+DH000486,2023-07-17,Tây Nguyên,Lâm Đồng,Đại lý,Mỹ phẩm,Nước hoa,190000.0,4,760000.0,0.0,760000.0,114000.0,Tiền mặt,Nữ,,4.0,Hoàn thành,NV008
+DH000487,2024-02-13,Miền Bắc,Hải Phòng,Siêu thị,Mỹ phẩm,Son môi,257000.0,8,2056000.0,20.0,1645000.0,92000.0,Ví điện tử,Nam,55.0,4.0,Hoàn thành,NV033
+DH000488,2023-12-03,Miền Bắc,Hải Phòng,Đại lý,Điện tử,Điện thoại,633000.0,4,2532000.0,0.0,2532000.0,0.0,Ví điện tử,,28.0,4.0,Hoàn thành,NV029
+DH000489,2023-10-13,Tây Nguyên,Lâm Đồng,Online,Thời trang,Túi xách,93000.0,5,465000.0,0.0,465000.0,39000.0,Chuyển khoản,Nam,37.0,5.0,Đang giao,NV034
+DH000490,2023-03-13,Miền Nam,Bình Dương,Cửa hàng,Gia dụng,Nồi cơm điện,790000.0,5,3950000.0,10.0,3555000.0,0.0,Chuyển khoản,Nữ,25.0,4.0,Đã hủy,NV019
+DH000491,2023-10-13,Miền Trung,Khánh Hòa,Đại lý,Thực phẩm,Nước mắm,86000.0,2,172000.0,0.0,172000.0,60000.0,Ví điện tử,Nam,32.0,5.0,Trả hàng,NV028
+DH000492,2023-12-26,Miền Nam,Cần Thơ,Cửa hàng,Điện tử,Laptop,4894000.0,4,19576000.0,15.0,16640000.0,0.0,Tiền mặt,Nữ,37.0,4.0,Hoàn thành,NV044
+DH000493,2024-10-18,Miền Bắc,Bắc Ninh,Siêu thị,Thực phẩm,Cà phê,55000.0,2,110000.0,0.0,110000.0,50000.0,Ví điện tử,Nam,41.0,5.0,Trả hàng,NV009
+DH000494,2024-06-05,Miền Bắc,Hải Phòng,Online,Thực phẩm,Nước mắm,79000.0,5,395000.0,10.0,356000.0,76000.0,Tiền mặt,Nữ,24.0,5.0,Hoàn thành,NV048
+DH000495,2024-02-14,Miền Trung,Đà Nẵng,Cửa hàng,Thực phẩm,Bánh tráng,77000.0,5,385000.0,0.0,385000.0,127000.0,Tiền mặt,Nam,40.0,3.0,Hoàn thành,NV030
+DH000496,2024-11-26,Miền Trung,Nghệ An,Đại lý,Mỹ phẩm,Serum,406000.0,6,2436000.0,0.0,2436000.0,0.0,Thẻ tín dụng,Nữ,25.0,5.0,Hoàn thành,NV028
+DH000497,2024-07-03,Miền Nam,TP.HCM,Cửa hàng,Thực phẩm,Gạo ST25,30000.0,4,120000.0,0.0,120000.0,55000.0,Chuyển khoản,Nữ,30.0,3.0,Hoàn thành,NV001
+DH000498,2023-12-06,Miền Bắc,Hà Nội,Cửa hàng,Điện tử,Tai nghe,536000.0,7,3752000.0,0.0,3752000.0,0.0,Chuyển khoản,Nam,38.0,5.0,Đang giao,NV032
+DH000499,2023-01-29,Tây Nguyên,Lâm Đồng,Siêu thị,Điện tử,Loa bluetooth,1255000.0,4,5020000.0,5.0,4769000.0,0.0,Chuyển khoản,Nữ,18.0,3.0,Hoàn thành,NV035
+DH000500,2023-04-29,Tây Nguyên,Đắk Lắk,Online,Mỹ phẩm,Son môi,197000.0,3,591000.0,0.0,591000.0,97000.0,Ví điện tử,Nam,31.0,5.0,Đang giao,NV040
+DH000501,2023-09-25,Miền Nam,TP.HCM,Online,Văn phòng phẩm,Bút bi,13000.0,2,26000.0,5.0,25000.0,24000.0,Chuyển khoản,Nữ,38.0,3.0,Hoàn thành,NV006
+DH000502,2023-07-02,Miền Nam,Cần Thơ,Cửa hàng,Gia dụng,Máy xay sinh tố,134000.0,8,1072000.0,30.0,750000.0,46000.0,Chuyển khoản,Nữ,33.0,5.0,Hoàn thành,NV045
+DH000503,2024-08-17,Miền Trung,Nghệ An,Cửa hàng,Thời trang,Áo thun,1189000.0,9,10701000.0,0.0,10701000.0,0.0,Tiền mặt,Nam,33.0,4.0,Hoàn thành,NV017
+DH000504,2023-09-29,Miền Nam,Đồng Nai,Siêu thị,Văn phòng phẩm,Bút bi,13000.0,3,39000.0,0.0,39000.0,132000.0,Chuyển khoản,Nữ,44.0,5.0,Hoàn thành,NV007
+DH000505,2023-02-09,Miền Nam,Cần Thơ,Cửa hàng,Gia dụng,Nồi cơm điện,564000.0,6,3384000.0,0.0,3384000.0,0.0,Tiền mặt,Nữ,24.0,4.0,Hoàn thành,NV048
+DH000506,2023-04-22,Miền Bắc,Quảng Ninh,Siêu thị,Mỹ phẩm,Nước hoa,613000.0,4,2452000.0,0.0,2452000.0,0.0,Ví điện tử,Nữ,23.0,3.0,Hoàn thành,NV039
+DH000507,2024-09-02,Tây Nguyên,Đắk Lắk,Online,Gia dụng,Bàn ủi,97000.0,6,582000.0,0.0,582000.0,63000.0,Tiền mặt,Nam,24.0,4.0,Hoàn thành,NV042
+DH000508,2024-03-20,Miền Nam,TP.HCM,Online,Thời trang,Đồng hồ,199000.0,3,597000.0,15.0,507000.0,126000.0,COD,Nữ,44.0,3.0,Hoàn thành,NV041
+DH000509,2023-12-20,Tây Nguyên,Đắk Lắk,Siêu thị,Thực phẩm,Cà phê,40000.0,5,200000.0,15.0,170000.0,99000.0,Chuyển khoản,Nam,30.0,5.0,Hoàn thành,NV045
+DH000510,2023-11-18,Miền Nam,Cần Thơ,Cửa hàng,Điện tử,Tai nghe,1336000.0,2,2672000.0,0.0,2672000.0,0.0,Ví điện tử,Nam,45.0,4.0,Đã hủy,NV008
+DH000511,2024-03-22,Miền Nam,Bình Dương,Online,Thời trang,Áo thun,261000.0,4,1044000.0,25.0,783000.0,120000.0,Chuyển khoản,Nam,42.0,4.0,Hoàn thành,NV043
+DH000512,2024-09-12,Miền Trung,Huế,Đại lý,Gia dụng,Máy xay sinh tố,1377000.0,5,6885000.0,0.0,6885000.0,0.0,Tiền mặt,,42.0,5.0,Hoàn thành,NV007
+DH000513,2024-06-07,Tây Nguyên,Đắk Lắk,Siêu thị,Mỹ phẩm,Serum,367000.0,3,1101000.0,5.0,1046000.0,34000.0,Chuyển khoản,Nữ,28.0,4.0,Đang giao,NV024
+DH000514,2023-04-29,Miền Nam,Bình Dương,Online,Gia dụng,Nồi cơm điện,978000.0,3,2934000.0,20.0,2347000.0,0.0,Chuyển khoản,Nữ,29.0,3.0,Hoàn thành,NV018
+DH000515,2024-01-30,Miền Bắc,Hải Phòng,Online,Thực phẩm,Gạo ST25,51000.0,5,255000.0,0.0,255000.0,148000.0,Chuyển khoản,Nữ,60.0,5.0,Đã hủy,NV025
+DH000516,2024-08-13,Miền Bắc,Quảng Ninh,Online,Điện tử,Tai nghe,373000.0,160,59680000.0,0.0,59680000.0,0.0,Chuyển khoản,Nam,47.0,5.0,Hoàn thành,NV012
+DH000517,2023-07-14,Miền Trung,Huế,Đại lý,Điện tử,Tai nghe,165000.0,3,495000.0,15.0,421000.0,137000.0,Chuyển khoản,Nam,51.0,5.0,Hoàn thành,NV013
+DH000518,2023-09-18,Miền Nam,Cần Thơ,,Thời trang,Quần jean,88000.0,3,264000.0,0.0,264000.0,122000.0,Chuyển khoản,Nam,18.0,1.0,Hoàn thành,NV020
+DH000519,2023-02-15,Tây Nguyên,Đắk Lắk,Đại lý,Thực phẩm,Gạo ST25,62000.0,5,310000.0,15.0,264000.0,63000.0,Tiền mặt,Nữ,34.0,5.0,Hoàn thành,NV049
+DH000520,2024-12-26,Miền Bắc,Hà Nội,Cửa hàng,Thực phẩm,Cà phê,51000.0,7,357000.0,0.0,357000.0,63000.0,Chuyển khoản,Nam,44.0,4.0,Trả hàng,NV020
+DH000521,2024-03-22,Miền Nam,Cần Thơ,Siêu thị,Điện tử,Máy tính bảng,1554000.0,2,3108000.0,0.0,3108000.0,0.0,Thẻ tín dụng,Nam,45.0,5.0,Hoàn thành,NV039
+DH000522,2023-01-02,Miền Trung,Nghệ An,Cửa hàng,Văn phòng phẩm,Bút bi,12000.0,3,36000.0,5.0,34000.0,70000.0,Ví điện tử,,45.0,5.0,Đã hủy,NV013
+DH000523,2024-06-16,Tây Nguyên,Đắk Lắk,Đại lý,Thời trang,Đồng hồ,1500000.0,4,6000000.0,0.0,6000000.0,0.0,Tiền mặt,Nữ,41.0,5.0,Hoàn thành,NV033
+DH000524,2024-07-05,Miền Nam,TP.HCM,Siêu thị,Mỹ phẩm,Serum,95000.0,2,190000.0,0.0,190000.0,144000.0,Chuyển khoản,Nữ,39.0,4.0,Hoàn thành,NV042
+DH000525,2024-12-04,Miền Nam,Cần Thơ,Cửa hàng,Thực phẩm,Trà xanh,87000.0,5,435000.0,20.0,348000.0,68000.0,Chuyển khoản,Nam,40.0,3.0,Đã hủy,NV023
+DH000526,2024-11-17,Miền Trung,Khánh Hòa,Cửa hàng,Điện tử,Điện thoại,2005000.0,4,8020000.0,0.0,8020000.0,0.0,COD,Nam,43.0,5.0,Hoàn thành,NV025
+DH000527,2023-07-21,Miền Trung,Đà Nẵng,Cửa hàng,Mỹ phẩm,Kem chống nắng,189000.0,5,945000.0,0.0,945000.0,27000.0,Thẻ tín dụng,Nữ,32.0,2.0,Hoàn thành,NV015
+DH000528,2024-01-08,Miền Bắc,Quảng Ninh,Đại lý,Gia dụng,Ấm siêu tốc,1139000.0,5,5695000.0,0.0,5695000.0,0.0,Ví điện tử,Nữ,47.0,5.0,Hoàn thành,NV014
+DH000529,2024-03-17,Miền Bắc,Hải Phòng,Online,Thực phẩm,Trà xanh,120000.0,4,480000.0,15.0,408000.0,72000.0,COD,Nam,44.0,4.0,Hoàn thành,NV034
+DH000530,2023-03-13,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Bánh tráng,43000.0,2,86000.0,0.0,86000.0,,Thẻ tín dụng,Nam,34.0,1.0,Hoàn thành,NV049
+DH000531,2024-11-11,Miền Nam,Đồng Nai,Đại lý,Điện tử,Điện thoại,5218000.0,4,20872000.0,0.0,20872000.0,0.0,Chuyển khoản,Nữ,36.0,5.0,Hoàn thành,NV019
+DH000532,2023-12-05,Tây Nguyên,Đắk Lắk,Siêu thị,Gia dụng,Máy xay sinh tố,645000.0,6,3870000.0,25.0,2902000.0,0.0,Ví điện tử,Nam,33.0,4.0,Hoàn thành,NV046
+DH000533,2024-09-30,Tây Nguyên,Lâm Đồng,Đại lý,Văn phòng phẩm,Kẹp giấy,15000.0,3,45000.0,15.0,38000.0,134000.0,Chuyển khoản,Nữ,26.0,4.0,Hoàn thành,NV033
+DH000534,2023-11-18,Miền Nam,Bình Dương,Cửa hàng,Điện tử,Loa bluetooth,2556000.0,3,7668000.0,25.0,5751000.0,0.0,COD,Nữ,39.0,3.0,Hoàn thành,NV016
+DH000535,2024-11-10,Miền Nam,Cần Thơ,Cửa hàng,Thời trang,Đồng hồ,173000.0,5,865000.0,0.0,865000.0,73000.0,Chuyển khoản,Nữ,50.0,5.0,Đã hủy,NV022
+DH000536,2023-05-08,Tây Nguyên,Gia Lai,Online,Văn phòng phẩm,Sổ tay,13000.0,7,91000.0,0.0,91000.0,68000.0,COD,Nam,29.0,2.0,Hoàn thành,NV015
+DH000537,2023-11-04,Miền Nam,Đồng Nai,Online,Thời trang,Đồng hồ,189000.0,2,378000.0,0.0,378000.0,57000.0,Ví điện tử,Nam,44.0,3.0,Đang giao,NV010
+DH000538,2024-06-03,Miền Bắc,Hà Nội,Siêu thị,Gia dụng,Bàn ủi,940000.0,4,3760000.0,30.0,2632000.0,0.0,Tiền mặt,Nữ,46.0,4.0,Hoàn thành,NV006
+DH000539,2023-11-13,Miền Trung,Đà Nẵng,Online,Thực phẩm,Trà xanh,47000.0,4,188000.0,50.0,94000.0,111000.0,Tiền mặt,Nữ,39.0,4.0,Hoàn thành,NV001
+DH000540,2024-11-13,Miền Bắc,Hải Phòng,Online,Thực phẩm,Cà phê,23000.0,5,115000.0,25.0,86000.0,49000.0,Chuyển khoản,Nam,29.0,3.0,Trả hàng,NV014
+DH000541,2024-02-23,Tây Nguyên,Đắk Lắk,Siêu thị,Thực phẩm,Trà xanh,32000.0,4,128000.0,15.0,109000.0,71000.0,Chuyển khoản,Nam,38.0,5.0,Hoàn thành,NV038
+DH000542,2023-12-01,Miền Nam,Cần Thơ,Đại lý,Thời trang,Đồng hồ,23000.0,163,3749000.0,0.0,3749000.0,0.0,Tiền mặt,Nam,23.0,5.0,Đã hủy,NV004
+DH000543,2024-02-17,Miền Bắc,Hải Phòng,Online,Điện tử,Tai nghe,1105000.0,1,1105000.0,10.0,994000.0,127000.0,Ví điện tử,Nam,25.0,5.0,Hoàn thành,NV007
+DH000544,2024-12-14,Miền Nam,Đồng Nai,Đại lý,Gia dụng,Máy xay sinh tố,513000.0,2,1026000.0,10.0,923000.0,51000.0,Tiền mặt,Nữ,42.0,4.0,Hoàn thành,NV011
+DH000545,2023-10-30,Miền Nam,Bình Dương,Cửa hàng,Gia dụng,Nồi cơm điện,455000.0,6,2730000.0,0.0,2730000.0,0.0,Ví điện tử,Nam,39.0,4.0,Hoàn thành,NV001
+DH000546,2024-07-21,Miền Trung,Nghệ An,Online,Gia dụng,Bàn ủi,2000000.0,4,8000000.0,0.0,8000000.0,0.0,Chuyển khoản,Nam,22.0,5.0,Đã hủy,NV039
+DH000547,2023-05-11,Miền Bắc,Bắc Ninh,Cửa hàng,Gia dụng,Quạt điện,748000.0,3,2244000.0,0.0,2244000.0,0.0,Thẻ tín dụng,Nam,19.0,1.0,Hoàn thành,NV036
+DH000548,2023-07-16,Miền Nam,Cần Thơ,Cửa hàng,Thời trang,Áo thun,459000.0,2,918000.0,15.0,780000.0,110000.0,Chuyển khoản,Nữ,49.0,,Hoàn thành,NV037
+DH000549,2024-03-06,Miền Nam,TP.HCM,Đại lý,Điện tử,Điện thoại,278000.0,4,1112000.0,0.0,1112000.0,101000.0,COD,Nam,37.0,4.0,Hoàn thành,NV042
+DH000550,2024-11-11,Miền Nam,Cần Thơ,Siêu thị,Mỹ phẩm,Kem chống nắng,144000.0,4,576000.0,0.0,576000.0,78000.0,Chuyển khoản,Nam,30.0,5.0,Hoàn thành,NV018
+DH000551,2024-01-24,Miền Nam,Bình Dương,Online,Thực phẩm,Nước mắm,37000.0,3,111000.0,10.0,100000.0,123000.0,Chuyển khoản,Nữ,30.0,2.0,Hoàn thành,NV005
+DH000552,2024-11-24,Miền Nam,Cần Thơ,Đại lý,Thời trang,Túi xách,160000.0,4,640000.0,0.0,640000.0,113000.0,Thẻ tín dụng,Nam,40.0,,Hoàn thành,NV040
+DH000553,2023-06-28,Miền Nam,Bình Dương,Siêu thị,Điện tử,Loa bluetooth,766000.0,3,2298000.0,0.0,2298000.0,0.0,Chuyển khoản,Nữ,36.0,5.0,Đang giao,NV040
+DH000554,2024-09-22,Miền Nam,Cần Thơ,Cửa hàng,Điện tử,Loa bluetooth,228000.0,8,1824000.0,0.0,1824000.0,101000.0,Thẻ tín dụng,Nữ,36.0,,Trả hàng,NV008
+DH000555,2024-08-05,Miền Nam,TP.HCM,Online,Thời trang,Áo thun,108000.0,2,216000.0,0.0,216000.0,45000.0,Thẻ tín dụng,Nam,18.0,3.0,Hoàn thành,NV014
+DH000556,2023-11-05,Miền Trung,Nghệ An,Cửa hàng,Mỹ phẩm,Kem chống nắng,439000.0,2,878000.0,0.0,878000.0,139000.0,Ví điện tử,,51.0,4.0,Hoàn thành,NV043
+DH000557,2024-02-20,Miền Bắc,Hải Phòng,Cửa hàng,Văn phòng phẩm,Giấy A4,14000.0,6,84000.0,20.0,67000.0,63000.0,COD,Nữ,48.0,4.0,Đã hủy,NV002
+DH000558,2024-07-15,Miền Bắc,Bắc Ninh,Online,Mỹ phẩm,Serum,127000.0,6,762000.0,0.0,762000.0,126000.0,COD,Nữ,37.0,3.0,Trả hàng,NV037
+DH000559,2023-01-01,Miền Nam,Cần Thơ,Siêu thị,Văn phòng phẩm,Giấy A4,15000.0,3,45000.0,0.0,45000.0,103000.0,Tiền mặt,Nam,46.0,4.0,Hoàn thành,NV002
+DH000560,2023-11-08,Miền Nam,TP.HCM,Siêu thị,Văn phòng phẩm,Bìa hồ sơ,27000.0,2,54000.0,10.0,49000.0,58000.0,Chuyển khoản,Nam,55.0,3.0,Hoàn thành,NV019
+DH000561,2023-10-21,Miền Nam,Đồng Nai,Online,Thực phẩm,Gạo ST25,50000.0,3,150000.0,5.0,142000.0,137000.0,Chuyển khoản,Nữ,31.0,5.0,Hoàn thành,NV023
+DH000562,2023-08-04,Miền Bắc,Hà Nội,Online,Thời trang,Áo thun,462000.0,6,2772000.0,0.0,2772000.0,0.0,Tiền mặt,Nam,34.0,4.0,Hoàn thành,NV018
+DH000563,2024-03-16,Miền Bắc,Hải Phòng,Đại lý,Mỹ phẩm,Serum,93000.0,4,372000.0,0.0,372000.0,96000.0,Ví điện tử,Nam,35.0,3.0,Hoàn thành,NV042
+DH000564,2024-08-16,Miền Bắc,Bắc Ninh,Đại lý,Thời trang,Túi xách,183000.0,5,915000.0,0.0,915000.0,103000.0,COD,Nam,23.0,5.0,Hoàn thành,NV044
+DH000565,2024-09-13,Miền Trung,Nghệ An,Cửa hàng,Thời trang,Túi xách,398000.0,2,796000.0,0.0,796000.0,112000.0,Tiền mặt,Nam,,3.0,Hoàn thành,NV029
+DH000566,2024-11-01,Miền Nam,Đồng Nai,Online,Thời trang,Túi xách,1364000.0,5,6820000.0,0.0,6820000.0,0.0,Chuyển khoản,Nam,39.0,4.0,Đang giao,NV023
+DH000567,2023-11-26,Miền Trung,Khánh Hòa,Siêu thị,Thực phẩm,Trà xanh,118000.0,5,590000.0,0.0,590000.0,40000.0,Ví điện tử,Nam,37.0,2.0,Trả hàng,NV013
+DH000568,2024-04-21,Miền Trung,Huế,Cửa hàng,Thời trang,Áo thun,478000.0,6,2868000.0,0.0,2868000.0,0.0,Chuyển khoản,Nam,55.0,4.0,Hoàn thành,NV030
+DH000569,2024-03-28,Tây Nguyên,Lâm Đồng,Cửa hàng,Điện tử,Laptop,2399000.0,3,7197000.0,0.0,7197000.0,0.0,Chuyển khoản,Nữ,38.0,3.0,Hoàn thành,NV006
+DH000570,2024-03-28,Miền Trung,Nghệ An,Cửa hàng,Thực phẩm,Nước mắm,116000.0,4,464000.0,25.0,348000.0,,Ví điện tử,Nữ,55.0,4.0,Hoàn thành,NV043
+DH000571,2024-11-22,Miền Nam,Đồng Nai,Cửa hàng,Mỹ phẩm,Serum,409000.0,3,1227000.0,0.0,1227000.0,115000.0,Tiền mặt,,18.0,5.0,Hoàn thành,NV037
+DH000572,2023-08-07,Miền Nam,Đồng Nai,Siêu thị,Thực phẩm,Trà xanh,13000.0,2,26000.0,0.0,26000.0,25000.0,Chuyển khoản,Nam,28.0,4.0,Hoàn thành,NV042
+DH000573,2024-06-07,Miền Trung,Khánh Hòa,Cửa hàng,Mỹ phẩm,Sữa rửa mặt,77000.0,4,308000.0,0.0,308000.0,94000.0,Tiền mặt,Nam,36.0,3.0,Hoàn thành,NV047
+DH000574,2024-04-29,Miền Nam,Bình Dương,Online,Điện tử,Laptop,3001000.0,6,18006000.0,20.0,14405000.0,0.0,Chuyển khoản,Nam,46.0,5.0,Hoàn thành,NV026
+DH000575,2023-06-23,Miền Nam,Đồng Nai,Đại lý,Điện tử,Laptop,234000.0,4,936000.0,0.0,936000.0,146000.0,Tiền mặt,Nam,32.0,4.0,Hoàn thành,NV024
+DH000576,2024-11-05,Tây Nguyên,Gia Lai,Siêu thị,Thực phẩm,Bánh tráng,29000.0,2,58000.0,15.0,49000.0,33000.0,Ví điện tử,Nữ,43.0,5.0,Hoàn thành,NV037
+DH000577,2023-03-28,Miền Bắc,Hà Nội,Online,Thực phẩm,Trà xanh,33000.0,3,99000.0,0.0,99000.0,53000.0,Tiền mặt,Nam,48.0,5.0,Hoàn thành,NV042
+DH000578,2023-10-18,Tây Nguyên,Đắk Lắk,Online,Gia dụng,Bàn ủi,418000.0,7,2926000.0,0.0,2926000.0,0.0,Thẻ tín dụng,Nữ,48.0,4.0,Đã hủy,NV037
+DH000579,2024-06-11,Miền Trung,Huế,Online,Mỹ phẩm,Serum,154000.0,6,924000.0,0.0,924000.0,95000.0,Thẻ tín dụng,Nữ,55.0,5.0,Hoàn thành,NV015
+DH000580,2024-11-10,Miền Bắc,Hải Phòng,Đại lý,Gia dụng,Bàn ủi,408000.0,5,2040000.0,5.0,1938000.0,,Thẻ tín dụng,Nữ,20.0,2.0,Hoàn thành,NV012
+DH000581,2024-10-10,Miền Trung,Khánh Hòa,Đại lý,Văn phòng phẩm,Sổ tay,23000.0,4,92000.0,0.0,92000.0,107000.0,Ví điện tử,Nữ,30.0,4.0,Hoàn thành,NV012
+DH000582,2024-09-26,Tây Nguyên,Đắk Lắk,Đại lý,Thực phẩm,Gạo ST25,43000.0,2,86000.0,0.0,86000.0,54000.0,Chuyển khoản,Nữ,56.0,,Hoàn thành,NV025
+DH000583,2023-12-10,Miền Trung,Khánh Hòa,Online,Thời trang,Áo thun,221000.0,7,1547000.0,10.0,1392000.0,40000.0,Ví điện tử,Nam,27.0,5.0,Hoàn thành,NV010
+DH000584,2023-04-06,Miền Trung,Huế,Đại lý,Thực phẩm,Nước mắm,22000.0,1,22000.0,0.0,22000.0,29000.0,Ví điện tử,Nam,28.0,3.0,Hoàn thành,NV005
+DH000585,2023-08-29,Miền Nam,Bình Dương,Cửa hàng,Điện tử,Máy tính bảng,6837000.0,69,471753000.0,0.0,471753000.0,0.0,Thẻ tín dụng,Nữ,34.0,1.0,Hoàn thành,NV033
+DH000586,2024-11-19,Miền Bắc,Bắc Ninh,Đại lý,Thời trang,Túi xách,175000.0,4,700000.0,0.0,700000.0,52000.0,Chuyển khoản,Nam,51.0,5.0,Hoàn thành,NV035
+DH000587,2023-11-14,Miền Bắc,Bắc Ninh,Siêu thị,Thời trang,Túi xách,126000.0,4,504000.0,0.0,504000.0,103000.0,COD,Nam,25.0,3.0,Hoàn thành,NV028
+DH000588,2023-08-19,Miền Bắc,Hải Phòng,Online,Thực phẩm,Cà phê,57000.0,4,228000.0,5.0,217000.0,113000.0,Tiền mặt,Nam,22.0,5.0,Hoàn thành,NV007
+DH000589,2023-07-23,Miền Bắc,Quảng Ninh,Online,Điện tử,Tai nghe,797000.0,4,3188000.0,0.0,3188000.0,0.0,Chuyển khoản,Nữ,28.0,4.0,Hoàn thành,NV014
+DH000590,2023-05-31,Miền Bắc,Quảng Ninh,Cửa hàng,Điện tử,Tai nghe,1064000.0,4,4256000.0,0.0,4256000.0,0.0,Ví điện tử,Nam,48.0,4.0,Hoàn thành,NV044
+DH000591,2023-01-26,Miền Bắc,Hà Nội,Đại lý,Gia dụng,Nồi cơm điện,599000.0,5,2995000.0,0.0,2995000.0,0.0,Chuyển khoản,Nam,38.0,3.0,Trả hàng,NV042
+DH000592,2023-02-17,Miền Nam,Cần Thơ,Đại lý,Thực phẩm,Cà phê,41000.0,4,164000.0,0.0,164000.0,39000.0,Chuyển khoản,Nữ,18.0,4.0,Hoàn thành,NV019
+DH000593,2023-09-08,Miền Bắc,Hà Nội,Siêu thị,Gia dụng,Máy xay sinh tố,2522000.0,5,12610000.0,20.0,10088000.0,0.0,Tiền mặt,Nữ,36.0,5.0,Hoàn thành,NV035
+DH000594,2024-05-01,Miền Trung,Nghệ An,Cửa hàng,Gia dụng,Bàn ủi,474000.0,2,948000.0,0.0,948000.0,105000.0,Ví điện tử,Nữ,32.0,4.0,Hoàn thành,NV020
+DH000595,2024-09-17,Miền Nam,Đồng Nai,Siêu thị,Điện tử,Điện thoại,4198000.0,4,16792000.0,0.0,16792000.0,0.0,COD,Nữ,41.0,2.0,Hoàn thành,NV019
+DH000596,2023-03-16,Miền Trung,Nghệ An,Siêu thị,Thời trang,Áo thun,63000.0,4,252000.0,0.0,252000.0,142000.0,COD,Nam,35.0,4.0,Hoàn thành,NV019
+DH000597,2024-04-11,Miền Nam,Cần Thơ,Online,Điện tử,Máy tính bảng,712000.0,3,2136000.0,0.0,2136000.0,0.0,Tiền mặt,Nam,37.0,4.0,Hoàn thành,NV032
+DH000598,2024-02-29,Miền Bắc,Hà Nội,Online,Mỹ phẩm,Sữa rửa mặt,75000.0,112,8400000.0,0.0,8400000.0,0.0,Tiền mặt,Nữ,,4.0,Hoàn thành,NV044
+DH000599,2024-10-06,Miền Bắc,Bắc Ninh,Đại lý,Gia dụng,Quạt điện,256000.0,4,1024000.0,0.0,1024000.0,131000.0,Chuyển khoản,Nữ,25.0,2.0,Hoàn thành,NV008
+DH000600,2024-08-12,Miền Bắc,Quảng Ninh,Đại lý,Thời trang,Giày thể thao,418000.0,3,1254000.0,0.0,1254000.0,108000.0,Chuyển khoản,Nữ,37.0,2.0,Hoàn thành,NV049
+DH000601,2023-07-19,Miền Bắc,Bắc Ninh,Siêu thị,Thời trang,Giày thể thao,687000.0,1,687000.0,0.0,687000.0,71000.0,Thẻ tín dụng,Nữ,28.0,5.0,Hoàn thành,NV027
+DH000602,2024-12-14,Miền Bắc,Bắc Ninh,Đại lý,Văn phòng phẩm,Sổ tay,18000.0,1,18000.0,15.0,15000.0,30000.0,Ví điện tử,Nữ,35.0,4.0,Trả hàng,NV033
+DH000603,2024-01-29,Miền Bắc,Bắc Ninh,Siêu thị,Thực phẩm,Nước mắm,44000.0,3,132000.0,0.0,132000.0,66000.0,Tiền mặt,Nam,53.0,4.0,Đã hủy,NV034
+DH000604,2024-05-21,Miền Bắc,Bắc Ninh,Đại lý,Mỹ phẩm,Sữa rửa mặt,113000.0,5,565000.0,5.0,537000.0,16000.0,Tiền mặt,Nữ,28.0,5.0,Hoàn thành,NV023
+DH000605,2024-02-14,Miền Bắc,Bắc Ninh,Đại lý,Thời trang,Giày thể thao,731000.0,6,4386000.0,0.0,4386000.0,0.0,COD,Nam,33.0,3.0,Đang giao,NV030
+DH000606,2023-09-07,Miền Trung,Nghệ An,Online,Thời trang,Áo thun,1573000.0,3,4719000.0,0.0,4719000.0,0.0,Chuyển khoản,Nữ,33.0,5.0,Hoàn thành,NV043
+DH000607,2023-06-01,Miền Bắc,Bắc Ninh,Online,Mỹ phẩm,Nước hoa,226000.0,2,452000.0,0.0,452000.0,86000.0,Tiền mặt,Nam,,5.0,Hoàn thành,NV044
+DH000608,2024-11-02,Miền Trung,Nghệ An,Online,Gia dụng,Ấm siêu tốc,965000.0,2,1930000.0,0.0,1930000.0,88000.0,Thẻ tín dụng,Nam,44.0,4.0,Hoàn thành,NV030
+DH000609,2024-12-05,Miền Nam,Bình Dương,Online,Gia dụng,Bàn ủi,636000.0,4,2544000.0,0.0,2544000.0,0.0,Ví điện tử,Nữ,38.0,4.0,Trả hàng,NV007
+DH000610,2023-01-06,Miền Nam,Đồng Nai,Cửa hàng,Thực phẩm,Cà phê,79000.0,6,474000.0,0.0,474000.0,138000.0,Ví điện tử,Nam,45.0,3.0,Hoàn thành,NV002
+DH000611,2023-04-20,Miền Bắc,Hà Nội,Online,Thực phẩm,Bánh tráng,25000.0,3,75000.0,0.0,75000.0,48000.0,Thẻ tín dụng,Nam,18.0,4.0,Hoàn thành,NV010
+DH000612,2024-03-11,Miền Nam,Cần Thơ,Cửa hàng,Gia dụng,Nồi cơm điện,355000.0,5,1775000.0,0.0,1775000.0,30000.0,Thẻ tín dụng,Nữ,44.0,4.0,Đã hủy,NV022
+DH000613,2023-08-13,Miền Nam,Đồng Nai,Online,Thời trang,Quần jean,412000.0,3,1236000.0,0.0,1236000.0,125000.0,Chuyển khoản,Nữ,36.0,4.0,Hoàn thành,NV005
+DH000614,2023-06-30,Miền Bắc,Hải Phòng,Đại lý,Thời trang,Đồng hồ,791000.0,4,3164000.0,0.0,3164000.0,,Thẻ tín dụng,Nữ,39.0,5.0,Hoàn thành,NV033
+DH000615,2024-12-13,Miền Nam,Bình Dương,Siêu thị,Mỹ phẩm,Sữa rửa mặt,96000.0,3,288000.0,0.0,288000.0,35000.0,COD,Nam,33.0,2.0,Hoàn thành,NV042
+DH000616,2024-06-14,Tây Nguyên,Gia Lai,Đại lý,Thời trang,Quần jean,59000.0,120,7080000.0,15.0,6018000.0,0.0,COD,Nam,27.0,4.0,Hoàn thành,NV011
+DH000617,2024-04-20,Miền Bắc,Hà Nội,Đại lý,Thực phẩm,Cà phê,37000.0,5,185000.0,5.0,176000.0,120000.0,Thẻ tín dụng,Nam,38.0,5.0,Hoàn thành,NV002
+DH000618,2023-02-21,Miền Bắc,Quảng Ninh,Cửa hàng,Gia dụng,Bàn ủi,1014000.0,5,5070000.0,15.0,4310000.0,0.0,Thẻ tín dụng,Nữ,29.0,2.0,Hoàn thành,NV024
+DH000619,2024-07-24,Miền Nam,TP.HCM,Online,Văn phòng phẩm,Kẹp giấy,7000.0,4,28000.0,10.0,25000.0,103000.0,Chuyển khoản,Nữ,34.0,4.0,Hoàn thành,NV024
+DH000620,2023-09-13,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Gạo ST25,25000.0,4,100000.0,50.0,50000.0,130000.0,Chuyển khoản,Nam,36.0,5.0,Hoàn thành,NV023
+DH000621,2023-05-05,Miền Bắc,Hà Nội,Siêu thị,Thực phẩm,Gạo ST25,55000.0,3,165000.0,0.0,165000.0,105000.0,COD,Nữ,34.0,4.0,Đã hủy,NV035
+DH000622,2024-04-12,Miền Bắc,Quảng Ninh,Online,Mỹ phẩm,Kem chống nắng,180000.0,2,360000.0,0.0,360000.0,148000.0,Thẻ tín dụng,Nữ,29.0,5.0,Hoàn thành,NV049
+DH000623,2023-05-17,Miền Trung,Huế,Cửa hàng,Mỹ phẩm,Kem chống nắng,341000.0,6,2046000.0,0.0,2046000.0,0.0,Chuyển khoản,Nữ,44.0,3.0,Hoàn thành,NV048
+DH000624,2024-04-20,Miền Trung,Đà Nẵng,Cửa hàng,Gia dụng,Ấm siêu tốc,212000.0,10,2120000.0,0.0,2120000.0,0.0,Thẻ tín dụng,Nam,25.0,5.0,Hoàn thành,NV002
+DH000625,2024-11-14,Miền Nam,TP.HCM,Cửa hàng,Thực phẩm,Gạo ST25,41000.0,7,287000.0,0.0,287000.0,103000.0,Tiền mặt,Nam,23.0,5.0,Hoàn thành,NV040
+DH000626,2024-06-27,Miền Trung,Đà Nẵng,Siêu thị,Thời trang,Túi xách,780000.0,2,1560000.0,0.0,1560000.0,26000.0,COD,Nam,18.0,4.0,Đang giao,NV041
+DH000627,2024-07-26,Miền Trung,Nghệ An,Cửa hàng,Thực phẩm,Gạo ST25,24000.0,4,96000.0,25.0,72000.0,123000.0,Chuyển khoản,Nữ,18.0,2.0,Đã hủy,NV014
+DH000628,2024-09-01,Miền Nam,TP.HCM,Cửa hàng,Mỹ phẩm,Son môi,756000.0,3,2268000.0,0.0,2268000.0,0.0,Chuyển khoản,Nữ,33.0,4.0,Hoàn thành,NV030
+DH000629,2023-11-21,Miền Bắc,Hải Phòng,Siêu thị,Mỹ phẩm,Sữa rửa mặt,77000.0,3,231000.0,0.0,231000.0,129000.0,Tiền mặt,Nữ,31.0,4.0,Hoàn thành,NV022
+DH000630,2024-03-29,Miền Bắc,Quảng Ninh,Siêu thị,Điện tử,Điện thoại,5542000.0,8,44336000.0,10.0,39902000.0,0.0,Thẻ tín dụng,Nữ,18.0,4.0,Hoàn thành,NV004
+DH000631,2024-09-19,Miền Nam,Cần Thơ,Đại lý,Thực phẩm,Bánh tráng,40000.0,5,200000.0,0.0,200000.0,149000.0,COD,Nữ,35.0,5.0,Hoàn thành,NV014
+DH000632,2024-05-31,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Bánh tráng,25000.0,2,50000.0,0.0,50000.0,29000.0,Thẻ tín dụng,Nam,42.0,4.0,Hoàn thành,NV015
+DH000633,2024-03-12,Miền Nam,Bình Dương,Online,Văn phòng phẩm,Giấy A4,12000.0,172,2064000.0,5.0,1961000.0,16000.0,Chuyển khoản,Nam,29.0,4.0,Hoàn thành,NV026
+DH000634,2024-07-15,Miền Nam,Bình Dương,Siêu thị,Gia dụng,Ấm siêu tốc,732000.0,4,2928000.0,0.0,2928000.0,0.0,Chuyển khoản,Nam,34.0,2.0,Đang giao,NV006
+DH000635,2024-04-01,Miền Bắc,Quảng Ninh,Siêu thị,Thực phẩm,Trà xanh,50000.0,4,200000.0,0.0,200000.0,134000.0,Thẻ tín dụng,Nữ,39.0,4.0,Hoàn thành,NV015
+DH000636,2023-06-12,Miền Trung,Huế,Cửa hàng,Điện tử,Laptop,7655000.0,5,38275000.0,20.0,30620000.0,0.0,Thẻ tín dụng,Nữ,28.0,5.0,Hoàn thành,NV029
+DH000637,2024-05-01,Miền Nam,Cần Thơ,Đại lý,Thực phẩm,Gạo ST25,118000.0,7,826000.0,0.0,826000.0,23000.0,Tiền mặt,Nữ,33.0,5.0,Hoàn thành,NV029
+DH000638,2024-04-05,Miền Bắc,Quảng Ninh,Cửa hàng,Điện tử,Laptop,484000.0,5,2420000.0,0.0,2420000.0,0.0,COD,Nam,39.0,4.0,Hoàn thành,NV017
+DH000639,2023-09-23,Miền Bắc,Hà Nội,Đại lý,Mỹ phẩm,Kem chống nắng,65000.0,6,390000.0,0.0,390000.0,40000.0,Chuyển khoản,Nữ,34.0,5.0,Đang giao,NV030
+DH000640,2023-09-11,Miền Trung,Nghệ An,Cửa hàng,Gia dụng,Nồi cơm điện,201000.0,2,402000.0,0.0,402000.0,80000.0,Thẻ tín dụng,Nữ,37.0,5.0,Đã hủy,NV006
+DH000641,2024-10-14,Miền Bắc,Quảng Ninh,Online,Thực phẩm,Nước mắm,29000.0,4,116000.0,15.0,99000.0,65000.0,COD,Nữ,36.0,4.0,Hoàn thành,NV002
+DH000642,2023-10-11,Miền Trung,Nghệ An,Cửa hàng,Thực phẩm,Nước mắm,97000.0,5,485000.0,5.0,461000.0,82000.0,Thẻ tín dụng,,40.0,4.0,Hoàn thành,NV043
+DH000643,2024-06-17,Miền Bắc,Bắc Ninh,Cửa hàng,Mỹ phẩm,Nước hoa,331000.0,176,58256000.0,5.0,55343000.0,0.0,Thẻ tín dụng,Nữ,19.0,5.0,Hoàn thành,NV044
+DH000644,2024-05-11,Miền Trung,Khánh Hòa,Online,Thời trang,Quần jean,194000.0,2,388000.0,20.0,310000.0,106000.0,Thẻ tín dụng,Nữ,36.0,5.0,Hoàn thành,NV026
+DH000645,2024-10-03,Miền Bắc,Hà Nội,Online,Thời trang,Quần jean,297000.0,3,891000.0,0.0,891000.0,70000.0,Tiền mặt,Nữ,39.0,2.0,Hoàn thành,NV025
+DH000646,2023-09-02,Miền Nam,Đồng Nai,Siêu thị,Văn phòng phẩm,Bìa hồ sơ,30000.0,4,120000.0,0.0,120000.0,67000.0,COD,Nữ,38.0,4.0,Đã hủy,NV025
+DH000647,2023-10-09,Miền Nam,Cần Thơ,Cửa hàng,Mỹ phẩm,Kem chống nắng,1114000.0,3,3342000.0,0.0,3342000.0,0.0,Chuyển khoản,Nam,49.0,4.0,Trả hàng,NV017
+DH000648,2024-03-26,Miền Nam,Đồng Nai,Online,Mỹ phẩm,Son môi,253000.0,3,759000.0,10.0,683000.0,99000.0,Tiền mặt,Nam,25.0,5.0,Hoàn thành,NV031
+DH000649,2023-03-21,Miền Nam,Cần Thơ,Online,Điện tử,Tai nghe,82000.0,4,328000.0,15.0,279000.0,104000.0,COD,Nữ,32.0,5.0,Hoàn thành,NV036
+DH000650,2024-12-31,Miền Trung,Huế,Siêu thị,Điện tử,Máy tính bảng,2857000.0,5,14285000.0,20.0,11428000.0,0.0,Thẻ tín dụng,Nữ,52.0,4.0,Trả hàng,NV015
+DH000651,2023-10-20,Miền Bắc,Hải Phòng,Đại lý,Điện tử,Tai nghe,6140000.0,6,36840000.0,15.0,31314000.0,0.0,Thẻ tín dụng,Nam,43.0,5.0,Hoàn thành,NV042
+DH000652,2023-08-29,Miền Nam,Đồng Nai,Online,Thời trang,Đồng hồ,359000.0,3,1077000.0,15.0,915000.0,,COD,Nam,26.0,3.0,Đã hủy,NV043
+DH000653,2023-10-06,Miền Nam,Cần Thơ,Online,Gia dụng,Ấm siêu tốc,831000.0,145,120495000.0,0.0,120495000.0,0.0,Chuyển khoản,Nữ,31.0,4.0,Hoàn thành,NV048
+DH000654,2023-12-10,Miền Nam,Đồng Nai,Cửa hàng,Thời trang,Đồng hồ,399000.0,5,1995000.0,5.0,1895000.0,62000.0,Chuyển khoản,Nam,27.0,2.0,Đang giao,NV040
+DH000655,2023-11-24,Miền Trung,Khánh Hòa,Siêu thị,Gia dụng,Quạt điện,211000.0,5,1055000.0,0.0,1055000.0,97000.0,Tiền mặt,Nam,24.0,4.0,Hoàn thành,NV004
+DH000656,2024-07-07,Miền Bắc,Quảng Ninh,Cửa hàng,Thời trang,Giày thể thao,148000.0,4,592000.0,0.0,592000.0,31000.0,Ví điện tử,Nữ,23.0,5.0,Hoàn thành,NV042
+DH000657,2023-03-24,Miền Bắc,Hà Nội,Đại lý,Thực phẩm,Bánh tráng,41000.0,3,123000.0,0.0,123000.0,72000.0,Chuyển khoản,Nữ,33.0,4.0,Hoàn thành,NV010
+DH000658,2023-05-22,Miền Trung,Nghệ An,Siêu thị,Văn phòng phẩm,Sổ tay,26000.0,3,78000.0,0.0,78000.0,131000.0,Chuyển khoản,Nam,26.0,5.0,Hoàn thành,NV022
+DH000659,2023-06-04,Miền Nam,Cần Thơ,Cửa hàng,Thời trang,Áo thun,163000.0,3,489000.0,10.0,440000.0,112000.0,Chuyển khoản,Nữ,45.0,4.0,Hoàn thành,NV023
+DH000660,2023-08-25,Miền Nam,Đồng Nai,Online,Thời trang,Quần jean,432000.0,1,432000.0,0.0,432000.0,,Ví điện tử,Nam,34.0,2.0,Đã hủy,NV036
+DH000661,2024-01-28,Miền Trung,Khánh Hòa,Online,Thời trang,Đồng hồ,383000.0,2,766000.0,0.0,766000.0,128000.0,Thẻ tín dụng,Nam,32.0,5.0,Hoàn thành,NV042
+DH000662,2024-12-11,Tây Nguyên,Đắk Lắk,Siêu thị,Điện tử,Loa bluetooth,13418000.0,1,13418000.0,0.0,13418000.0,0.0,Chuyển khoản,Nữ,40.0,4.0,Hoàn thành,NV007
+DH000663,2023-06-06,Miền Nam,Đồng Nai,Online,Thực phẩm,Nước mắm,49000.0,8,392000.0,10.0,353000.0,138000.0,Chuyển khoản,Nữ,34.0,5.0,Đang giao,NV050
+DH000664,2024-12-24,Miền Bắc,Bắc Ninh,Cửa hàng,Thời trang,Giày thể thao,74000.0,2,148000.0,0.0,148000.0,42000.0,Chuyển khoản,Nam,40.0,4.0,Hoàn thành,NV006
+DH000665,2023-08-08,Miền Bắc,Hà Nội,Siêu thị,Gia dụng,Máy xay sinh tố,786000.0,7,5502000.0,0.0,5502000.0,0.0,Chuyển khoản,Nữ,33.0,5.0,Hoàn thành,NV019
+DH000666,2023-03-07,Miền Bắc,Quảng Ninh,Online,Mỹ phẩm,Nước hoa,1370000.0,3,4110000.0,0.0,4110000.0,0.0,Ví điện tử,Nữ,27.0,4.0,Hoàn thành,NV043
+DH000667,2024-02-29,Miền Bắc,Hải Phòng,Online,Thực phẩm,Gạo ST25,77000.0,4,308000.0,0.0,308000.0,83000.0,Thẻ tín dụng,Nữ,26.0,4.0,Hoàn thành,NV040
+DH000668,2024-02-22,Miền Bắc,Hải Phòng,Đại lý,Điện tử,Laptop,777000.0,7,5439000.0,0.0,5439000.0,0.0,Tiền mặt,Nam,18.0,5.0,Hoàn thành,NV049
+DH000669,2023-12-05,Miền Bắc,Quảng Ninh,Đại lý,Thực phẩm,Cà phê,26000.0,4,104000.0,0.0,104000.0,137000.0,Chuyển khoản,Nữ,40.0,4.0,Trả hàng,NV017
+DH000670,2024-07-09,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Máy tính bảng,637000.0,2,1274000.0,5.0,1210000.0,88000.0,COD,Nam,19.0,5.0,Đã hủy,NV038
+DH000671,2024-04-22,Miền Bắc,Bắc Ninh,Đại lý,Thực phẩm,Cà phê,166000.0,2,332000.0,15.0,282000.0,35000.0,Tiền mặt,Nữ,28.0,,Hoàn thành,NV042
+DH000672,2024-03-01,Miền Nam,Bình Dương,Cửa hàng,Gia dụng,Nồi cơm điện,398000.0,3,1194000.0,0.0,1194000.0,67000.0,Tiền mặt,Nam,39.0,5.0,Hoàn thành,NV026
+DH000673,2023-03-05,Miền Bắc,Quảng Ninh,Online,Điện tử,Laptop,903000.0,5,4515000.0,10.0,4064000.0,0.0,Thẻ tín dụng,Nữ,19.0,2.0,Hoàn thành,NV021
+DH000674,2023-07-31,Miền Nam,Cần Thơ,Online,Mỹ phẩm,Nước hoa,173000.0,2,346000.0,15.0,294000.0,79000.0,COD,Nam,37.0,4.0,Hoàn thành,NV019
+DH000675,2024-03-06,Miền Trung,Khánh Hòa,Online,Văn phòng phẩm,Kẹp giấy,13000.0,2,26000.0,0.0,26000.0,149000.0,Tiền mặt,Nữ,26.0,3.0,Hoàn thành,NV043
+DH000676,2024-02-03,Tây Nguyên,Lâm Đồng,Siêu thị,Mỹ phẩm,Son môi,820000.0,5,4100000.0,10.0,3690000.0,0.0,Chuyển khoản,Nữ,40.0,4.0,Hoàn thành,NV002
+DH000677,2024-08-21,Miền Bắc,Bắc Ninh,Siêu thị,Thời trang,Đồng hồ,133000.0,6,798000.0,15.0,678000.0,118000.0,Tiền mặt,Nam,36.0,,Hoàn thành,NV049
+DH000678,2024-12-13,Miền Trung,Nghệ An,Đại lý,Thực phẩm,Cà phê,102000.0,2,204000.0,0.0,204000.0,19000.0,Chuyển khoản,Nữ,26.0,4.0,Hoàn thành,NV032
+DH000679,2023-01-21,Tây Nguyên,Lâm Đồng,Online,Văn phòng phẩm,Bút bi,16000.0,3,48000.0,5.0,46000.0,64000.0,Thẻ tín dụng,Nữ,48.0,1.0,Đã hủy,NV039
+DH000680,2024-08-12,Miền Nam,TP.HCM,Online,Thời trang,Giày thể thao,788000.0,5,3940000.0,0.0,3940000.0,0.0,Chuyển khoản,Nam,,4.0,Hoàn thành,NV020
+DH000681,2024-01-25,Miền Nam,TP.HCM,Online,Mỹ phẩm,Nước hoa,831000.0,9,7479000.0,0.0,7479000.0,0.0,Chuyển khoản,Nam,27.0,5.0,Hoàn thành,NV050
+DH000682,2024-05-03,Miền Bắc,Hải Phòng,Online,Điện tử,Máy tính bảng,2214000.0,4,8856000.0,0.0,8856000.0,0.0,Tiền mặt,Nam,35.0,3.0,Đã hủy,NV023
+DH000683,2023-01-07,Miền Bắc,Hải Phòng,Online,Điện tử,Điện thoại,1370000.0,4,5480000.0,10.0,4932000.0,0.0,Thẻ tín dụng,Nữ,38.0,5.0,Đang giao,NV050
+DH000684,2023-12-27,Miền Nam,Bình Dương,Cửa hàng,Gia dụng,Ấm siêu tốc,524000.0,9,4716000.0,0.0,4716000.0,0.0,Thẻ tín dụng,Nam,49.0,4.0,Hoàn thành,NV021
+DH000685,2023-11-02,Tây Nguyên,Gia Lai,Online,Gia dụng,Máy xay sinh tố,468000.0,7,3276000.0,0.0,3276000.0,0.0,Thẻ tín dụng,Nữ,18.0,3.0,Hoàn thành,NV018
+DH000686,2024-02-04,Miền Nam,Đồng Nai,Cửa hàng,Mỹ phẩm,Kem chống nắng,45000.0,2,90000.0,20.0,72000.0,129000.0,Ví điện tử,Nam,42.0,5.0,Hoàn thành,NV044
+DH000687,2024-03-05,Miền Nam,Đồng Nai,Online,Văn phòng phẩm,Giấy A4,33000.0,6,198000.0,0.0,198000.0,74000.0,Ví điện tử,Nữ,,4.0,Hoàn thành,NV005
+DH000688,2024-07-05,Miền Bắc,Hải Phòng,Siêu thị,Điện tử,Điện thoại,2686000.0,4,10744000.0,0.0,10744000.0,0.0,COD,Nam,31.0,2.0,Hoàn thành,NV006
+DH000689,2024-07-13,Miền Nam,Đồng Nai,Siêu thị,Thời trang,Áo thun,118000.0,3,354000.0,0.0,354000.0,73000.0,Tiền mặt,Nam,37.0,4.0,Hoàn thành,NV047
+DH000690,2024-09-09,Miền Bắc,Hà Nội,Cửa hàng,Văn phòng phẩm,Kẹp giấy,5000.0,7,35000.0,0.0,35000.0,144000.0,COD,Nữ,40.0,5.0,Đang giao,NV029
+DH000691,2023-08-14,Miền Trung,Khánh Hòa,Online,Điện tử,Laptop,122000.0,2,244000.0,5.0,232000.0,37000.0,Tiền mặt,Nữ,44.0,5.0,Trả hàng,NV042
+DH000692,2024-05-14,Miền Trung,Huế,Siêu thị,Gia dụng,Máy xay sinh tố,857000.0,7,5999000.0,30.0,4199000.0,0.0,Ví điện tử,Nam,24.0,4.0,Hoàn thành,NV015
+DH000693,2023-08-13,Miền Nam,Đồng Nai,Siêu thị,Thực phẩm,Bánh tráng,34000.0,1,34000.0,0.0,34000.0,24000.0,Ví điện tử,Nam,39.0,5.0,Hoàn thành,NV005
+DH000694,2023-10-07,Miền Bắc,Hà Nội,Online,Điện tử,Điện thoại,1159000.0,4,4636000.0,0.0,4636000.0,0.0,Thẻ tín dụng,Nam,42.0,5.0,Hoàn thành,NV035
+DH000695,2024-03-22,Miền Bắc,Quảng Ninh,Online,Thời trang,Quần jean,443000.0,3,1329000.0,5.0,1263000.0,86000.0,Ví điện tử,Nữ,25.0,4.0,Hoàn thành,NV026
+DH000696,2024-05-12,Miền Nam,Đồng Nai,Siêu thị,Thực phẩm,Cà phê,37000.0,5,185000.0,0.0,185000.0,76000.0,Thẻ tín dụng,Nữ,27.0,4.0,Đã hủy,NV043
+DH000697,2023-01-30,Miền Bắc,Quảng Ninh,Online,Mỹ phẩm,Nước hoa,327000.0,6,1962000.0,0.0,1962000.0,145000.0,Chuyển khoản,Nữ,32.0,5.0,Hoàn thành,NV046
+DH000698,2024-02-03,Miền Nam,TP.HCM,Đại lý,Gia dụng,Máy xay sinh tố,534000.0,3,1602000.0,5.0,1522000.0,15000.0,Tiền mặt,Nam,26.0,2.0,Hoàn thành,NV011
+DH000699,2023-12-11,Miền Bắc,Hải Phòng,Online,Thực phẩm,Gạo ST25,48000.0,2,96000.0,0.0,96000.0,96000.0,Thẻ tín dụng,Nữ,32.0,4.0,Hoàn thành,NV030
+DH000700,2024-11-15,Miền Trung,Đà Nẵng,Siêu thị,Thực phẩm,Bánh tráng,19000.0,6,114000.0,10.0,103000.0,58000.0,Chuyển khoản,Nữ,34.0,4.0,Hoàn thành,NV017
+DH000701,2024-11-26,Miền Nam,Cần Thơ,Siêu thị,Thời trang,Quần jean,156000.0,3,468000.0,0.0,468000.0,80000.0,Chuyển khoản,Nữ,38.0,3.0,Trả hàng,NV027
+DH000702,2024-02-19,Miền Bắc,Hà Nội,Cửa hàng,Điện tử,Điện thoại,4121000.0,10,41210000.0,0.0,41210000.0,0.0,Chuyển khoản,Nữ,45.0,3.0,Đang giao,NV036
+DH000703,2023-06-19,Miền Trung,Khánh Hòa,Đại lý,Thực phẩm,Trà xanh,33000.0,7,231000.0,0.0,231000.0,88000.0,Ví điện tử,Nam,27.0,4.0,Đã hủy,NV047
+DH000704,2024-04-23,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Loa bluetooth,8496000.0,5,42480000.0,0.0,42480000.0,0.0,Thẻ tín dụng,Nữ,31.0,4.0,Hoàn thành,NV047
+DH000705,2023-05-11,Miền Bắc,Hải Phòng,Đại lý,Thời trang,Áo thun,1960000.0,2,3920000.0,0.0,3920000.0,0.0,COD,Nữ,41.0,4.0,Hoàn thành,NV008
+DH000706,2024-09-29,Tây Nguyên,Đắk Lắk,Online,Thực phẩm,Bánh tráng,74000.0,2,148000.0,5.0,141000.0,83000.0,Chuyển khoản,Nữ,57.0,4.0,Hoàn thành,NV047
+DH000707,2024-06-30,Miền Trung,Đà Nẵng,Siêu thị,Thực phẩm,Bánh tráng,122000.0,3,366000.0,0.0,366000.0,69000.0,Tiền mặt,Nữ,34.0,5.0,Trả hàng,NV019
+DH000708,2023-01-28,Miền Nam,Đồng Nai,Cửa hàng,Điện tử,Máy tính bảng,4749000.0,4,18996000.0,20.0,15197000.0,0.0,Chuyển khoản,Nam,38.0,5.0,Hoàn thành,NV004
+DH000709,2024-02-08,Miền Bắc,Quảng Ninh,Siêu thị,Thực phẩm,Gạo ST25,36000.0,2,72000.0,0.0,72000.0,85000.0,Tiền mặt,Nữ,37.0,3.0,Hoàn thành,NV006
+DH000710,2024-08-29,Miền Nam,Cần Thơ,Cửa hàng,Thực phẩm,Trà xanh,56000.0,5,280000.0,15.0,238000.0,114000.0,Thẻ tín dụng,Nam,32.0,2.0,Hoàn thành,NV005
+DH000711,2024-07-31,Miền Nam,Cần Thơ,Đại lý,Điện tử,Loa bluetooth,22402000.0,6,134412000.0,0.0,134412000.0,0.0,Tiền mặt,Nam,29.0,2.0,Hoàn thành,NV006
+DH000712,2024-11-09,Miền Nam,Bình Dương,Cửa hàng,Văn phòng phẩm,Bút bi,12000.0,5,60000.0,0.0,60000.0,78000.0,Chuyển khoản,Nam,42.0,5.0,Hoàn thành,NV022
+DH000713,2023-01-28,Miền Trung,Đà Nẵng,Online,Điện tử,Máy tính bảng,575000.0,1,575000.0,10.0,518000.0,26000.0,COD,Nữ,58.0,1.0,Hoàn thành,NV013
+DH000714,2023-03-27,Miền Trung,Khánh Hòa,Online,Mỹ phẩm,Kem chống nắng,72000.0,4,288000.0,50.0,144000.0,104000.0,Chuyển khoản,Nữ,44.0,5.0,Đã hủy,NV047
+DH000715,2024-10-20,Miền Trung,Đà Nẵng,Online,Điện tử,Điện thoại,1541000.0,4,6164000.0,0.0,6164000.0,0.0,Chuyển khoản,Nam,35.0,5.0,Hoàn thành,NV042
+DH000716,2024-03-14,Tây Nguyên,Lâm Đồng,Siêu thị,Mỹ phẩm,Serum,81000.0,7,567000.0,0.0,567000.0,39000.0,Tiền mặt,Nam,32.0,4.0,Hoàn thành,NV034
+DH000717,2023-05-19,Miền Nam,TP.HCM,Online,Điện tử,Máy tính bảng,14909000.0,8,119272000.0,5.0,113308000.0,0.0,Ví điện tử,Nam,38.0,2.0,Trả hàng,NV013
+DH000718,2024-04-17,Tây Nguyên,Đắk Lắk,Online,Gia dụng,Máy xay sinh tố,582000.0,4,2328000.0,15.0,1979000.0,148000.0,Chuyển khoản,Nữ,35.0,2.0,Hoàn thành,NV049
+DH000719,2023-07-06,Miền Bắc,Quảng Ninh,Siêu thị,Thời trang,Đồng hồ,653000.0,6,3918000.0,0.0,3918000.0,0.0,COD,Nam,33.0,4.0,Hoàn thành,NV042
+DH000720,2023-02-21,Miền Nam,Đồng Nai,Đại lý,Gia dụng,Bàn ủi,406000.0,3,1218000.0,0.0,1218000.0,26000.0,Tiền mặt,Nữ,26.0,4.0,Hoàn thành,NV048
+DH000721,2023-09-24,Tây Nguyên,Lâm Đồng,,Thực phẩm,Trà xanh,25000.0,3,75000.0,0.0,75000.0,122000.0,Tiền mặt,Nam,39.0,4.0,Hoàn thành,NV046
+DH000722,2024-01-24,Miền Bắc,Hải Phòng,Online,Điện tử,Loa bluetooth,416000.0,2,832000.0,0.0,832000.0,78000.0,Chuyển khoản,Nữ,52.0,3.0,Hoàn thành,NV020
+DH000723,2023-12-02,Miền Bắc,Hà Nội,Siêu thị,Gia dụng,Ấm siêu tốc,265000.0,8,2120000.0,15.0,1802000.0,132000.0,Tiền mặt,Nữ,38.0,4.0,Trả hàng,NV035
+DH000724,2023-08-05,Miền Nam,Cần Thơ,Đại lý,Điện tử,Điện thoại,3035000.0,6,18210000.0,0.0,18210000.0,0.0,Chuyển khoản,Nữ,24.0,5.0,Hoàn thành,NV045
+DH000725,2024-04-10,Miền Nam,Đồng Nai,Đại lý,Văn phòng phẩm,Bìa hồ sơ,19000.0,1,19000.0,0.0,19000.0,94000.0,Chuyển khoản,Nam,29.0,4.0,Hoàn thành,NV001
+DH000726,2023-12-01,Miền Nam,Đồng Nai,Đại lý,Điện tử,Tai nghe,4125000.0,5,20625000.0,5.0,19594000.0,0.0,Tiền mặt,Nam,57.0,4.0,Hoàn thành,NV026
+DH000727,2023-12-12,Miền Bắc,Hà Nội,Siêu thị,Thực phẩm,Bánh tráng,20000.0,7,140000.0,0.0,140000.0,95000.0,COD,Nữ,26.0,5.0,Đã hủy,NV038
+DH000728,2024-01-24,Miền Nam,Đồng Nai,Cửa hàng,Gia dụng,Quạt điện,500000.0,2,1000000.0,0.0,1000000.0,118000.0,Chuyển khoản,Nam,47.0,4.0,Trả hàng,NV041
+DH000729,2023-10-12,Miền Bắc,Hải Phòng,Cửa hàng,Thực phẩm,Nước mắm,27000.0,5,135000.0,5.0,128000.0,103000.0,Tiền mặt,Nam,26.0,5.0,Hoàn thành,NV030
+DH000730,2024-03-07,Miền Bắc,Hải Phòng,Online,Thời trang,Quần jean,414000.0,3,1242000.0,10.0,1118000.0,103000.0,Tiền mặt,Nữ,29.0,2.0,Hoàn thành,NV018
+DH000731,2023-09-16,Miền Bắc,Hải Phòng,Online,Gia dụng,Nồi cơm điện,699000.0,2,1398000.0,0.0,1398000.0,118000.0,Chuyển khoản,Nữ,47.0,5.0,Hoàn thành,NV032
+DH000732,2023-03-25,Miền Nam,Bình Dương,Online,Mỹ phẩm,Nước hoa,70000.0,3,210000.0,0.0,210000.0,86000.0,Ví điện tử,Nam,39.0,4.0,Hoàn thành,NV025
+DH000733,2024-04-26,Miền Nam,Đồng Nai,Cửa hàng,Văn phòng phẩm,Bìa hồ sơ,24000.0,1,24000.0,0.0,24000.0,118000.0,Tiền mặt,Nam,35.0,4.0,Hoàn thành,NV039
+DH000734,2023-01-20,Miền Nam,Đồng Nai,Siêu thị,Thời trang,Đồng hồ,1949000.0,3,5847000.0,0.0,5847000.0,0.0,Thẻ tín dụng,Nữ,28.0,4.0,Hoàn thành,NV036
+DH000735,2024-07-06,Miền Trung,Huế,Online,Thực phẩm,Gạo ST25,83000.0,5,415000.0,5.0,394000.0,70000.0,COD,Nữ,47.0,5.0,Đang giao,NV046
+DH000736,2023-02-23,Miền Nam,Bình Dương,Siêu thị,Thời trang,Áo thun,263000.0,5,1315000.0,0.0,1315000.0,104000.0,Chuyển khoản,Nam,28.0,5.0,Đã hủy,NV010
+DH000737,2023-12-25,Miền Trung,Huế,Online,Thời trang,Giày thể thao,233000.0,5,1165000.0,0.0,1165000.0,37000.0,Thẻ tín dụng,Nữ,24.0,2.0,Hoàn thành,NV004
+DH000738,2023-08-18,Miền Nam,Đồng Nai,Siêu thị,Gia dụng,Máy xay sinh tố,432000.0,4,1728000.0,0.0,1728000.0,118000.0,Thẻ tín dụng,Nam,40.0,,Đã hủy,NV007
+DH000739,2024-10-27,Miền Trung,Nghệ An,Siêu thị,Thời trang,Túi xách,163000.0,5,815000.0,5.0,774000.0,94000.0,Thẻ tín dụng,Nữ,28.0,4.0,Hoàn thành,NV036
+DH000740,2023-03-12,Miền Trung,Huế,Cửa hàng,Thực phẩm,Bánh tráng,58000.0,3,174000.0,10.0,157000.0,114000.0,COD,Nữ,32.0,5.0,Hoàn thành,NV010
+DH000741,2024-10-29,Miền Trung,Đà Nẵng,Siêu thị,Thực phẩm,Bánh tráng,25000.0,3,75000.0,0.0,75000.0,131000.0,Ví điện tử,Nam,50.0,2.0,Hoàn thành,NV037
+DH000742,2023-02-11,Miền Trung,Huế,Đại lý,Gia dụng,Máy xay sinh tố,133000.0,2,266000.0,5.0,253000.0,146000.0,Tiền mặt,Nữ,18.0,4.0,Hoàn thành,NV004
+DH000743,2023-02-01,Miền Nam,Đồng Nai,Cửa hàng,Văn phòng phẩm,Bút bi,17000.0,3,51000.0,0.0,51000.0,54000.0,Tiền mặt,Nữ,33.0,5.0,Hoàn thành,NV006
+DH000744,2023-09-11,Miền Nam,TP.HCM,Online,Gia dụng,Ấm siêu tốc,507000.0,4,2028000.0,0.0,2028000.0,0.0,Tiền mặt,Nam,40.0,5.0,Hoàn thành,NV020
+DH000745,2023-07-24,Miền Bắc,Bắc Ninh,Cửa hàng,Thực phẩm,Nước mắm,35000.0,5,175000.0,10.0,158000.0,64000.0,Chuyển khoản,Nữ,34.0,5.0,Hoàn thành,NV008
+DH000746,2023-01-21,Miền Nam,Cần Thơ,Đại lý,Gia dụng,Ấm siêu tốc,204000.0,3,612000.0,10.0,551000.0,81000.0,Chuyển khoản,Nam,21.0,5.0,Hoàn thành,NV029
+DH000747,2024-09-28,Miền Trung,Nghệ An,Đại lý,Gia dụng,Máy xay sinh tố,612000.0,3,1836000.0,0.0,1836000.0,98000.0,Ví điện tử,Nữ,27.0,4.0,Hoàn thành,NV035
+DH000748,2023-06-06,Miền Nam,Đồng Nai,Siêu thị,Điện tử,Loa bluetooth,610000.0,3,1830000.0,0.0,1830000.0,47000.0,Thẻ tín dụng,Nam,43.0,5.0,Hoàn thành,NV017
+DH000749,2023-09-02,Tây Nguyên,Lâm Đồng,Đại lý,Điện tử,Loa bluetooth,1693000.0,2,3386000.0,0.0,3386000.0,0.0,COD,Nữ,40.0,5.0,Hoàn thành,NV018
+DH000750,2023-05-10,Miền Nam,Đồng Nai,Đại lý,Điện tử,Máy tính bảng,16628000.0,3,49884000.0,25.0,37413000.0,0.0,Ví điện tử,Nam,26.0,4.0,Trả hàng,NV017
+DH000751,2024-04-29,Miền Bắc,Hà Nội,Đại lý,Thực phẩm,Cà phê,74000.0,4,296000.0,25.0,222000.0,109000.0,Ví điện tử,Nam,54.0,2.0,Trả hàng,NV041
+DH000752,2024-11-16,Tây Nguyên,Gia Lai,Đại lý,Mỹ phẩm,Serum,58000.0,3,174000.0,5.0,165000.0,144000.0,Tiền mặt,Nữ,37.0,2.0,Hoàn thành,NV013
+DH000753,2023-04-28,Miền Nam,TP.HCM,Online,Thời trang,Giày thể thao,108000.0,3,324000.0,10.0,292000.0,92000.0,Thẻ tín dụng,Nữ,46.0,5.0,Đang giao,NV020
+DH000754,2024-07-31,Miền Trung,Nghệ An,Online,Thực phẩm,Trà xanh,55000.0,1,55000.0,0.0,55000.0,95000.0,Tiền mặt,Nam,30.0,1.0,Hoàn thành,NV021
+DH000755,2023-08-12,Miền Bắc,Bắc Ninh,Cửa hàng,Văn phòng phẩm,Kẹp giấy,8000.0,2,16000.0,0.0,16000.0,71000.0,Thẻ tín dụng,Nữ,53.0,4.0,Hoàn thành,NV015
+DH000756,2024-04-21,Miền Nam,Bình Dương,Siêu thị,Mỹ phẩm,Kem chống nắng,33000.0,3,99000.0,0.0,99000.0,121000.0,Ví điện tử,Nữ,26.0,5.0,Đã hủy,NV037
+DH000757,2024-12-17,Miền Nam,Bình Dương,Online,Gia dụng,Nồi cơm điện,726000.0,5,3630000.0,0.0,3630000.0,0.0,Chuyển khoản,Nam,46.0,4.0,Đang giao,NV005
+DH000758,2023-09-20,Miền Nam,Đồng Nai,Đại lý,Thời trang,Đồng hồ,388000.0,1,388000.0,0.0,388000.0,41000.0,Tiền mặt,Nữ,18.0,,Hoàn thành,NV009
+DH000759,2024-01-13,Miền Nam,Cần Thơ,Siêu thị,Điện tử,Laptop,3434000.0,3,10302000.0,0.0,10302000.0,0.0,Tiền mặt,Nam,48.0,3.0,Trả hàng,NV048
+DH000760,2023-06-21,Miền Nam,Đồng Nai,Online,Điện tử,Laptop,2742000.0,3,8226000.0,0.0,8226000.0,0.0,Ví điện tử,Nữ,38.0,2.0,Hoàn thành,NV022
+DH000761,2024-09-12,Miền Bắc,Hải Phòng,Cửa hàng,Điện tử,Máy tính bảng,1849000.0,5,9245000.0,0.0,9245000.0,0.0,Chuyển khoản,Nữ,33.0,5.0,Hoàn thành,NV015
+DH000762,2024-09-13,Miền Trung,Huế,Đại lý,Thời trang,Quần jean,177000.0,2,354000.0,20.0,283000.0,141000.0,Chuyển khoản,Nữ,32.0,4.0,Hoàn thành,NV050
+DH000763,2023-04-28,Miền Bắc,Bắc Ninh,Siêu thị,Thực phẩm,Gạo ST25,68000.0,193,13124000.0,15.0,11155000.0,0.0,Thẻ tín dụng,Nam,35.0,1.0,Hoàn thành,NV041
+DH000764,2023-06-17,Miền Nam,Đồng Nai,Online,Điện tử,Điện thoại,12541000.0,4,50164000.0,0.0,50164000.0,0.0,Chuyển khoản,Nữ,18.0,2.0,Hoàn thành,NV021
+DH000765,2023-11-15,Miền Bắc,Bắc Ninh,Siêu thị,Điện tử,Laptop,1096000.0,2,2192000.0,5.0,2082000.0,0.0,Ví điện tử,Nam,30.0,5.0,Hoàn thành,NV041
+DH000766,2023-04-21,Miền Nam,Cần Thơ,Online,Điện tử,Loa bluetooth,588000.0,5,2940000.0,0.0,2940000.0,0.0,Chuyển khoản,Nam,44.0,3.0,Hoàn thành,NV030
+DH000767,2024-08-15,Miền Nam,TP.HCM,Cửa hàng,Gia dụng,Máy xay sinh tố,226000.0,7,1582000.0,0.0,1582000.0,50000.0,Thẻ tín dụng,Nam,47.0,4.0,Hoàn thành,NV031
+DH000768,2023-01-27,Miền Nam,Đồng Nai,Đại lý,Thực phẩm,Bánh tráng,30000.0,3,90000.0,0.0,90000.0,48000.0,COD,Nam,24.0,4.0,Hoàn thành,NV048
+DH000769,2023-11-16,Miền Trung,Đà Nẵng,Cửa hàng,Thực phẩm,Trà xanh,56000.0,5,280000.0,10.0,252000.0,58000.0,Chuyển khoản,Nam,48.0,3.0,Đang giao,NV031
+DH000770,2024-08-12,Miền Nam,Cần Thơ,Đại lý,Thời trang,Đồng hồ,54000.0,3,162000.0,0.0,162000.0,43000.0,Tiền mặt,Nữ,20.0,3.0,Hoàn thành,NV013
+DH000771,2024-11-24,Miền Bắc,Hải Phòng,Đại lý,Thời trang,Quần jean,426000.0,4,1704000.0,0.0,1704000.0,34000.0,Thẻ tín dụng,Nữ,40.0,5.0,Hoàn thành,NV006
+DH000772,2024-01-20,Miền Nam,Bình Dương,Siêu thị,Điện tử,Laptop,4331000.0,9,38979000.0,0.0,38979000.0,0.0,Ví điện tử,Nữ,37.0,,Đã hủy,NV017
+DH000773,2024-02-11,Miền Bắc,Quảng Ninh,Online,Thời trang,Quần jean,71000.0,2,142000.0,5.0,135000.0,93000.0,Tiền mặt,Nữ,29.0,5.0,Hoàn thành,NV025
+DH000774,2023-07-23,Miền Trung,Đà Nẵng,Cửa hàng,Mỹ phẩm,Sữa rửa mặt,83000.0,3,249000.0,0.0,249000.0,45000.0,Tiền mặt,Nam,50.0,4.0,Hoàn thành,NV013
+DH000775,2023-03-19,Miền Nam,Cần Thơ,Cửa hàng,Văn phòng phẩm,Bút bi,16000.0,3,48000.0,20.0,38000.0,92000.0,Tiền mặt,Nữ,32.0,4.0,Hoàn thành,NV013
+DH000776,2024-08-29,Miền Bắc,Bắc Ninh,Cửa hàng,Gia dụng,Bàn ủi,452000.0,3,1356000.0,5.0,1288000.0,48000.0,Ví điện tử,Nam,50.0,4.0,Hoàn thành,NV049
+DH000777,2024-12-08,Miền Bắc,Bắc Ninh,Siêu thị,Văn phòng phẩm,Bút bi,19000.0,3,57000.0,0.0,57000.0,107000.0,Tiền mặt,Nam,36.0,4.0,Hoàn thành,NV030
+DH000778,2024-10-04,Miền Nam,TP.HCM,Siêu thị,Gia dụng,Bàn ủi,453000.0,4,1812000.0,0.0,1812000.0,135000.0,COD,Nữ,30.0,4.0,Hoàn thành,NV007
+DH000779,2023-09-06,Miền Nam,Bình Dương,Siêu thị,Điện tử,Tai nghe,9124000.0,3,27372000.0,25.0,20529000.0,0.0,Chuyển khoản,Nam,45.0,4.0,Hoàn thành,NV005
+DH000780,2023-04-15,Miền Nam,TP.HCM,Đại lý,Văn phòng phẩm,Giấy A4,13000.0,8,104000.0,5.0,99000.0,89000.0,COD,Nữ,24.0,4.0,Hoàn thành,NV043
+DH000781,2024-12-14,Miền Nam,TP.HCM,Cửa hàng,Điện tử,Tai nghe,615000.0,5,3075000.0,0.0,3075000.0,0.0,Chuyển khoản,Nữ,41.0,3.0,Hoàn thành,NV019
+DH000782,2023-11-05,Miền Nam,Bình Dương,Đại lý,Gia dụng,Máy xay sinh tố,238000.0,3,714000.0,5.0,678000.0,126000.0,COD,Nam,45.0,4.0,Hoàn thành,NV013
+DH000783,2024-12-01,Miền Bắc,Bắc Ninh,Cửa hàng,Thời trang,Quần jean,540000.0,2,1080000.0,5.0,1026000.0,22000.0,COD,Nữ,25.0,5.0,Hoàn thành,NV050
+DH000784,2024-09-06,Miền Trung,Khánh Hòa,Cửa hàng,Thực phẩm,Bánh tráng,51000.0,3,153000.0,0.0,153000.0,109000.0,Tiền mặt,Nữ,38.0,5.0,Hoàn thành,NV048
+DH000785,2023-05-04,Miền Bắc,Hải Phòng,Online,Gia dụng,Nồi cơm điện,779000.0,2,1558000.0,10.0,1402000.0,102000.0,Tiền mặt,Nữ,42.0,5.0,Hoàn thành,NV028
+DH000786,2024-08-02,Tây Nguyên,Lâm Đồng,Cửa hàng,Thực phẩm,Gạo ST25,72000.0,4,288000.0,20.0,230000.0,120000.0,Chuyển khoản,Nữ,44.0,4.0,Hoàn thành,NV043
+DH000787,2023-02-12,Miền Nam,Cần Thơ,Siêu thị,Thời trang,Túi xách,60000.0,5,300000.0,10.0,270000.0,89000.0,Chuyển khoản,Nữ,,4.0,Đang giao,NV014
+DH000788,2023-12-22,Miền Trung,Đà Nẵng,Siêu thị,Thời trang,Giày thể thao,121000.0,3,363000.0,0.0,363000.0,,Thẻ tín dụng,Nam,43.0,3.0,Hoàn thành,NV046
+DH000789,2024-06-29,Miền Trung,Khánh Hòa,Siêu thị,Thời trang,Đồng hồ,133000.0,4,532000.0,0.0,532000.0,49000.0,Tiền mặt,Nam,43.0,,Hoàn thành,NV007
+DH000790,2024-03-14,Tây Nguyên,Đắk Lắk,Online,Văn phòng phẩm,Bìa hồ sơ,10000.0,2,20000.0,5.0,19000.0,134000.0,Ví điện tử,Nữ,32.0,5.0,Trả hàng,NV031
+DH000791,2024-11-08,Miền Bắc,Hà Nội,Online,Mỹ phẩm,Sữa rửa mặt,137000.0,2,274000.0,0.0,274000.0,136000.0,Tiền mặt,,29.0,5.0,Hoàn thành,NV011
+DH000792,2024-01-15,Miền Nam,Đồng Nai,Đại lý,Thực phẩm,Gạo ST25,91000.0,130,11830000.0,5.0,11238000.0,,Tiền mặt,Nữ,36.0,4.0,Hoàn thành,NV018
+DH000793,2023-03-12,Miền Nam,Đồng Nai,Cửa hàng,Điện tử,Laptop,8426000.0,5,42130000.0,0.0,42130000.0,0.0,Ví điện tử,Nữ,35.0,4.0,Hoàn thành,NV031
+DH000794,2024-06-02,Miền Nam,Bình Dương,Cửa hàng,Mỹ phẩm,Kem chống nắng,154000.0,3,462000.0,0.0,462000.0,20000.0,Tiền mặt,Nam,35.0,5.0,Hoàn thành,NV021
+DH000795,2024-10-25,Miền Bắc,Bắc Ninh,Siêu thị,Điện tử,Laptop,1479000.0,5,7395000.0,0.0,7395000.0,0.0,Ví điện tử,Nữ,46.0,4.0,Hoàn thành,NV001
+DH000796,2023-12-16,Miền Nam,Cần Thơ,Siêu thị,Thời trang,Áo thun,171000.0,8,1368000.0,0.0,1368000.0,124000.0,Tiền mặt,Nữ,31.0,4.0,Hoàn thành,NV025
+DH000797,2023-01-13,Tây Nguyên,Lâm Đồng,Siêu thị,Thời trang,Quần jean,322000.0,6,1932000.0,0.0,1932000.0,126000.0,Ví điện tử,,26.0,4.0,Hoàn thành,NV009
+DH000798,2024-03-06,Miền Nam,TP.HCM,Siêu thị,Mỹ phẩm,Kem chống nắng,240000.0,2,480000.0,0.0,480000.0,102000.0,Ví điện tử,Nam,48.0,,Hoàn thành,NV043
+DH000799,2024-05-16,Miền Nam,TP.HCM,Siêu thị,Điện tử,Tai nghe,5264000.0,3,15792000.0,0.0,15792000.0,0.0,Thẻ tín dụng,Nữ,42.0,5.0,Hoàn thành,NV018
+DH000800,2023-04-19,Tây Nguyên,Lâm Đồng,Siêu thị,Điện tử,Laptop,5214000.0,5,26070000.0,0.0,26070000.0,0.0,Chuyển khoản,Nữ,32.0,4.0,Hoàn thành,NV014
+DH000801,2024-03-19,Miền Nam,TP.HCM,Cửa hàng,Thực phẩm,Cà phê,13000.0,5,65000.0,10.0,58000.0,119000.0,Tiền mặt,Nam,21.0,5.0,Hoàn thành,NV037
+DH000802,2024-01-06,Miền Bắc,Hải Phòng,Online,Thời trang,Quần jean,266000.0,3,798000.0,10.0,718000.0,141000.0,Ví điện tử,Nữ,47.0,4.0,Hoàn thành,NV046
+DH000803,2024-10-12,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Cà phê,115000.0,3,345000.0,0.0,345000.0,126000.0,Tiền mặt,Nữ,28.0,4.0,Đã hủy,NV022
+DH000804,2024-04-15,Miền Nam,Đồng Nai,Cửa hàng,Thực phẩm,Nước mắm,38000.0,3,114000.0,10.0,103000.0,60000.0,COD,Nữ,24.0,5.0,Hoàn thành,NV015
+DH000805,2024-12-25,Miền Trung,Khánh Hòa,Siêu thị,Thực phẩm,Nước mắm,99000.0,4,396000.0,0.0,396000.0,35000.0,Ví điện tử,Nữ,51.0,2.0,Hoàn thành,NV025
+DH000806,2023-06-06,Miền Nam,Đồng Nai,Đại lý,Điện tử,Tai nghe,1385000.0,4,5540000.0,10.0,4986000.0,,Thẻ tín dụng,Nam,44.0,5.0,Hoàn thành,NV049
+DH000807,2024-03-21,Tây Nguyên,Đắk Lắk,Đại lý,Điện tử,Laptop,2467000.0,2,4934000.0,5.0,4687000.0,0.0,COD,Nữ,34.0,4.0,Hoàn thành,NV024
+DH000808,2023-06-30,Tây Nguyên,Đắk Lắk,Cửa hàng,Mỹ phẩm,Kem chống nắng,72000.0,4,288000.0,15.0,245000.0,115000.0,Thẻ tín dụng,Nam,37.0,3.0,Hoàn thành,NV047
+DH000809,2024-06-18,Miền Trung,Huế,Online,Mỹ phẩm,Sữa rửa mặt,74000.0,5,370000.0,0.0,370000.0,148000.0,Tiền mặt,Nam,38.0,2.0,Hoàn thành,NV029
+DH000810,2024-10-28,Miền Bắc,Bắc Ninh,Đại lý,Thời trang,Giày thể thao,536000.0,2,1072000.0,10.0,965000.0,136000.0,Chuyển khoản,Nữ,32.0,5.0,Hoàn thành,NV018
+DH000811,2023-10-04,Tây Nguyên,Đắk Lắk,Đại lý,Điện tử,Laptop,5762000.0,2,11524000.0,15.0,9795000.0,0.0,Thẻ tín dụng,Nam,43.0,4.0,Hoàn thành,NV035
+DH000812,2024-09-22,Miền Nam,Đồng Nai,Online,Điện tử,Điện thoại,2064000.0,4,8256000.0,0.0,8256000.0,0.0,Thẻ tín dụng,Nữ,49.0,5.0,Hoàn thành,NV013
+DH000813,2024-07-05,Miền Bắc,Quảng Ninh,Đại lý,Thực phẩm,Cà phê,24000.0,5,120000.0,0.0,120000.0,54000.0,Tiền mặt,Nữ,44.0,5.0,Hoàn thành,NV030
+DH000814,2024-05-10,Tây Nguyên,Đắk Lắk,Siêu thị,Gia dụng,Ấm siêu tốc,516000.0,4,2064000.0,0.0,2064000.0,0.0,Chuyển khoản,Nữ,33.0,5.0,Đã hủy,NV049
+DH000815,2024-04-21,Miền Nam,Cần Thơ,Online,Thời trang,Áo thun,820000.0,4,3280000.0,10.0,2952000.0,0.0,Ví điện tử,Nam,36.0,,Hoàn thành,NV007
+DH000816,2024-03-22,Miền Nam,TP.HCM,Đại lý,Gia dụng,Quạt điện,1694000.0,4,6776000.0,0.0,6776000.0,0.0,Thẻ tín dụng,Nam,26.0,5.0,Trả hàng,NV047
+DH000817,2024-08-29,Miền Nam,TP.HCM,Online,Gia dụng,Bàn ủi,401000.0,4,1604000.0,20.0,1283000.0,46000.0,Ví điện tử,Nữ,41.0,4.0,Hoàn thành,NV023
+DH000818,2023-10-02,Miền Trung,Huế,Siêu thị,Văn phòng phẩm,Bút bi,7000.0,3,21000.0,0.0,21000.0,140000.0,COD,Nam,18.0,,Hoàn thành,NV009
+DH000819,2023-11-27,Miền Bắc,Quảng Ninh,Đại lý,Điện tử,Máy tính bảng,5483000.0,5,27415000.0,5.0,26044000.0,,Ví điện tử,Nam,35.0,5.0,Đã hủy,NV003
+DH000820,2023-09-09,Miền Trung,Đà Nẵng,Cửa hàng,Điện tử,Tai nghe,1436000.0,2,2872000.0,0.0,2872000.0,0.0,Thẻ tín dụng,Nữ,25.0,5.0,Hoàn thành,NV035
+DH000821,2023-03-30,Miền Nam,Đồng Nai,Đại lý,Điện tử,Máy tính bảng,6202000.0,3,18606000.0,5.0,17676000.0,0.0,Chuyển khoản,Nữ,27.0,,Hoàn thành,NV016
+DH000822,2023-10-13,Miền Bắc,Hải Phòng,Đại lý,Mỹ phẩm,Sữa rửa mặt,258000.0,6,1548000.0,0.0,1548000.0,79000.0,Chuyển khoản,Nam,35.0,4.0,Hoàn thành,NV010
+DH000823,2024-04-06,Miền Trung,Đà Nẵng,Siêu thị,Mỹ phẩm,Kem chống nắng,90000.0,3,270000.0,0.0,270000.0,138000.0,Ví điện tử,Nữ,29.0,4.0,Đang giao,NV022
+DH000824,2023-09-07,Miền Trung,Đà Nẵng,Cửa hàng,Thực phẩm,Gạo ST25,52000.0,5,260000.0,0.0,260000.0,86000.0,Ví điện tử,Nữ,31.0,3.0,Hoàn thành,NV008
+DH000825,2024-04-20,Miền Nam,Bình Dương,Cửa hàng,Điện tử,Tai nghe,9613000.0,5,48065000.0,0.0,48065000.0,0.0,Ví điện tử,Nữ,18.0,4.0,Hoàn thành,NV045
+DH000826,2024-08-06,Tây Nguyên,Đắk Lắk,Cửa hàng,Thời trang,Đồng hồ,266000.0,4,1064000.0,5.0,1011000.0,113000.0,Ví điện tử,Nữ,32.0,3.0,Hoàn thành,NV013
+DH000827,2024-09-16,Miền Trung,Khánh Hòa,Siêu thị,Thời trang,Quần jean,131000.0,2,262000.0,0.0,262000.0,121000.0,Ví điện tử,Nam,62.0,5.0,Hoàn thành,NV024
+DH000828,2024-11-15,Miền Trung,Nghệ An,Siêu thị,Thực phẩm,Nước mắm,19000.0,4,76000.0,10.0,68000.0,35000.0,COD,Nam,,,Hoàn thành,NV045
+DH000829,2024-01-24,Miền Nam,Cần Thơ,Siêu thị,Thời trang,Túi xách,162000.0,3,486000.0,0.0,486000.0,21000.0,Ví điện tử,Nữ,36.0,5.0,Hoàn thành,NV015
+DH000830,2023-12-11,Miền Trung,Huế,Siêu thị,Điện tử,Máy tính bảng,1223000.0,4,4892000.0,5.0,4647000.0,0.0,Ví điện tử,Nam,33.0,3.0,Đang giao,NV027
+DH000831,2023-01-30,Miền Bắc,Hà Nội,Siêu thị,Gia dụng,Bàn ủi,888000.0,4,3552000.0,0.0,3552000.0,0.0,Thẻ tín dụng,Nữ,19.0,3.0,Đã hủy,NV017
+DH000832,2024-05-21,Miền Trung,Huế,Cửa hàng,Thời trang,Túi xách,122000.0,6,732000.0,0.0,732000.0,114000.0,Chuyển khoản,Nam,37.0,4.0,Hoàn thành,NV002
+DH000833,2023-11-29,Miền Bắc,Bắc Ninh,Online,Thực phẩm,Bánh tráng,127000.0,2,254000.0,0.0,254000.0,131000.0,Thẻ tín dụng,Nam,41.0,3.0,Hoàn thành,NV037
+DH000834,2023-07-06,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Điện thoại,402000.0,2,804000.0,0.0,804000.0,,Chuyển khoản,Nam,47.0,5.0,Hoàn thành,NV028
+DH000835,2024-05-14,Miền Trung,Đà Nẵng,Online,Mỹ phẩm,Serum,1631000.0,3,4893000.0,10.0,4404000.0,0.0,Ví điện tử,Nam,21.0,5.0,Hoàn thành,NV025
+DH000836,2023-08-06,Miền Trung,Khánh Hòa,Đại lý,Thực phẩm,Bánh tráng,141000.0,6,846000.0,0.0,846000.0,56000.0,Chuyển khoản,Nam,45.0,5.0,Hoàn thành,NV038
+DH000837,2023-12-30,Tây Nguyên,Gia Lai,Đại lý,Văn phòng phẩm,Sổ tay,16000.0,4,64000.0,0.0,64000.0,85000.0,Chuyển khoản,Nam,43.0,4.0,Trả hàng,NV030
+DH000838,2023-09-22,Miền Trung,Nghệ An,Siêu thị,Thực phẩm,Cà phê,19000.0,4,76000.0,10.0,68000.0,133000.0,Thẻ tín dụng,Nam,18.0,,Trả hàng,NV010
+DH000839,2023-12-15,Miền Nam,Đồng Nai,Đại lý,Văn phòng phẩm,Bút bi,15000.0,2,30000.0,0.0,30000.0,36000.0,COD,Nam,20.0,3.0,Hoàn thành,NV006
+DH000840,2023-10-14,Miền Nam,TP.HCM,Online,Mỹ phẩm,Kem chống nắng,141000.0,4,564000.0,15.0,479000.0,123000.0,Chuyển khoản,Nam,21.0,4.0,Hoàn thành,NV042
+DH000841,2024-09-02,Miền Bắc,Hà Nội,Đại lý,Thực phẩm,Cà phê,23000.0,4,92000.0,5.0,87000.0,45000.0,Tiền mặt,Nữ,46.0,5.0,Hoàn thành,NV032
+DH000842,2024-12-19,Miền Nam,TP.HCM,Đại lý,Văn phòng phẩm,Bìa hồ sơ,17000.0,6,102000.0,10.0,92000.0,45000.0,Thẻ tín dụng,Nam,34.0,4.0,Hoàn thành,NV042
+DH000843,2023-10-10,Miền Bắc,Bắc Ninh,Online,Thời trang,Áo thun,155000.0,4,620000.0,0.0,620000.0,40000.0,Thẻ tín dụng,Nam,34.0,4.0,Hoàn thành,NV010
+DH000844,2024-07-23,Tây Nguyên,Đắk Lắk,Đại lý,Thời trang,Túi xách,169000.0,3,507000.0,30.0,355000.0,35000.0,Ví điện tử,Nam,49.0,5.0,Hoàn thành,NV009
+DH000845,2023-01-11,Miền Bắc,Hải Phòng,Siêu thị,Điện tử,Điện thoại,1566000.0,3,4698000.0,0.0,4698000.0,0.0,Ví điện tử,Nữ,29.0,4.0,Đang giao,NV031
+DH000846,2024-06-13,Miền Trung,Nghệ An,Online,Thực phẩm,Nước mắm,35000.0,8,280000.0,20.0,224000.0,135000.0,Chuyển khoản,Nữ,36.0,5.0,Trả hàng,NV017
+DH000847,2023-07-15,Miền Bắc,Hải Phòng,Online,Gia dụng,Bàn ủi,2142000.0,2,4284000.0,0.0,4284000.0,0.0,Tiền mặt,Nữ,22.0,5.0,Hoàn thành,NV043
+DH000848,2023-03-29,Tây Nguyên,Đắk Lắk,Cửa hàng,Gia dụng,Quạt điện,344000.0,2,688000.0,0.0,688000.0,47000.0,Ví điện tử,Nữ,42.0,5.0,Hoàn thành,NV010
+DH000849,2023-09-05,Miền Nam,TP.HCM,Cửa hàng,Điện tử,Loa bluetooth,3395000.0,4,13580000.0,0.0,13580000.0,0.0,Thẻ tín dụng,Nam,36.0,5.0,Đã hủy,NV042
+DH000850,2024-02-21,Miền Nam,TP.HCM,Online,Thực phẩm,Gạo ST25,55000.0,6,330000.0,5.0,314000.0,27000.0,Tiền mặt,Nữ,39.0,2.0,Hoàn thành,NV038
+DH000851,2024-05-15,Miền Bắc,Bắc Ninh,Online,Điện tử,Laptop,3054000.0,3,9162000.0,15.0,7788000.0,0.0,COD,Nữ,42.0,4.0,Hoàn thành,NV043
+DH000852,2024-07-22,Miền Nam,TP.HCM,Cửa hàng,Gia dụng,Ấm siêu tốc,675000.0,6,4050000.0,0.0,4050000.0,0.0,COD,Nam,37.0,4.0,Trả hàng,NV006
+DH000853,2023-09-04,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Loa bluetooth,5759000.0,3,17277000.0,0.0,17277000.0,0.0,Ví điện tử,Nữ,29.0,4.0,Hoàn thành,NV027
+DH000854,2024-12-08,Miền Nam,Bình Dương,Đại lý,Văn phòng phẩm,Sổ tay,17000.0,3,51000.0,0.0,51000.0,117000.0,Tiền mặt,Nữ,50.0,5.0,Hoàn thành,NV038
+DH000855,2024-05-02,Miền Bắc,Hải Phòng,Đại lý,Thời trang,Áo thun,359000.0,4,1436000.0,0.0,1436000.0,106000.0,Tiền mặt,Nữ,49.0,5.0,Hoàn thành,NV043
+DH000856,2024-10-23,Miền Bắc,Hà Nội,Đại lý,Thời trang,Áo thun,314000.0,7,2198000.0,30.0,1539000.0,84000.0,Chuyển khoản,Nữ,37.0,4.0,Hoàn thành,NV006
+DH000857,2024-12-29,Miền Bắc,Hải Phòng,Online,Mỹ phẩm,Son môi,177000.0,1,177000.0,0.0,177000.0,149000.0,Tiền mặt,Nam,32.0,5.0,Đã hủy,NV022
+DH000858,2024-05-17,Miền Trung,Đà Nẵng,Siêu thị,Thực phẩm,Cà phê,29000.0,3,87000.0,15.0,74000.0,110000.0,Ví điện tử,Nam,50.0,3.0,Hoàn thành,NV029
+DH000859,2024-04-03,Miền Nam,Cần Thơ,Cửa hàng,Điện tử,Loa bluetooth,1859000.0,5,9295000.0,5.0,8830000.0,0.0,Tiền mặt,Nữ,39.0,5.0,Đang giao,NV015
+DH000860,2023-01-18,Miền Bắc,Hải Phòng,Siêu thị,Thực phẩm,Trà xanh,58000.0,8,464000.0,0.0,464000.0,131000.0,Tiền mặt,Nữ,41.0,5.0,Hoàn thành,NV047
+DH000861,2023-04-06,Miền Nam,TP.HCM,Siêu thị,Điện tử,Điện thoại,3241000.0,3,9723000.0,0.0,9723000.0,0.0,Chuyển khoản,Nữ,42.0,4.0,Đã hủy,NV002
+DH000862,2023-10-29,Miền Trung,Khánh Hòa,Đại lý,Văn phòng phẩm,Bìa hồ sơ,16000.0,146,2336000.0,15.0,1986000.0,127000.0,Chuyển khoản,Nữ,34.0,4.0,Đang giao,NV018
+DH000863,2023-08-15,Miền Nam,TP.HCM,Cửa hàng,Thực phẩm,Nước mắm,43000.0,6,258000.0,0.0,258000.0,16000.0,Chuyển khoản,Nữ,22.0,5.0,Đã hủy,NV010
+DH000864,2024-02-19,Miền Trung,Nghệ An,Siêu thị,Thời trang,Túi xách,287000.0,4,1148000.0,0.0,1148000.0,118000.0,COD,Nam,18.0,5.0,Hoàn thành,NV001
+DH000865,2024-12-09,Miền Trung,Nghệ An,Cửa hàng,Thực phẩm,Cà phê,36000.0,3,108000.0,0.0,108000.0,96000.0,COD,Nam,26.0,4.0,Trả hàng,NV013
+DH000866,2023-09-07,Miền Nam,Cần Thơ,Online,Điện tử,Laptop,2913000.0,7,20391000.0,0.0,20391000.0,0.0,Thẻ tín dụng,Nữ,43.0,5.0,Đang giao,NV013
+DH000867,2023-11-10,Miền Bắc,Hải Phòng,Đại lý,Mỹ phẩm,Serum,164000.0,7,1148000.0,0.0,1148000.0,112000.0,Tiền mặt,Nam,41.0,4.0,Hoàn thành,NV033
+DH000868,2024-11-10,Miền Bắc,Bắc Ninh,Cửa hàng,Văn phòng phẩm,Bút bi,16000.0,5,80000.0,20.0,64000.0,34000.0,Ví điện tử,Nam,41.0,4.0,Hoàn thành,NV023
+DH000869,2024-08-18,Miền Nam,Đồng Nai,Online,Mỹ phẩm,Sữa rửa mặt,492000.0,6,2952000.0,5.0,2804000.0,0.0,COD,Nữ,27.0,4.0,Đang giao,NV033
+DH000870,2024-01-13,Tây Nguyên,Đắk Lắk,Online,Thời trang,Áo thun,170000.0,3,510000.0,20.0,408000.0,18000.0,COD,Nữ,49.0,4.0,Hoàn thành,NV035
+DH000871,2024-04-29,Miền Trung,Huế,Online,Thời trang,Túi xách,484000.0,3,1452000.0,0.0,1452000.0,77000.0,Thẻ tín dụng,Nam,60.0,5.0,Đang giao,NV037
+DH000872,2024-07-20,Miền Bắc,Hải Phòng,Siêu thị,Điện tử,Máy tính bảng,2081000.0,3,6243000.0,10.0,5619000.0,0.0,Tiền mặt,Nam,21.0,5.0,Hoàn thành,NV046
+DH000873,2024-06-27,Miền Nam,TP.HCM,Siêu thị,Gia dụng,Nồi cơm điện,2058000.0,6,12348000.0,10.0,11113000.0,0.0,Ví điện tử,Nữ,31.0,4.0,Hoàn thành,NV018
+DH000874,2023-12-19,Miền Trung,Nghệ An,,Thực phẩm,Bánh tráng,44000.0,4,176000.0,0.0,176000.0,115000.0,Thẻ tín dụng,Nữ,25.0,2.0,Hoàn thành,NV040
+DH000875,2024-03-11,Miền Bắc,Quảng Ninh,Đại lý,Thực phẩm,Gạo ST25,76000.0,2,152000.0,0.0,152000.0,139000.0,Chuyển khoản,Nữ,29.0,3.0,Hoàn thành,NV038
+DH000876,2024-07-17,Miền Bắc,Hải Phòng,Online,Văn phòng phẩm,Kẹp giấy,15000.0,3,45000.0,15.0,38000.0,26000.0,Tiền mặt,Nữ,27.0,5.0,Đang giao,NV050
+DH000877,2023-12-05,Miền Nam,TP.HCM,,Điện tử,Máy tính bảng,378000.0,2,756000.0,10.0,680000.0,94000.0,Tiền mặt,Nữ,18.0,3.0,Hoàn thành,NV024
+DH000878,2023-12-27,Miền Nam,Đồng Nai,Siêu thị,Điện tử,Loa bluetooth,1071000.0,2,2142000.0,0.0,2142000.0,0.0,Thẻ tín dụng,Nam,52.0,5.0,Hoàn thành,NV016
+DH000879,2024-12-20,Miền Bắc,Quảng Ninh,Đại lý,Điện tử,Tai nghe,5753000.0,2,11506000.0,0.0,11506000.0,0.0,Chuyển khoản,Nam,37.0,2.0,Hoàn thành,NV005
+DH000880,2024-04-09,Miền Bắc,Hà Nội,Cửa hàng,Thời trang,Túi xách,212000.0,5,1060000.0,0.0,1060000.0,26000.0,Chuyển khoản,Nữ,35.0,4.0,Hoàn thành,NV012
+DH000881,2023-10-05,Miền Bắc,Bắc Ninh,Siêu thị,Điện tử,Máy tính bảng,139000.0,7,973000.0,0.0,973000.0,46000.0,Ví điện tử,Nữ,,4.0,Hoàn thành,NV024
+DH000882,2023-11-10,Miền Nam,Cần Thơ,Online,Thực phẩm,Nước mắm,49000.0,4,196000.0,0.0,196000.0,77000.0,COD,Nữ,18.0,5.0,Hoàn thành,NV044
+DH000883,2023-09-15,Miền Bắc,Bắc Ninh,Online,Thời trang,Áo thun,125000.0,4,500000.0,10.0,450000.0,16000.0,Tiền mặt,Nữ,30.0,4.0,Hoàn thành,NV047
+DH000884,2023-08-25,Miền Bắc,Hải Phòng,Đại lý,Điện tử,Máy tính bảng,2343000.0,3,7029000.0,0.0,7029000.0,0.0,Ví điện tử,Nữ,33.0,4.0,Hoàn thành,NV005
+DH000885,2023-05-04,Miền Nam,TP.HCM,Siêu thị,Gia dụng,Máy xay sinh tố,1481000.0,4,5924000.0,0.0,5924000.0,0.0,Tiền mặt,Nam,47.0,5.0,Đang giao,NV006
+DH000886,2023-07-17,Miền Bắc,Quảng Ninh,Online,Thời trang,Túi xách,555000.0,4,2220000.0,0.0,2220000.0,0.0,COD,Nữ,36.0,5.0,Hoàn thành,NV030
+DH000887,2023-11-20,Miền Nam,Bình Dương,Online,Gia dụng,Máy xay sinh tố,1466000.0,147,215502000.0,0.0,215502000.0,0.0,Ví điện tử,Nam,51.0,5.0,Hoàn thành,NV047
+DH000888,2023-05-03,Miền Bắc,Hà Nội,Siêu thị,Thời trang,Áo thun,191000.0,99,18909000.0,0.0,18909000.0,0.0,Chuyển khoản,Nam,50.0,5.0,Hoàn thành,NV021
+DH000889,2024-07-02,Miền Bắc,Hà Nội,Siêu thị,Thực phẩm,Bánh tráng,46000.0,5,230000.0,5.0,218000.0,74000.0,Chuyển khoản,Nữ,24.0,3.0,Đang giao,NV048
+DH000890,2024-12-07,Miền Bắc,Hải Phòng,Online,Văn phòng phẩm,Bìa hồ sơ,9000.0,4,36000.0,0.0,36000.0,142000.0,Thẻ tín dụng,Nam,32.0,5.0,Đã hủy,NV007
+DH000891,2023-07-09,Miền Nam,Đồng Nai,Đại lý,Điện tử,Máy tính bảng,880000.0,4,3520000.0,0.0,3520000.0,0.0,Thẻ tín dụng,,39.0,5.0,Hoàn thành,NV015
+DH000892,2023-07-16,Miền Nam,Bình Dương,Đại lý,Thực phẩm,Trà xanh,29000.0,3,87000.0,0.0,87000.0,88000.0,COD,Nữ,26.0,3.0,Hoàn thành,NV021
+DH000893,2023-08-10,Miền Nam,Đồng Nai,Đại lý,Mỹ phẩm,Son môi,62000.0,3,186000.0,5.0,177000.0,114000.0,COD,Nam,28.0,4.0,Hoàn thành,NV021
+DH000894,2024-05-10,Miền Trung,Đà Nẵng,Cửa hàng,Thực phẩm,Gạo ST25,113000.0,7,791000.0,0.0,791000.0,45000.0,Tiền mặt,Nam,34.0,4.0,Đã hủy,NV010
+DH000895,2023-10-11,Miền Nam,Cần Thơ,Siêu thị,Thời trang,Giày thể thao,56000.0,5,280000.0,0.0,280000.0,17000.0,Ví điện tử,Nữ,33.0,5.0,Hoàn thành,NV027
+DH000896,2024-08-26,Miền Bắc,Quảng Ninh,Online,Thực phẩm,Bánh tráng,114000.0,2,228000.0,25.0,171000.0,121000.0,Ví điện tử,Nữ,26.0,,Trả hàng,NV044
+DH000897,2024-06-21,Miền Bắc,Hà Nội,Cửa hàng,Gia dụng,Bàn ủi,1196000.0,5,5980000.0,0.0,5980000.0,0.0,Ví điện tử,Nữ,30.0,5.0,Hoàn thành,NV046
+DH000898,2024-09-03,Miền Nam,Bình Dương,Đại lý,Mỹ phẩm,Son môi,314000.0,3,942000.0,0.0,942000.0,37000.0,COD,Nữ,38.0,5.0,Hoàn thành,NV041
+DH000899,2023-10-17,Miền Bắc,Bắc Ninh,Cửa hàng,Điện tử,Tai nghe,525000.0,4,2100000.0,0.0,2100000.0,0.0,Thẻ tín dụng,Nữ,34.0,4.0,Hoàn thành,NV001
+DH000900,2023-04-13,Miền Bắc,Hải Phòng,Online,Điện tử,Điện thoại,300000.0,2,600000.0,10.0,540000.0,65000.0,Chuyển khoản,Nam,24.0,4.0,Hoàn thành,NV031
+DH000901,2023-07-18,Miền Bắc,Quảng Ninh,Online,Thời trang,Túi xách,193000.0,6,1158000.0,5.0,1100000.0,51000.0,Thẻ tín dụng,Nữ,51.0,3.0,Hoàn thành,NV039
+DH000902,2023-10-31,Miền Bắc,Hải Phòng,Siêu thị,Thời trang,Túi xách,495000.0,2,990000.0,15.0,842000.0,110000.0,Chuyển khoản,Nam,64.0,4.0,Hoàn thành,NV034
+DH000903,2023-08-21,Miền Bắc,Quảng Ninh,Đại lý,Thời trang,Túi xách,301000.0,3,903000.0,0.0,903000.0,146000.0,Chuyển khoản,Nữ,44.0,5.0,Hoàn thành,NV010
+DH000904,2024-01-05,Miền Nam,Đồng Nai,Đại lý,Thời trang,Quần jean,130000.0,2,260000.0,0.0,260000.0,86000.0,Thẻ tín dụng,Nam,35.0,5.0,Hoàn thành,NV050
+DH000905,2023-07-03,Miền Trung,Đà Nẵng,Cửa hàng,Điện tử,Tai nghe,7933000.0,4,31732000.0,0.0,31732000.0,0.0,Chuyển khoản,Nữ,30.0,2.0,Đang giao,NV023
+DH000906,2023-11-06,Miền Nam,Bình Dương,Đại lý,Điện tử,Loa bluetooth,15096000.0,4,60384000.0,25.0,45288000.0,0.0,Thẻ tín dụng,Nữ,34.0,5.0,Hoàn thành,NV031
+DH000907,2023-01-15,Miền Nam,TP.HCM,Cửa hàng,Văn phòng phẩm,Sổ tay,13000.0,3,39000.0,0.0,39000.0,80000.0,Ví điện tử,Nữ,34.0,3.0,Trả hàng,NV020
+DH000908,2024-12-26,Miền Trung,Khánh Hòa,Online,Điện tử,Laptop,2280000.0,5,11400000.0,0.0,11400000.0,0.0,COD,Nam,34.0,3.0,Đang giao,NV006
+DH000909,2024-06-30,Miền Bắc,Bắc Ninh,Online,Thời trang,Đồng hồ,90000.0,2,180000.0,30.0,126000.0,112000.0,Tiền mặt,Nữ,38.0,4.0,Hoàn thành,NV043
+DH000910,2023-05-10,Miền Trung,Huế,Online,Thời trang,Túi xách,215000.0,5,1075000.0,0.0,1075000.0,140000.0,Chuyển khoản,Nữ,40.0,5.0,Hoàn thành,NV040
+DH000911,2023-10-08,Miền Nam,TP.HCM,Online,Văn phòng phẩm,Kẹp giấy,19000.0,4,76000.0,0.0,76000.0,125000.0,Ví điện tử,Nam,52.0,4.0,Hoàn thành,NV025
+DH000912,2023-02-16,Miền Bắc,Hải Phòng,Online,Gia dụng,Nồi cơm điện,641000.0,3,1923000.0,10.0,1731000.0,121000.0,Thẻ tín dụng,Nữ,41.0,4.0,Trả hàng,NV046
+DH000913,2023-02-25,Miền Nam,TP.HCM,Cửa hàng,Mỹ phẩm,Son môi,127000.0,2,254000.0,0.0,254000.0,120000.0,Tiền mặt,Nam,29.0,5.0,Hoàn thành,NV045
+DH000914,2024-07-20,Miền Trung,Đà Nẵng,Online,Điện tử,Loa bluetooth,1439000.0,3,4317000.0,0.0,4317000.0,0.0,Chuyển khoản,Nam,26.0,4.0,Hoàn thành,NV048
+DH000915,2023-10-27,Miền Nam,Bình Dương,Cửa hàng,Mỹ phẩm,Nước hoa,134000.0,4,536000.0,0.0,536000.0,131000.0,Ví điện tử,Nam,37.0,5.0,Hoàn thành,NV003
+DH000916,2024-12-15,Miền Trung,Huế,Online,Thực phẩm,Cà phê,42000.0,5,210000.0,0.0,210000.0,63000.0,Chuyển khoản,Nam,33.0,5.0,Hoàn thành,NV014
+DH000917,2023-05-10,Miền Bắc,Bắc Ninh,Cửa hàng,Thời trang,Túi xách,421000.0,2,842000.0,10.0,758000.0,97000.0,Thẻ tín dụng,Nam,49.0,4.0,Hoàn thành,NV018
+DH000918,2024-10-15,Tây Nguyên,Đắk Lắk,Cửa hàng,Thực phẩm,Cà phê,15000.0,4,60000.0,20.0,48000.0,34000.0,Thẻ tín dụng,Nữ,42.0,3.0,Hoàn thành,NV029
+DH000919,2024-05-17,Miền Nam,TP.HCM,,Mỹ phẩm,Sữa rửa mặt,187000.0,3,561000.0,0.0,561000.0,103000.0,COD,Nam,26.0,5.0,Hoàn thành,NV011
+DH000920,2023-04-16,Miền Bắc,Hà Nội,Đại lý,Gia dụng,Máy xay sinh tố,639000.0,7,4473000.0,0.0,4473000.0,0.0,Ví điện tử,Nam,32.0,4.0,Hoàn thành,NV017
+DH000921,2023-01-13,Miền Nam,Cần Thơ,Cửa hàng,Mỹ phẩm,Nước hoa,120000.0,4,480000.0,0.0,480000.0,70000.0,Chuyển khoản,Nam,27.0,4.0,Trả hàng,NV047
+DH000922,2024-08-10,Miền Trung,Nghệ An,Cửa hàng,Văn phòng phẩm,Sổ tay,12000.0,9,108000.0,0.0,108000.0,84000.0,Chuyển khoản,Nữ,52.0,3.0,Hoàn thành,NV014
+DH000923,2023-10-19,Miền Nam,Đồng Nai,Online,Thời trang,Túi xách,209000.0,5,1045000.0,5.0,993000.0,17000.0,Chuyển khoản,Nữ,27.0,5.0,Hoàn thành,NV010
+DH000924,2024-04-25,Miền Nam,Bình Dương,Cửa hàng,Thực phẩm,Gạo ST25,38000.0,2,76000.0,5.0,72000.0,137000.0,Chuyển khoản,Nữ,22.0,5.0,Đang giao,NV038
+DH000925,2024-05-05,Miền Trung,Huế,Cửa hàng,Điện tử,Điện thoại,2014000.0,3,6042000.0,0.0,6042000.0,0.0,Thẻ tín dụng,Nam,,5.0,Đang giao,NV019
+DH000926,2024-03-27,Miền Bắc,Hải Phòng,Siêu thị,Mỹ phẩm,Son môi,225000.0,3,675000.0,0.0,675000.0,114000.0,Chuyển khoản,Nữ,22.0,4.0,Hoàn thành,NV023
+DH000927,2023-12-15,Miền Bắc,Bắc Ninh,Đại lý,Điện tử,Laptop,161000.0,9,1449000.0,0.0,1449000.0,24000.0,Tiền mặt,Nữ,22.0,5.0,Hoàn thành,NV009
+DH000928,2023-07-08,Miền Nam,Cần Thơ,Siêu thị,Mỹ phẩm,Son môi,360000.0,1,360000.0,0.0,360000.0,44000.0,Tiền mặt,Nữ,39.0,4.0,Hoàn thành,NV016
+DH000929,2023-02-22,Miền Nam,TP.HCM,Online,Thời trang,Quần jean,238000.0,4,952000.0,25.0,714000.0,149000.0,Chuyển khoản,Nữ,35.0,5.0,Hoàn thành,NV048
+DH000930,2023-09-16,Miền Bắc,Hải Phòng,Đại lý,Thời trang,Túi xách,1408000.0,7,9856000.0,0.0,9856000.0,0.0,Chuyển khoản,Nữ,57.0,3.0,Đang giao,NV038
+DH000931,2024-05-04,Miền Bắc,Bắc Ninh,Đại lý,Điện tử,Laptop,479000.0,4,1916000.0,10.0,1724000.0,133000.0,Tiền mặt,Nữ,57.0,,Hoàn thành,NV030
+DH000932,2023-04-27,Miền Nam,Bình Dương,Siêu thị,Thời trang,Giày thể thao,150000.0,1,150000.0,0.0,150000.0,107000.0,Thẻ tín dụng,Nữ,37.0,5.0,Hoàn thành,NV033
+DH000933,2023-03-08,Tây Nguyên,Đắk Lắk,Đại lý,Mỹ phẩm,Serum,167000.0,3,501000.0,0.0,501000.0,124000.0,Ví điện tử,Nam,43.0,5.0,Hoàn thành,NV025
+DH000934,2024-02-15,Miền Nam,Bình Dương,Siêu thị,Điện tử,Tai nghe,3284000.0,4,13136000.0,10.0,11822000.0,0.0,Chuyển khoản,Nữ,33.0,1.0,Hoàn thành,NV023
+DH000935,2024-05-18,Miền Bắc,Quảng Ninh,Cửa hàng,Thực phẩm,Trà xanh,16000.0,5,80000.0,0.0,80000.0,,Ví điện tử,Nam,45.0,5.0,Hoàn thành,NV025
+DH000936,2023-03-17,Miền Bắc,Hà Nội,Siêu thị,Điện tử,Laptop,740000.0,2,1480000.0,0.0,1480000.0,84000.0,Tiền mặt,Nữ,35.0,2.0,Đang giao,NV014
+DH000937,2024-08-13,Miền Bắc,Bắc Ninh,Đại lý,Thời trang,Áo thun,481000.0,7,3367000.0,0.0,3367000.0,0.0,Tiền mặt,Nữ,31.0,5.0,Đang giao,NV029
+DH000938,2024-10-06,Tây Nguyên,Gia Lai,Đại lý,Điện tử,Loa bluetooth,641000.0,4,2564000.0,0.0,2564000.0,0.0,Ví điện tử,Nữ,28.0,,Hoàn thành,NV041
+DH000939,2024-12-03,Miền Bắc,Quảng Ninh,Online,Thời trang,Đồng hồ,898000.0,5,4490000.0,30.0,3143000.0,0.0,COD,Nam,,4.0,Trả hàng,NV011
+DH000940,2023-02-24,Miền Nam,TP.HCM,Online,Mỹ phẩm,Kem chống nắng,133000.0,3,399000.0,5.0,379000.0,106000.0,Chuyển khoản,Nam,35.0,4.0,Hoàn thành,NV026
+DH000941,2023-06-05,Miền Bắc,Hải Phòng,Online,Thực phẩm,Bánh tráng,29000.0,6,174000.0,0.0,174000.0,100000.0,Thẻ tín dụng,Nữ,45.0,4.0,Đang giao,NV020
+DH000942,2023-06-02,Miền Nam,Bình Dương,Online,Thời trang,Túi xách,489000.0,6,2934000.0,0.0,2934000.0,0.0,Thẻ tín dụng,Nữ,35.0,3.0,Hoàn thành,NV013
+DH000943,2024-07-30,Miền Nam,Bình Dương,Đại lý,Thực phẩm,Bánh tráng,131000.0,9,1179000.0,0.0,1179000.0,135000.0,Thẻ tín dụng,Nam,23.0,5.0,Đang giao,NV021
+DH000944,2023-11-08,Miền Nam,Cần Thơ,Online,Điện tử,Loa bluetooth,3296000.0,5,16480000.0,0.0,16480000.0,0.0,Thẻ tín dụng,Nữ,49.0,4.0,Hoàn thành,NV028
+DH000945,2023-03-29,Miền Bắc,Hải Phòng,Siêu thị,Thời trang,Áo thun,822000.0,3,2466000.0,0.0,2466000.0,0.0,Chuyển khoản,Nữ,35.0,4.0,Hoàn thành,NV019
+DH000946,2023-09-12,Miền Bắc,Hà Nội,Cửa hàng,Thực phẩm,Bánh tráng,137000.0,4,548000.0,0.0,548000.0,70000.0,Tiền mặt,Nữ,44.0,5.0,Hoàn thành,NV046
+DH000947,2023-05-02,Miền Bắc,Hải Phòng,Đại lý,Thời trang,Túi xách,143000.0,3,429000.0,0.0,429000.0,77000.0,Tiền mặt,Nữ,18.0,5.0,Hoàn thành,NV029
+DH000948,2024-07-25,Tây Nguyên,Gia Lai,Online,Gia dụng,Máy xay sinh tố,964000.0,2,1928000.0,0.0,1928000.0,,Tiền mặt,Nam,22.0,,Hoàn thành,NV023
+DH000949,2024-03-02,Miền Nam,Cần Thơ,Đại lý,Thực phẩm,Cà phê,20000.0,4,80000.0,0.0,80000.0,150000.0,Tiền mặt,Nữ,18.0,4.0,Hoàn thành,NV015
+DH000950,2024-09-12,Miền Nam,Đồng Nai,Online,Gia dụng,Bàn ủi,673000.0,4,2692000.0,10.0,2423000.0,0.0,Tiền mặt,Nữ,27.0,4.0,Hoàn thành,NV041
+DH000951,2024-09-02,Miền Nam,Bình Dương,Đại lý,Văn phòng phẩm,Bút bi,14000.0,106,1484000.0,15.0,1261000.0,29000.0,Tiền mặt,Nữ,43.0,1.0,Hoàn thành,NV031
+DH000952,2024-09-25,Miền Nam,Cần Thơ,Online,Điện tử,Loa bluetooth,8888000.0,2,17776000.0,0.0,17776000.0,0.0,Tiền mặt,Nữ,37.0,4.0,Hoàn thành,NV017
+DH000953,2023-08-20,Miền Bắc,Bắc Ninh,Cửa hàng,Thời trang,Đồng hồ,766000.0,2,1532000.0,25.0,1149000.0,51000.0,Chuyển khoản,Nữ,36.0,5.0,Hoàn thành,NV026
+DH000954,2024-06-19,Tây Nguyên,Gia Lai,Online,Thời trang,Túi xách,473000.0,3,1419000.0,0.0,1419000.0,55000.0,Tiền mặt,Nam,51.0,3.0,Hoàn thành,NV044
+DH000955,2024-01-25,Miền Trung,Đà Nẵng,Siêu thị,Điện tử,Tai nghe,2861000.0,3,8583000.0,5.0,8154000.0,0.0,COD,Nam,38.0,5.0,Trả hàng,NV044
+DH000956,2024-04-06,Miền Trung,Đà Nẵng,Đại lý,Mỹ phẩm,Sữa rửa mặt,316000.0,2,632000.0,0.0,632000.0,33000.0,Chuyển khoản,Nam,35.0,5.0,Đang giao,NV046
+DH000957,2024-03-29,Miền Nam,Đồng Nai,Đại lý,Gia dụng,Máy xay sinh tố,522000.0,1,522000.0,0.0,522000.0,94000.0,COD,Nam,20.0,3.0,Đang giao,NV008
+DH000958,2023-11-01,Miền Bắc,Hà Nội,Siêu thị,Thực phẩm,Bánh tráng,48000.0,3,144000.0,0.0,144000.0,104000.0,Chuyển khoản,Nữ,45.0,5.0,Hoàn thành,NV020
+DH000959,2024-08-25,Miền Bắc,Hải Phòng,Siêu thị,Thực phẩm,Trà xanh,119000.0,3,357000.0,0.0,357000.0,144000.0,Tiền mặt,Nam,58.0,5.0,Đã hủy,NV042
+DH000960,2024-03-15,Miền Nam,TP.HCM,Cửa hàng,Điện tử,Laptop,13048000.0,4,52192000.0,0.0,52192000.0,0.0,Ví điện tử,Nữ,18.0,2.0,Trả hàng,NV006
+DH000961,2023-11-09,Miền Bắc,Hải Phòng,Đại lý,Thực phẩm,Cà phê,46000.0,8,368000.0,0.0,368000.0,49000.0,Tiền mặt,Nữ,37.0,5.0,Hoàn thành,NV026
+DH000962,2024-08-05,Miền Nam,Cần Thơ,Cửa hàng,Mỹ phẩm,Son môi,248000.0,4,992000.0,10.0,893000.0,87000.0,Tiền mặt,Nữ,30.0,4.0,Đang giao,NV048
+DH000963,2024-09-27,Miền Bắc,Hải Phòng,Đại lý,Thực phẩm,Nước mắm,53000.0,3,159000.0,0.0,159000.0,41000.0,Tiền mặt,Nam,21.0,5.0,Hoàn thành,NV007
+DH000964,2023-03-03,Miền Trung,Đà Nẵng,Đại lý,Thời trang,Quần jean,83000.0,1,83000.0,10.0,75000.0,78000.0,Thẻ tín dụng,Nữ,27.0,4.0,Hoàn thành,NV027
+DH000965,2024-09-16,Miền Bắc,Hải Phòng,Cửa hàng,Gia dụng,Bàn ủi,395000.0,2,790000.0,0.0,790000.0,119000.0,Chuyển khoản,Nữ,29.0,,Hoàn thành,NV017
+DH000966,2023-04-12,Miền Trung,Huế,Đại lý,Thời trang,Áo thun,1079000.0,2,2158000.0,0.0,2158000.0,0.0,Tiền mặt,Nữ,30.0,4.0,Hoàn thành,NV005
+DH000967,2023-08-01,Miền Nam,Cần Thơ,Đại lý,Thực phẩm,Trà xanh,32000.0,5,160000.0,15.0,136000.0,119000.0,Chuyển khoản,Nữ,28.0,5.0,Hoàn thành,NV050
+DH000968,2024-10-02,Miền Bắc,Hà Nội,Cửa hàng,Thực phẩm,Bánh tráng,178000.0,4,712000.0,0.0,712000.0,43000.0,COD,Nữ,35.0,5.0,Hoàn thành,NV029
+DH000969,2023-08-05,Miền Nam,Đồng Nai,Online,Thực phẩm,Cà phê,101000.0,3,303000.0,10.0,273000.0,72000.0,Ví điện tử,Nữ,,5.0,Hoàn thành,NV027
+DH000970,2023-09-28,Miền Trung,Khánh Hòa,Cửa hàng,Gia dụng,Máy xay sinh tố,662000.0,4,2648000.0,10.0,2383000.0,0.0,Tiền mặt,Nam,42.0,5.0,Đang giao,NV016
+DH000971,2024-11-07,Miền Nam,Bình Dương,Đại lý,Mỹ phẩm,Sữa rửa mặt,331000.0,3,993000.0,30.0,695000.0,29000.0,Chuyển khoản,Nữ,27.0,,Hoàn thành,NV049
+DH000972,2023-03-25,Tây Nguyên,Đắk Lắk,Siêu thị,Điện tử,Tai nghe,665000.0,3,1995000.0,0.0,1995000.0,60000.0,Thẻ tín dụng,Nữ,33.0,4.0,Đang giao,NV040
+DH000973,2023-06-10,Miền Nam,Cần Thơ,Online,Văn phòng phẩm,Sổ tay,13000.0,6,78000.0,15.0,66000.0,,Tiền mặt,Nam,57.0,5.0,Hoàn thành,NV025
+DH000974,2023-09-03,Miền Bắc,Hải Phòng,Siêu thị,Thực phẩm,Gạo ST25,119000.0,7,833000.0,0.0,833000.0,84000.0,Chuyển khoản,Nữ,29.0,4.0,Đang giao,NV012
+DH000975,2023-06-27,Miền Bắc,Bắc Ninh,Online,Gia dụng,Máy xay sinh tố,325000.0,7,2275000.0,0.0,2275000.0,0.0,Chuyển khoản,Nam,24.0,5.0,Hoàn thành,NV011
+DH000976,2024-07-19,Miền Bắc,Hải Phòng,Siêu thị,Mỹ phẩm,Kem chống nắng,520000.0,6,3120000.0,15.0,2652000.0,0.0,Tiền mặt,Nữ,22.0,1.0,Hoàn thành,NV012
+DH000977,2023-03-18,Miền Nam,Cần Thơ,Online,Thực phẩm,Gạo ST25,22000.0,5,110000.0,0.0,110000.0,66000.0,Thẻ tín dụng,Nam,21.0,5.0,Đã hủy,NV023
+DH000978,2023-06-10,Miền Bắc,Quảng Ninh,Cửa hàng,Mỹ phẩm,Son môi,68000.0,4,272000.0,0.0,272000.0,141000.0,COD,Nữ,25.0,,Đang giao,NV018
+DH000979,2023-01-03,Miền Trung,Nghệ An,Online,Điện tử,Loa bluetooth,19586000.0,3,58758000.0,15.0,49944000.0,0.0,Thẻ tín dụng,Nữ,25.0,2.0,Hoàn thành,NV030
+DH000980,2024-02-23,Miền Nam,Đồng Nai,Online,Điện tử,Máy tính bảng,1972000.0,5,9860000.0,0.0,9860000.0,0.0,COD,Nữ,,4.0,Hoàn thành,NV030
+DH000981,2024-04-06,Miền Trung,Huế,Online,Gia dụng,Quạt điện,343000.0,2,686000.0,0.0,686000.0,133000.0,Thẻ tín dụng,Nam,18.0,5.0,Hoàn thành,NV005
+DH000982,2024-12-06,Miền Nam,Bình Dương,Đại lý,Mỹ phẩm,Kem chống nắng,682000.0,3,2046000.0,0.0,2046000.0,0.0,Ví điện tử,Nữ,26.0,2.0,Hoàn thành,NV028
+DH000983,2024-08-31,Miền Bắc,Bắc Ninh,Siêu thị,Mỹ phẩm,Son môi,614000.0,5,3070000.0,20.0,2456000.0,0.0,Ví điện tử,Nữ,49.0,5.0,Đã hủy,NV005
+DH000984,2024-04-26,Miền Bắc,Hà Nội,Cửa hàng,Gia dụng,Bàn ủi,953000.0,4,3812000.0,0.0,3812000.0,0.0,Chuyển khoản,Nam,25.0,3.0,Đang giao,NV005
+DH000985,2023-10-26,Miền Nam,Bình Dương,Siêu thị,Thực phẩm,Trà xanh,36000.0,4,144000.0,0.0,144000.0,36000.0,Tiền mặt,Nữ,37.0,2.0,Hoàn thành,NV019
+DH000986,2023-02-03,Miền Trung,Khánh Hòa,Siêu thị,Thời trang,Túi xách,238000.0,3,714000.0,15.0,607000.0,96000.0,Tiền mặt,Nam,41.0,4.0,Đang giao,NV050
+DH000987,2023-08-26,Miền Nam,Đồng Nai,Cửa hàng,Văn phòng phẩm,Giấy A4,18000.0,3,54000.0,15.0,46000.0,109000.0,COD,Nữ,18.0,5.0,Hoàn thành,NV002
+DH000988,2023-10-23,Miền Trung,Huế,Đại lý,Thời trang,Đồng hồ,523000.0,3,1569000.0,0.0,1569000.0,60000.0,Chuyển khoản,Nữ,53.0,5.0,Hoàn thành,NV046
+DH000989,2024-12-24,Miền Bắc,Bắc Ninh,Online,Gia dụng,Bàn ủi,350000.0,4,1400000.0,0.0,1400000.0,149000.0,Thẻ tín dụng,Nữ,18.0,3.0,Hoàn thành,NV034
+DH000990,2023-10-17,Miền Nam,Đồng Nai,Đại lý,Thực phẩm,Nước mắm,55000.0,5,275000.0,0.0,275000.0,27000.0,Thẻ tín dụng,Nam,18.0,5.0,Hoàn thành,NV004
+DH000991,2024-12-20,Miền Nam,Đồng Nai,Đại lý,Thực phẩm,Trà xanh,59000.0,4,236000.0,0.0,236000.0,96000.0,Thẻ tín dụng,Nữ,30.0,3.0,Hoàn thành,NV046
+DH000992,2024-04-09,Miền Nam,Đồng Nai,Online,Thực phẩm,Nước mắm,108000.0,5,540000.0,0.0,540000.0,112000.0,Thẻ tín dụng,Nam,33.0,5.0,Hoàn thành,NV042
+DH000993,2023-03-14,Miền Bắc,Hải Phòng,Siêu thị,Văn phòng phẩm,Giấy A4,22000.0,3,66000.0,10.0,59000.0,34000.0,Chuyển khoản,Nam,46.0,,Hoàn thành,NV023
+DH000994,2024-12-04,Miền Nam,Đồng Nai,Online,Thực phẩm,Bánh tráng,20000.0,5,100000.0,0.0,100000.0,136000.0,Ví điện tử,Nam,44.0,4.0,Trả hàng,NV034
+DH000995,2023-08-28,Miền Trung,Đà Nẵng,Cửa hàng,Văn phòng phẩm,Kẹp giấy,13000.0,4,52000.0,0.0,52000.0,91000.0,Tiền mặt,Nữ,27.0,,Hoàn thành,NV018
+DH000996,2023-09-28,Miền Bắc,Bắc Ninh,Online,Điện tử,Tai nghe,656000.0,3,1968000.0,30.0,1378000.0,145000.0,Ví điện tử,Nữ,,3.0,Trả hàng,NV012
+DH000997,2024-10-02,Tây Nguyên,Lâm Đồng,Siêu thị,Thực phẩm,Cà phê,70000.0,5,350000.0,50.0,175000.0,77000.0,Thẻ tín dụng,Nữ,48.0,5.0,Hoàn thành,NV043
+DH000998,2024-08-26,Miền Bắc,Hà Nội,Đại lý,Gia dụng,Bàn ủi,954000.0,3,2862000.0,0.0,2862000.0,0.0,Tiền mặt,Nam,48.0,5.0,Hoàn thành,NV011
+DH000999,2024-11-08,Tây Nguyên,Lâm Đồng,Đại lý,Gia dụng,Máy xay sinh tố,537000.0,5,2685000.0,0.0,2685000.0,0.0,Tiền mặt,Nữ,37.0,3.0,Hoàn thành,NV040
